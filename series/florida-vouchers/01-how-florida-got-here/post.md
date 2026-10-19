@@ -9,7 +9,7 @@ updated: 2026-10-19
 
 # Post 1 of 12: Florida's 25-year experiment
 
-Draft 6, 19 Oct 2026. Edited to New York Times standards, in chronological order, with side details moved to the notes. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. The image is unchanged: [image.png](image.png).
+Draft 7, 19 Oct 2026. Edited to New York Times standards, in chronological order, with side details moved to the notes. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. The image is unchanged: [image.png](image.png).
 
 ---
 
@@ -35,9 +35,9 @@ The ruling ended the voucher for failing schools, but the case involved only tha
 
 In 2014, lawmakers created a fourth program, the Gardiner Scholarship, a spending account for children with disabilities.
 
-In 2019 came the fifth, the Family Empowerment Scholarship. It was paid from the formula the state uses to fund its public schools. It was aimed at middle- and lower-income families, those earning up to 300 percent of the federal poverty level, and was capped at 18,000 students.
+In 2019 came the fifth, the Family Empowerment Scholarship. Unlike the Tax Credit program, it was paid from the Florida Education Finance Program, the formula that sets how much state and local money each school district receives per student. It was aimed at middle- and lower-income families, those earning up to 300 percent of the federal poverty level, and was capped at 18,000 students.
 
-Two years later, the Legislature began consolidating. In 2021 it raised the income limit for both income-based programs, Tax Credit and Family Empowerment, to 375 percent of the poverty level. It also folded the two disability programs into Family Empowerment, Gardiner that year and McKay the next.
+Two years later, the Legislature began consolidating. In 2021 it raised the income limit for both income-based programs, Tax Credit and Family Empowerment, to 375 percent of the poverty level. It also folded the two disability programs into Family Empowerment, Gardiner that year and McKay the next. That left two programs, which differ mainly in how they are paid for: one by corporate donations the state credits against taxes, the other by the school funding formula.
 
 In March 2023, the Legislature removed the income limits. House Bill 1 passed 83 to 27 in the House and 26 to 12 in the Senate. It made every child eligible to attend a Florida public school eligible for a scholarship, whatever the family's income. Gov. Ron DeSantis signed it on March 27.
 
@@ -97,6 +97,8 @@ Sources for this post, all official records:
 | Signed March 27 | Governor's press release dated March 27, 2023 |
 | FEA quote | FEA release, March 27, 2023, quoting President Andrew Spar, verbatim |
 | 266,703 and $2.0B (2022-23) | Auditor General Tables 2-4: 92,232 + 74,446 + 100,025; $637.3M + $673.5M + $697.7M |
+| FES paid from the FEFP; FEFP defined as the formula that sets state and local money per student | SB 7070 summary: "funded through the FEFP." FL DOE, *Funding for Florida School Districts 2025-26*: the FEFP "bases financial support for education upon the individual student"; funding combines state appropriations and Required Local Effort property taxes |
+| The two remaining programs differ mainly in how they are paid for | OPPAGA 08-68 (FTC: tax-credited donations); SB 7070 (FES: FEFP). "Mainly" because FES also has a disability part (FES-UA) |
 | 2021: income limit for both income-based programs raised to 375% FPL | HB 7045 summary: FTC "increasing the household income limit to 375 [percent] of the federal poverty level"; FES 375% likewise |
 | About one scholarship student per six public students; about $8,000 each | 2,859,600 (NCES CCD 2024-25) / 497,284 = 5.75; $3,978.3M / 497,284 = $8,000 |
 | Simon quote | Governor's press release, March 27, 2023: "we are going to stop funding systems and start funding students" (verified verbatim) |
@@ -113,6 +115,8 @@ Sources for this post, all official records:
 
 These are accurate and sourced. They were moved out of the post because they aren't needed to follow how the programs grew. Use them in replies to comments, or in later posts.
 
+- **The school funding formula (FEFP), briefly.** Florida funds districts through the Florida Education Finance Program. It counts students, weights them by program, and multiplies by a base amount per student ($5,372.60 in 2025-26) and a regional cost factor. The state pays part of the total, and the rest comes from a property tax rate the state requires each district to levy (Required Local Effort, about $10.9 billion statewide in 2025-26). Family Empowerment scholarships are calculated inside the formula and shown as an "Adjustment for Family Empowerment Scholarships." (FL DOE, *Funding for Florida School Districts 2025-26*, https://cdn.fldoe.org/file/7507/Fefpdist.pdf; FEFP 2024-25 Final Calculation.) Full explanation in post 5.
+- **How the two programs work together.** Under HB 1, income-based Family Empowerment scholarships are awarded only after all Tax Credit scholarships are funded, so donated money is used first. (Senate summary of HB 1.) Why Florida keeps two programs isn't stated in any record found so far. A likely reason is that it lets the state draw on both corporate tax credits and the school budget, but that is inference. To research for post 5.
 - **Tax credits as lost revenue.** Of the $3.98 billion, $804.5 million is Tax Credit scholarships. They are funded by corporate donations the state credits against taxes, so their cost shows up as forgone revenue rather than spending, and it never appears in the budget. (Auditor General 2026-046, Table 4; OPPAGA 08-68.) Save this for post 5.
 - **McKay was also paid from the public school formula.** "The program is funded through the Florida Education Finance Program." (Senate Interim Report 2004-130.) So Family Empowerment was not the first program paid that way. It was the first income-based one.
 - **Gardiner enrolled 1,559 students in its first year,** 2014-15. (FL DOE Gardiner Fast Facts.)
@@ -124,6 +128,11 @@ These are accurate and sourced. They were moved out of the post because they are
 ---
 
 ## Editor's notes
+
+**Draft 7 (two clarifications RJ asked for):**
+- The Family Empowerment paragraph now defines the school funding formula in one clause, where it first matters.
+- The 2021 paragraph ends by saying how the two remaining programs differ: how they are paid for.
+- A short explanation of the formula, and of how the two programs work together, went into the notes. Post 5 will cover the formula in full.
 
 **Draft 6 (critical review):**
 - Scale made fair: the $3,525 opening stays, but the post now gives the size relative to public enrollment (about one in six) and the average award (about $8,000) right after the total.
