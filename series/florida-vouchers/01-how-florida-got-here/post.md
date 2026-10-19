@@ -9,7 +9,7 @@ updated: 2026-10-19
 
 # Post 1 of 12: Florida's 25-year experiment
 
-Draft 8, 19 Oct 2026. Edited to New York Times standards, in chronological order, with side details moved to the notes. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. The image is unchanged: [image.png](image.png).
+Draft 9, 19 Oct 2026. Edited to New York Times standards, in chronological order, with side details moved to the notes. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. The image is unchanged: [image.png](image.png).
 
 ---
 
@@ -41,9 +41,9 @@ In 2019 came the fifth, the Family Empowerment Scholarship. Unlike the Tax Credi
 
 In 2021, the Legislature began merging the programs. It folded the two disability programs into Family Empowerment, Gardiner that year and McKay the next. The same law raised the income limit for the two income-based programs, Tax Credit and Family Empowerment, to 375 percent of the poverty level.
 
-That left two programs. The Florida Tax Credit Scholarship was open to children from families under the income limit and was paid for by corporate donations the state credits against taxes. The Family Empowerment Scholarship had two parts: one for children from families under the same income limit, and one for children with disabilities, with no income test. It was paid with state money through the school funding formula, not with local property taxes.
+That left two programs. The Florida Tax Credit Scholarship was open to children from families under the income limit and was paid for by corporate donations the state credits against taxes. The Family Empowerment Scholarship had two parts: one for children from families under the same income limit, and one for children with disabilities, with no income test. It was paid with state money through the school funding formula.
 
-In March 2023, the Legislature removed the income limits. House Bill 1 passed 83 to 27 in the House and 26 to 12 in the Senate. It made every child eligible to attend a Florida public school eligible for a scholarship from either program, whatever the family's income. Gov. Ron DeSantis signed it on March 27.
+In March 2023, the Legislature removed the income limits. House Bill 1 passed 83 to 27 in the House and 26 to 12 in the Senate. It made every child eligible to attend a Florida public school eligible for a scholarship, whatever the family's income. Families apply through a nonprofit scholarship organization, and since 2021 the award has been the same in both income-based programs. What differs is who pays. The law requires every Tax Credit scholarship to be funded, from donations, before income-based Family Empowerment scholarships are awarded from the state budget. Gov. Ron DeSantis signed it on March 27.
 
 Its Senate sponsor, Sen. Corey Simon, put the argument for it plainly: "we are going to stop funding systems and start funding students." The Florida Education Association, the statewide teachers union, said the law "will drain billions of taxpayer dollars away from the neighborhood public schools."
 
@@ -98,13 +98,16 @@ Sources for this post, all official records:
 | Gardiner 2014, 1,559 first-year students; folded in 2021 | FL DOE Fast Facts: 1,559 in 2014-15; "repealed as of July 1, 2021"; HB 7045 |
 | FES 2019: award was 95 percent of the formula's amount for a basic-program student | SB 7070 summary: "95 percent of the funds per FTE in the FEFP for a student in the basic program" |
 | "Whether that money comes out of public schools' share... is disputed" | Sen. Simon and the FEA (quoted later in the post) take opposite positions. The post makes no factual claim either way; post 5 examines it |
-| FES paid with state money, not local property taxes (from 2021) | HB 7045 summary: "Requiring all scholarships to be funded in the FEFP with state funds only, not local funds" |
+| FES paid with state money (from 2021) | HB 7045 summary: "Requiring all scholarships to be funded in the FEFP with state funds only, not local funds" |
 | FES-UA has no income test | HB 7045 summary; Gardiner and McKay, which it replaced, had none |
 | FES 2019: paid from the formula, like McKay and unlike FTC; 18,000 cap; 300% FPL | Senate summary SB 7070: "funded through the FEFP." Senate Interim Report 2004-130: McKay "is funded through the Florida Education Finance Program." OPPAGA 08-68: FTC funded by tax-credited donations |
 | 2021: 375%, disability programs merged | HB 7045 summary |
 | FES 382,841 students, $3.17B in 2024-25 | Auditor General Tables 2-3: 267,413 + 115,428; $2,004.2M + $1,169.6M |
 | HB 1 votes 83-27 House (3/17/2023), 26-12 Senate (3/23/2023) | Florida Senate bill page, floor vote history |
 | HB 1 made any child eligible for public K-12 eligible for FTC and FES, regardless of income | Senate summary HB 1 |
+| Families apply through a nonprofit scholarship organization | OPPAGA 08-68 and HB 7045 summary: scholarship-funding organizations administer FTC and, since 2021, FES (FDOE transfers FES money "to the SFO for quarterly disbursement") |
+| Since 2021, same award in both income-based programs | HB 7045 summary: FES "to 100 percent of the calculated amount"; FTC "to 100 percent of the calculated amount under the FEFP" |
+| FTC funded first, then FES-EO | HB 1 summary: "Requires FES-EO scholarships be awarded once all FTC scholarships have been funded" |
 | Signed March 27 | Governor's press release dated March 27, 2023 |
 | FEA quote | FEA release, March 27, 2023, quoting President Andrew Spar, verbatim |
 | 266,703 and $2.0B (2022-23) | Auditor General Tables 2-4: 92,232 + 74,446 + 100,025; $637.3M + $673.5M + $697.7M |
@@ -127,7 +130,7 @@ Sources for this post, all official records:
 These are accurate and sourced. They were moved out of the post because they aren't needed to follow how the programs grew. Use them in replies to comments, or in later posts.
 
 - **The school funding formula (FEFP), briefly.** Florida funds districts through the Florida Education Finance Program. It counts students, weights them by program, and multiplies by a base amount per student ($5,372.60 in 2025-26) and a regional cost factor. The state pays part of the total, and the rest comes from a property tax rate the state requires each district to levy (Required Local Effort, about $10.9 billion statewide in 2025-26). Family Empowerment scholarships are calculated inside the formula and shown as an "Adjustment for Family Empowerment Scholarships." (FL DOE, *Funding for Florida School Districts 2025-26*, https://cdn.fldoe.org/file/7507/Fefpdist.pdf; FEFP 2024-25 Final Calculation.) Full explanation in post 5.
-- **How the two programs work together.** Under HB 1, income-based Family Empowerment scholarships are awarded only after all Tax Credit scholarships are funded, so donated money is used first. (Senate summary of HB 1.) Why Florida keeps two programs isn't stated in any record found so far. A likely reason is that it lets the state draw on both corporate tax credits and the school budget, but that is inference. To research for post 5.
+- **How the two programs work together.** Under HB 1, income-based Family Empowerment scholarships are awarded only after all Tax Credit scholarships are funded, so donated money is used first. (Senate summary of HB 1.) On Step Up For Students' 2025-26 application, the family picks a program and may apply to only one at a time; Family Empowerment requires the student's Social Security number, and an applicant without one is considered only for Tax Credit. (Step Up training document, a description of the administrator's process, not a legal source: https://go.stepupforstudents.org/hubfs/CR%20External%20Training%202024/_FTC%20FES-EO%20PEP%20New%20Application%20%2025-26%20SY.pdf.) HB 1 also added a second priority group for household incomes between 185 and 400 percent of the poverty level. For the family, the program mostly doesn't matter; for the state, it decides whether the cost is forgone tax revenue or budget spending (post 5). Why Florida keeps two programs isn't stated in any record found so far. A likely reason is that it lets the state draw on both corporate tax credits and the school budget, but that is inference. To research for post 5.
 - **Tax credits as lost revenue.** Of the $3.98 billion, $804.5 million is Tax Credit scholarships. They are funded by corporate donations the state credits against taxes, so their cost shows up as forgone revenue rather than spending, and it never appears in the budget. (Auditor General 2026-046, Table 4; OPPAGA 08-68.) Save this for post 5.
 - **McKay was also paid from the public school formula.** "The program is funded through the Florida Education Finance Program." (Senate Interim Report 2004-130.) So Family Empowerment was not the first program paid that way. It was the first income-based one.
 - **Gardiner enrolled 1,559 students in its first year,** 2014-15. (FL DOE Gardiner Fast Facts.)
@@ -143,6 +146,10 @@ These are accurate and sourced. They were moved out of the post because they are
 ---
 
 ## Editor's notes
+
+**Draft 9 (RJ's two follow-ups):**
+- Dropped "not with local property taxes" from the two-programs paragraph. It needed an explanation of local funding that belongs in post 5.
+- After the HB 1 sentence, added who chooses and whether it matters: families apply through a scholarship organization; since 2021 the award is the same in both income-based programs; the law spends donated Tax Credit money first, then budget money for Family Empowerment. Application details went to the notes.
 
 **Draft 8 (RJ's line-by-line questions):**
 - McKay: the opening now says what the pilot did (let a public school student with a disability take state funding to a private school or another public school), and a new sentence says what happened after it went statewide (1,021 students in 2000-01 to 9,130 in 2002-03).
