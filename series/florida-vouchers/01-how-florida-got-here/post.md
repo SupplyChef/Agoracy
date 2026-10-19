@@ -1,5 +1,5 @@
 ---
-title: "How Florida Went From Vouchers for Failing Schools to Vouchers for Everyone"
+title: "How Florida Went From Vouchers for a Few Children to Vouchers for Every Child"
 series: florida-vouchers
 number: 1
 status: draft
@@ -9,7 +9,7 @@ updated: 2026-10-19
 
 # Post 1 of 12: Florida's 25-year experiment
 
-Draft 9, 19 Oct 2026. Edited to New York Times standards, in chronological order, with side details moved to the notes. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. The image is unchanged: [image.png](image.png).
+Draft 10, 19 Oct 2026. Edited to New York Times standards, in chronological order, with side details moved to the notes. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. The image is unchanged: [image.png](image.png).
 
 ---
 
@@ -17,7 +17,7 @@ Draft 9, 19 Oct 2026. Edited to New York Times standards, in chronological order
 
 Florida vouchers, 1 of 12
 
-How Florida Went From Vouchers for Failing Schools to Vouchers for Everyone
+How Florida Went From Vouchers for a Few Children to Vouchers for Every Child
 
 Over 25 years, the state created five programs. Two remain. They are open to every child, and they are worth nearly $4 billion a year.
 
@@ -29,7 +29,7 @@ Florida calls this aid "scholarships." In other states it would be called vouche
 
 In 2000, lawmakers took the McKay pilot statewide. It grew from 1,021 students that school year to 9,130 two years later, according to the same Senate report.
 
-In 2001, they added a third program, funded in a new way. Under the Tax Credit Scholarship, corporations donate to nonprofit scholarship organizations and receive a state tax credit equal to the donation. Eligibility turned on income alone. Any child from a family poor enough to qualify for free or reduced-price school lunch could apply, if the child was leaving a public school or starting kindergarten or first grade. There was no disability or failing-school requirement.
+In 2001, they added a third program, funded in a new way. Under the Tax Credit Scholarship, corporations donate to nonprofit scholarship organizations and receive a state tax credit equal to the donation. Eligibility turned on income, not on disability or a school's rating. Any child from a family poor enough to qualify for free or reduced-price school lunch could apply, if the child was leaving a public school or starting kindergarten or first grade.
 
 The voucher for failing schools did not last. In January 2006, the Florida Supreme Court ruled 5 to 2 that its private-school option violated the State Constitution, which requires "a uniform, efficient, safe, secure, and high quality system of free public schools." The majority read that clause as making public schools the way the state must educate children, and found that voucher schools were held to different rules: they could hire teachers without bachelor's degrees and did not have to teach the subjects public schools must. Chief Justice Barbara J. Pariente wrote that the program "diverts public dollars into separate private systems parallel to and in competition with the free public schools." In dissent, Justice Kenneth B. Bell wrote that the Constitution "does not forbid the Legislature from enacting a well-delineated program" of this kind.
 
@@ -43,15 +43,15 @@ In 2021, the Legislature began merging the programs. It folded the two disabilit
 
 That left two programs. The Florida Tax Credit Scholarship was open to children from families under the income limit and was paid for by corporate donations the state credits against taxes. The Family Empowerment Scholarship had two parts: one for children from families under the same income limit, and one for children with disabilities, with no income test. It was paid with state money through the school funding formula.
 
-In March 2023, the Legislature removed the income limits. House Bill 1 passed 83 to 27 in the House and 26 to 12 in the Senate. It made every child eligible to attend a Florida public school eligible for a scholarship, whatever the family's income. Families apply through a nonprofit scholarship organization, and since 2021 the award has been the same in both income-based programs. What differs is who pays. The law requires every Tax Credit scholarship to be funded, from donations, before income-based Family Empowerment scholarships are awarded from the state budget. Gov. Ron DeSantis signed it on March 27.
+In March 2023, the Legislature removed the income limits. House Bill 1 passed 83 to 27 in the House and 26 to 12 in the Senate, and Gov. Ron DeSantis signed it on March 27. It made every child eligible to attend a Florida public school eligible for a scholarship, whatever the family's income.
 
-Its Senate sponsor, Sen. Corey Simon, put the argument for it plainly: "we are going to stop funding systems and start funding students." The Florida Education Association, the statewide teachers union, said the law "will drain billions of taxpayer dollars away from the neighborhood public schools."
+Families apply through a nonprofit scholarship organization, and since 2021 the award has been the same in both income-based programs. What differs is who pays. The law requires every Tax Credit scholarship to be funded, from donations, before income-based Family Empowerment scholarships are awarded from the state budget.
+
+The bill's Senate sponsor, Sen. Corey Simon, put the argument for it plainly: "we are going to stop funding systems and start funding students." The Florida Education Association, the statewide teachers union, said the law "will drain billions of taxpayer dollars away from the neighborhood public schools."
 
 Within two years, enrollment nearly doubled. The auditor general counted 266,703 scholarship students and $2.0 billion in 2022-23, and 497,284 students and $3.98 billion in 2024-25.
 
-No single vote created Florida's universal system. Each of the five programs began with limited eligibility, defined by disability, family income or a school's rating. Over 24 years, the limits were widened, the programs were merged, and finally the limits were removed.
-
-Supporters see that path as lawmakers responding, step by step, to parents who wanted more options. Critics see a program sold as a rescue for children in failing schools that became something much larger.
+Supporters see Florida's path as lawmakers responding, step by step, to parents who wanted more options. Critics see narrow programs, created for children with particular needs, that grew into a large system paid for with money that would otherwise go to public schools.
 
 What the record does not show is how many of today's scholarship students would have gone to private school anyway. That question is central to what the programs cost, and it is the subject of the next post.
 
@@ -116,8 +116,7 @@ Sources for this post, all official records:
 | 2021: income limit for both income-based programs raised to 375% FPL | HB 7045 summary: FTC "increasing the household income limit to 375 [percent] of the federal poverty level"; FES 375% likewise |
 | About one scholarship student per six public students; about $8,000 each | 2,859,600 (NCES CCD 2024-25) / 497,284 = 5.75; $3,978.3M / 497,284 = $8,000 |
 | Simon quote | Governor's press release, March 27, 2023: "we are going to stop funding systems and start funding students" (verified verbatim) |
-| "Supporters see... / Critics see..." | Summarizes the two sides' stated positions (Simon, Passidomo and Renner in the governor's release; FEA statement). Not a factual claim |
-| "Each of the five programs began with limited eligibility" | Opportunity: school rating. McKay and Gardiner: disability. Tax Credit: free or reduced-price lunch. FES: 300% FPL. All sourced above |
+| "Supporters see... / Critics see..." | Summarizes the two sides' stated positions: Simon, Passidomo and Renner in the governor's release; the FEA statement ("drain billions of taxpayer dollars away from the neighborhood public schools"). Not a factual claim. Every program began with limited eligibility (Opportunity: school rating; McKay and Gardiner: disability; Tax Credit: free or reduced-price lunch; FES: 300% FPL), sourced above |
 
 **Caveats:**
 - The museum page is a state-run educational source rather than a legislative record. Bush's role in proposing the program is well documented; the 1999 enactment itself is confirmed by the court opinion.
@@ -146,6 +145,13 @@ These are accurate and sourced. They were moved out of the post because they are
 ---
 
 ## Editor's notes
+
+**Draft 10 (final read, agreed with RJ):**
+- New headline. The old one said Florida went "from vouchers for failing schools," but the post shows the failing-schools voucher ended in 2006 and the current programs grew from the others.
+- Critics' line rewritten. The old one ("sold as a rescue for children in failing schools") had the same problem and no source. The new one follows the union's stated argument.
+- Tax Credit eligibility: "income alone" contradicted the next sentence's school condition. It now says eligibility turned on income, not disability or a school's rating.
+- House Bill 1 paragraph split in two: the vote and what it did, then how families apply and who pays.
+- Cut the "No single vote" paragraph, which repeated the story. Its eligibility list moved to the fact-check table. Two references that pointed back to it or to House Bill 1 ("Its Senate sponsor", "that path") were made explicit.
 
 **Draft 9 (RJ's two follow-ups):**
 - Dropped "not with local property taxes" from the two-programs paragraph. It needed an explanation of local funding that belongs in post 5.
