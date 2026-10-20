@@ -128,7 +128,7 @@ Sources for this post:
 **Draft 5 (RJ: link to post 1; keep the post on recipients):**
 - The Tax Credit Scholarship is now introduced as the older of the two programs post 1 described, not as the "largest," since Family Empowerment has been larger since 2022-23. The summary line says "oldest voucher program still running."
 - The cost explanation (why a public school student adds no new cost and a private school student does) moved to the notes for post 5. The House staff estimate stays, as an expectation about who would take scholarships.
-- About 610 words.
+- About 630 words.
 
 **Draft 4 (RJ: still hard to parse; keep it simple):**
 - Rewritten in short, literal sentences, about one idea each.
