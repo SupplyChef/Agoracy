@@ -39,7 +39,7 @@ The Florida Policy Institute, a research group that opposed the law, pointed to 
 
 Both numbers are correct. In its first year, the law moved few children out of public schools. Most new scholarships went to children who were already in private school, whose families had been paying for it without a state scholarship.
 
-The children who do leave public schools have changed, too. A 2025 study for the state by Florida State University looked at students who left public schools in 2023-24 for one of the state's scholarships. They were less likely to be poor than the students who stayed. Of the students who left, 42 percent qualified for free or reduced-price lunch. Of those who stayed, 52 percent did. Test scores were about the same for both groups.
+The children who do leave public schools have changed, too. A 2025 study for the state by Florida State University looked at students who left public schools in 2023-24 for one of the state's scholarships. They were less likely to be poor than the students who stayed. Of the students who left, 42 percent qualified for free or reduced-price lunch. Of those who stayed, 52 percent did. Test scores were about the same for both groups. The state study did not say why. In a 2025 survey by Step Up, families who won a scholarship but did not use it most often cited no open seat at the school they wanted, tuition or fees beyond the scholarship, and transportation.
 
 In 2007-08, a typical new scholarship student was a poor child leaving a public school. In 2023, a typical new scholarship student was already in a private school. A later post looks at what that change costs the state. The next post looks at two other ways families leave traditional public schools: charter schools, which are public but run independently, and home schooling.
 
@@ -60,6 +60,7 @@ Sources for this post:
 7. Who left public schools for a Family Empowerment Scholarship in 2023-24: Florida State University Learning Systems Institute, "Evaluation of the Family Empowerment Scholarship for Educational Options Program: Participation, Compliance and Test Scores in 2023-24," June 2025, for the Florida Department of Education. https://origin.fldoe.org/file/5606/FES-Report2024.pdf
 8. Scholarship students, 2022-23 and 2024-25: Florida Auditor General Report 2026-046, Tables 2-4. https://flauditor.gov/pages/pdf_files/2026-046.pdf
 9. Private school enrollment: Florida Department of Education, "Florida's Private Schools, 2024-25 School Year Annual Report." https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2025.pdf
+10. Why some families who won a scholarship did not use it: Step Up For Students survey, "Going with Plan B," July 2025, as described by the Thomas B. Fordham Institute, July 31, 2025. https://fordhaminstitute.org/national/commentary/why-tens-thousands-florida-families-didnt-use-their-private-school-scholarships
 
 ---
 
@@ -88,6 +89,8 @@ Sources for this post:
 | FSU evaluation, 2025, new FES students who left public schools in 2023-24 vs those who stayed | FSU LSI report, June 2025, p. 14: "new FES participants for whom we could successfully link FES data with prior public-school records" (8,956 students), compared with public school students |
 | 41.5% vs 51.9% free or reduced-price lunch (post rounds to 42 and 52) | FSU LSI, Figure 6; p. 15: "a smaller proportion of new FES students qualified for free or reduced lunch (41.5%) compared to eligible non-participants (51.9%)" |
 | More white; more from A schools; test scores about the same | Figure 6: white 42.3% vs 34.4%. Figure 7: A-rated schools 41.7% vs 33.4%. P. 15: "slightly higher achievement in math and English Language Arts"; Figure 6 percentiles: math 54.4 vs 54.3, ELA 55.5 vs 54.3 |
+| "The state study did not say why" | FSU LSI 2025 reports the income gap with no explanation |
+| 2025 Step Up survey: no open seat, tuition or fees beyond the scholarship, transportation most cited | Step Up survey of 2024-25 awardees who did not use the scholarship, 2,739 responses: no available seat 34.7%, tuition not covered 19.7%, fees 19.6%, transportation just under 10%, as described by Fordham (Jeff Murray, July 31, 2025). Advocate's survey, not broken down by income; attributed to Step Up in the sentence. Step Up's own report still to read |
 | Comparison groups (not in the post text; see notes) | Figlio: subsidized-meal public students. FSU: public school students generally (all eligible after HB 1) |
 | Scholarship students up 230,581 from 2022-23 to 2024-25 | Auditor General 2026-046: 266,703 (2022-23) and 497,284 (2024-25). 497,284 − 266,703 = 230,581 |
 | Private school enrollment up 51,452 | FL DOE Private Schools Annual Report 2024-25: 445,067 (2022-23) and 496,519 (2024-25). 496,519 − 445,067 = 51,452 |
@@ -127,6 +130,7 @@ Sources for this post:
 ## Editor's notes
 
 **Draft 6 (RJ's line edits):**
+- Added, at RJ's request, two sentences on why poorer children may use scholarships less: the state study gives no reason; Step Up's 2025 survey of families who did not use an awarded scholarship. Source 10 added.
 - Removed the sentence opening "So". The 2009 study now carries the point directly.
 - Step Up's rhetorical question became a plain statement of its argument, quoting only "exodus".
 - Same rule applied elsewhere: "And the child had to be..." became "The child also had to be..."
