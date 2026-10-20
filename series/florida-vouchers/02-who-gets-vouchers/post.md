@@ -9,7 +9,7 @@ updated: 2026-10-20
 
 # Post 2 of 12: Who gets vouchers, and where were they before?
 
-Draft 4, 20 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 5, 20 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -19,9 +19,9 @@ Florida vouchers, 2 of 12
 
 Who Gets Florida's Vouchers, and Where Were They Before?
 
-Florida's main voucher program was built for poor children leaving public schools. In 2023, the first year vouchers were open to every child, most new recipients were children already in private school.
+Florida's oldest voucher program still running was built for poor children leaving public schools. In 2023, the first year vouchers were open to every child, most new recipients were children already in private school.
 
-Florida calls its vouchers "scholarships." For most of the past 20 years, its largest program was the Tax Credit Scholarship. Companies donate to nonprofit groups that award the scholarships, and the state gives the companies a tax credit for the donation.
+Florida calls its vouchers "scholarships." As the first post in this series described, two programs remain today: the Tax Credit Scholarship and the Family Empowerment Scholarship. The Tax Credit Scholarship is the older one. It began in 2001. Companies donate to nonprofit groups that award the scholarships, and the state gives the companies a tax credit for the donation.
 
 In the program's early years, a child had to meet two rules. The family had to be poor enough for free or reduced-price school lunch. And the child had to be leaving a public school or starting kindergarten or first grade. That is according to OPPAGA, the Florida Legislature's research office.
 
@@ -29,9 +29,7 @@ So the program served mostly poor children from public schools. A 2009 study for
 
 In March 2023, the Legislature passed House Bill 1. It made any child who could enroll in a Florida public school eligible for a scholarship. The child did not need to attend a public school. A child already in private school qualified, whatever the family's income.
 
-This mattered for the state budget. The state already pays for every public school student. If a public school student takes a scholarship, the state pays for the scholarship instead. If a private school student takes a scholarship, the state pays for a child it was not paying for before.
-
-The staff of a Florida House budget committee made this point when they reviewed the bill in February 2023. They said students leaving public schools would cost the state nothing new. Students already in private school would. The staff expected about 58,000 of them in the first year.
+Before the vote, the staff of a Florida House budget committee estimated how many children already in private school would take a scholarship in the first year. Their answer was about 58,000.
 
 In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted the new students. There were 122,895. Of those, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
 
@@ -69,9 +67,9 @@ Sources for this post:
 
 | Claim in the post | Source and what it says |
 |---|---|
-| Tax Credit Scholarship was the main (largest) program for most of the past two decades; funded by tax-credited corporate donations | Project spreadsheet from Senate, OPPAGA and Auditor General counts: largest program from 2007-08 (21,493 vs McKay 19,852) through 2021-22 (85,612 vs FES-EO 77,141, House PKA analysis pp. 4, 11). Funding: OPPAGA 08-68 |
+| Tax Credit Scholarship is the oldest program still running; began 2001; two programs remain (Tax Credit and Family Empowerment); funded by tax-credited corporate donations | Post 1 and its sources: Opportunity Scholarship ended 2006; McKay (1999) and Gardiner merged into Family Empowerment (2019) in 2021-22 (HB 7045). Tax Credit created 2001 and funding mechanism: OPPAGA 08-68 |
 | Passed March 2023 | Florida Senate bill history: House 3/17/2023, Senate 3/23/2023 |
-| A public school student who switches: the state pays for the scholarship instead of the public school seat | House PKA analysis pp. 20-21 (no fiscal impact for students leaving public school, who are already funded in the FEFP). For Tax Credit students the money is tax-credited donations rather than appropriations; the post simplifies to "the state pays" (explained in post 1 and post 5) |
+| (Draft 4 only, now in notes) A public school student who switches: the state pays for the scholarship instead of the public school seat | House PKA analysis pp. 20-21 (no fiscal impact for students leaving public school, who are already funded in the FEFP). For Tax Credit students the money is tax-credited donations rather than appropriations; the post simplifies to "the state pays" (explained in post 1 and post 5) |
 | Staff of a House budget committee, February 2023; students leaving public schools "would cost the state nothing new" (paraphrase) | The analysis is by the House PreK-12 Appropriations Subcommittee, posted Feb. 24, 2023 |
 | Step Up's point: public schools lost far fewer students than opponents predicted | Paraphrase of Step Up's question ("as critics forecast"), attributed to Step Up as its argument |
 | 2009 report by Figlio, hired by the state, on 2007-08 entrants; comparison with low-income children who stayed in public school | Figlio 2009, title page dated June 16, 2009; posted by FL DOE. Comparison group: students who "spent the prior year in Florida public schools and received subsidized school meals" |
@@ -81,8 +79,8 @@ Sources for this post:
 | Early eligibility: free or reduced-price lunch, and leaving public school or entering K/1 | OPPAGA 08-68 (also cited in post 1): free or reduced-price lunch eligibility plus public school attendance the prior year, a scholarship the prior year (renewals), or entry into kindergarten or first grade |
 | HB 1 opened both programs to every child eligible for public school, whatever income | Senate summary of HB 1; House PKA analysis pp. 6-7 and 14: "any student who is a resident of Florida and is eligible to enroll in kindergarten through grade 12 in a public school" |
 | Included children already in private school | House PKA analysis p. 21 counts private school students without a scholarship as newly eligible |
-| House staff expected about 58,000 private school students to take a scholarship in year one (from about 116,600 eligible, half assumed to take one) | House PKA analysis p. 21: enrollment in participating private schools estimated at 327,653 for 2023-24, "reduced by 211,023" for renewals; text says 116,603, table says 116,630 (rounded to "about 116,600" in the post); 50 percent participation; "58,315 private school students would be awarded a new FES-EO scholarship" (43,408 funded as FTC and 14,907 as FES-EO) |
-| Public school switchers add no new cost; private school students do ("spelled out why"; "counted them as new spending") | House PKA analysis pp. 20-21: students leaving public school for a scholarship are already funded in the FEFP, so no fiscal impact; the cost estimate counts private school students only. Paraphrased, not quoted |
+| Before the vote, House budget committee staff estimated about 58,000 private school students to take a scholarship in year one (from about 116,600 eligible, half assumed to take one) | House PKA analysis p. 21: enrollment in participating private schools estimated at 327,653 for 2023-24, "reduced by 211,023" for renewals; text says 116,603, table says 116,630 (rounded to "about 116,600" in the post); 50 percent participation; "58,315 private school students would be awarded a new FES-EO scholarship" (43,408 funded as FTC and 14,907 as FES-EO) |
+| (Draft 4 only, now in notes) Public school switchers add no new cost; private school students do | House PKA analysis pp. 20-21: students leaving public school for a scholarship are already funded in the FEFP, so no fiscal impact; the cost estimate counts private school students only. Paraphrased, not quoted |
 | 122,895 new; 84,505 (69%) private; 22,294 kindergarten; 16,096 (13%) public; September 2023 | Step Up For Students report, data as of Sept. 8, 2023, as reported by News Service of Florida (Ryan Dailey), Sept. 15, 2023. Arithmetic: 84,505 + 22,294 + 16,096 = 122,895. 84,505 / 122,895 = 68.8%; 16,096 / 122,895 = 13.1%; 22,294 / 122,895 = 18.1% |
 | Income: 44% below 185% FPL (about $55,000 for four); 27% above 400% (about $120,000) or no income reported | Same article: "27% ... from households above 400% of the federal poverty level ($120,000 for a family of four) or did not submit income information"; 44% below 185% ($55,000); 29% between |
 | Step Up quote | Same article, quoting the Step Up report: "Does 16,096 represent an 'exodus' from the public schools as critics forecast" |
@@ -107,6 +105,8 @@ Sources for this post:
 
 ## Notes: details kept out of the main text
 
+- **Why a recipient's previous school matters to the state's costs (moved from draft 4, for post 5).** The state already pays for every public school student through the school funding formula. If a public school student takes a scholarship, the state pays for the scholarship instead. If a child already in private school takes one, the state pays for a child it was not paying for before. House PreK-12 Appropriations Subcommittee staff, in their February 2023 analysis of HB 1, counted no new cost for students leaving public schools and counted private school students as new spending (pp. 20-21).
+- **Which program is bigger.** The Tax Credit Scholarship was the largest program from 2007-08 to 2021-22. Family Empowerment became larger in 2022-23 and in 2024-25 had 382,841 students to Tax Credit's 114,443 (Auditor General 2026-046). The post avoids "largest" to stay consistent with post 1.
 - **Family income, fall 2023 (moved from draft 1).** Of all scholarship students that fall, 44 percent came from households below 185 percent of the federal poverty level (about $55,000 for a family of four), 29 percent from 185 to 400 percent, and 27 percent above 400 percent (about $120,000) or did not report income. (Step Up, via News Service of Florida.)
 - **Enrollment counts, 2022-23 to 2024-25 (moved from draft 1).** Scholarship students rose by 230,581 (Auditor General 2026-046); private school enrollment rose by 51,452 (FL DOE annual survey). The counts are measured differently: the scholarship count includes some home-education (PEP) students and anyone funded during the year; the survey is a snapshot. The gap hints that much of the growth came from families already paying for private school, but it is our arithmetic, not an official finding. Possible material for post 5.
 - **The two studies used different comparison groups.** Figlio compared participants with public school students who received subsidized meals; the FSU study compared them with public school students generally, because after HB 1 everyone was eligible. FSU also excluded students with disabilities eligible for McKay and covered only the 8,956 new students it could link to public school records.
@@ -124,6 +124,11 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 5 (RJ: link to post 1; keep the post on recipients):**
+- The Tax Credit Scholarship is now introduced as the older of the two programs post 1 described, not as the "largest," since Family Empowerment has been larger since 2022-23. The summary line says "oldest voucher program still running."
+- The cost explanation (why a public school student adds no new cost and a private school student does) moved to the notes for post 5. The House staff estimate stays, as an expectation about who would take scholarships.
+- About 610 words.
 
 **Draft 4 (RJ: still hard to parse; keep it simple):**
 - Rewritten in short, literal sentences, about one idea each.
