@@ -9,7 +9,7 @@ updated: 2026-10-20
 
 # Post 2 of 12: Who gets vouchers, and where were they before?
 
-Draft 5, 20 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 6, 20 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -25,7 +25,7 @@ Florida calls its vouchers "scholarships." As the first post in this series desc
 
 In the program's early years, a child had to meet two rules. The family had to be poor enough for free or reduced-price school lunch. And the child had to be leaving a public school or starting kindergarten or first grade. That is according to OPPAGA, the Florida Legislature's research office.
 
-So the program served mostly poor children from public schools. A 2009 study for the state Department of Education confirmed it. The author, David N. Figlio, an economist then at the University of Florida, looked at students who joined in 2007-08. He compared them with low-income children who stayed in public school. The scholarship students were poorer. They had lower test scores. More of them came from schools the state rated poorly.
+A 2009 study for the state Department of Education showed that the program mostly served poor children from public schools. The author, David N. Figlio, an economist then at the University of Florida, looked at students who joined in 2007-08. He compared them with low-income children who stayed in public school. The scholarship students were poorer. They had lower test scores. More of them came from schools the state rated poorly.
 
 In March 2023, the Legislature passed House Bill 1. It made any child who could enroll in a Florida public school eligible for a scholarship. The child did not need to attend a public school. A child already in private school qualified, whatever the family's income.
 
@@ -33,7 +33,7 @@ Before the vote, the staff of a Florida House budget committee estimated how man
 
 In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted the new students. There were 122,895. Of those, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
 
-Each side pointed to a different number. Step Up supports the program. It pointed to the 16,096 students from public schools. It asked whether that was "an 'exodus' from the public schools as critics forecast." Step Up's point was that public schools lost fewer students than the program's opponents had predicted.
+Each side pointed to a different number. Step Up, which supports the program, pointed to the 16,096 students who left public schools. Its report argued that this was far from the "exodus" from public schools that critics had forecast.
 
 The Florida Policy Institute, a research group that opposed the law, pointed to the 84,505 students already in private school. It said the "money is going to subsidize tuition that families were already paying."
 
@@ -83,7 +83,7 @@ Sources for this post:
 | (Draft 4 only, now in notes) Public school switchers add no new cost; private school students do | House PKA analysis pp. 20-21: students leaving public school for a scholarship are already funded in the FEFP, so no fiscal impact; the cost estimate counts private school students only. Paraphrased, not quoted |
 | 122,895 new; 84,505 (69%) private; 22,294 kindergarten; 16,096 (13%) public; September 2023 | Step Up For Students report, data as of Sept. 8, 2023, as reported by News Service of Florida (Ryan Dailey), Sept. 15, 2023. Arithmetic: 84,505 + 22,294 + 16,096 = 122,895. 84,505 / 122,895 = 68.8%; 16,096 / 122,895 = 13.1%; 22,294 / 122,895 = 18.1% |
 | Income: 44% below 185% FPL (about $55,000 for four); 27% above 400% (about $120,000) or no income reported | Same article: "27% ... from households above 400% of the federal poverty level ($120,000 for a family of four) or did not submit income information"; 44% below 185% ($55,000); 29% between |
-| Step Up quote | Same article, quoting the Step Up report: "Does 16,096 represent an 'exodus' from the public schools as critics forecast" |
+| Step Up's argument; "exodus" | Same article, quoting the Step Up report: "Does 16,096 represent an 'exodus' from the public schools as critics forecast". The post paraphrases the rhetorical question as an argument and quotes only the word "exodus" |
 | FPI quote | Same article, quoting FPI's statement: "money is going to subsidize tuition that families were already paying, an average of $8,000" |
 | FSU evaluation, 2025, new FES students who left public schools in 2023-24 vs those who stayed | FSU LSI report, June 2025, p. 14: "new FES participants for whom we could successfully link FES data with prior public-school records" (8,956 students), compared with public school students |
 | 41.5% vs 51.9% free or reduced-price lunch (post rounds to 42 and 52) | FSU LSI, Figure 6; p. 15: "a smaller proportion of new FES students qualified for free or reduced lunch (41.5%) compared to eligible non-participants (51.9%)" |
@@ -105,6 +105,7 @@ Sources for this post:
 
 ## Notes: details kept out of the main text
 
+- **Why poorer children don't use scholarships more: what we know.** The 2025 FSU evaluation reports the income gap but gives no reason for it. The closest evidence is a survey by Step Up For Students (Ron Matus and Dava Cherry, "Going with Plan B," July 2025) of families awarded a scholarship for 2024-25 who did not use it: about 41,000 such families; 32,000 emailed; 2,739 responses. Reasons: no available seat at the preferred school (34.7%), scholarship (about $8,000) did not cover tuition (19.7%), worry about fees beyond tuition (19.6%), lack of transportation (just under 10%), school too far (5.8%). 40% of respondents who reported income were below 185% of the poverty level. Source here is Fordham Institute commentary by Jeff Murray, July 31, 2025 (https://fordhaminstitute.org/national/commentary/why-tens-thousands-florida-families-didnt-use-their-private-school-scholarships); the Step Up report itself still to read. Limits: an advocate's survey, low response rate, not broken down by income, and about families who were awarded but didn't enroll, not about who applies.
 - **Why a recipient's previous school matters to the state's costs (moved from draft 4, for post 5).** The state already pays for every public school student through the school funding formula. If a public school student takes a scholarship, the state pays for the scholarship instead. If a child already in private school takes one, the state pays for a child it was not paying for before. House PreK-12 Appropriations Subcommittee staff, in their February 2023 analysis of HB 1, counted no new cost for students leaving public schools and counted private school students as new spending (pp. 20-21).
 - **Which program is bigger.** The Tax Credit Scholarship was the largest program from 2007-08 to 2021-22. Family Empowerment became larger in 2022-23 and in 2024-25 had 382,841 students to Tax Credit's 114,443 (Auditor General 2026-046). The post avoids "largest" to stay consistent with post 1.
 - **Family income, fall 2023 (moved from draft 1).** Of all scholarship students that fall, 44 percent came from households below 185 percent of the federal poverty level (about $55,000 for a family of four), 29 percent from 185 to 400 percent, and 27 percent above 400 percent (about $120,000) or did not report income. (Step Up, via News Service of Florida.)
@@ -124,6 +125,10 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 6 (RJ's line edits):**
+- Removed the sentence opening "So". The 2009 study now carries the point directly.
+- Step Up's rhetorical question became a plain statement of its argument, quoting only "exodus".
 
 **Draft 5 (RJ: link to post 1; keep the post on recipients):**
 - The Tax Credit Scholarship is now introduced as the older of the two programs post 1 described, not as the "largest," since Family Empowerment has been larger since 2022-23. The summary line says "oldest voucher program still running."
