@@ -23,7 +23,7 @@ Florida's oldest voucher program still running was built for poor children leavi
 
 Florida calls its vouchers "scholarships." As the first post in this series described, two programs remain today: the Tax Credit Scholarship and the Family Empowerment Scholarship. The Tax Credit Scholarship is the older one. It began in 2001. Companies donate to nonprofit groups that award the scholarships, and the state gives the companies a tax credit for the donation.
 
-In the program's early years, a child had to meet two rules. The family had to be poor enough for free or reduced-price school lunch. And the child had to be leaving a public school or starting kindergarten or first grade. That is according to OPPAGA, the Florida Legislature's research office.
+In the program's early years, a child had to meet two rules. The family had to be poor enough for free or reduced-price school lunch. The child also had to be leaving a public school or starting kindergarten or first grade. That is according to OPPAGA, the Florida Legislature's research office.
 
 A 2009 study for the state Department of Education showed that the program mostly served poor children from public schools. The author, David N. Figlio, an economist then at the University of Florida, looked at students who joined in 2007-08. He compared them with low-income children who stayed in public school. The scholarship students were poorer. They had lower test scores. More of them came from schools the state rated poorly.
 
@@ -129,6 +129,7 @@ Sources for this post:
 **Draft 6 (RJ's line edits):**
 - Removed the sentence opening "So". The 2009 study now carries the point directly.
 - Step Up's rhetorical question became a plain statement of its argument, quoting only "exodus".
+- Same rule applied elsewhere: "And the child had to be..." became "The child also had to be..."
 
 **Draft 5 (RJ: link to post 1; keep the post on recipients):**
 - The Tax Credit Scholarship is now introduced as the older of the two programs post 1 described, not as the "largest," since Family Empowerment has been larger since 2022-23. The summary line says "oldest voucher program still running."
