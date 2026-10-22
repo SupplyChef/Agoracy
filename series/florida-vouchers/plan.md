@@ -135,4 +135,4 @@ Raised by RJ, or common in the voucher debate. Each one goes into an existing po
 8. **Post-2023 cost studies,** administrative fees and tuition changes (post 5).
 9. **Who uses vouchers now:** income, race, region, prior school, rural access (post 2).
 
-Posts 1, 2, 5, 6 and 7 can be written now from what we have, with the gaps noted in "What we don't know". Post 1 is drafted: [01-how-florida-got-here/post.md](01-how-florida-got-here/post.md). Post 2 is drafted: [02-who-gets-vouchers/post.md](02-who-gets-vouchers/post.md).
+Posts 1, 2, 5, 6 and 7 can be written now from what we have, with the gaps noted in "What we don't know". Post 1 is drafted: [01-how-florida-got-here/post.md](01-how-florida-got-here/post.md). Post 2 is drafted: [02-who-gets-vouchers/post.md](02-who-gets-vouchers/post.md). Post 3 is drafted: [03-charters-and-home-schooling/post.md](03-charters-and-home-schooling/post.md).

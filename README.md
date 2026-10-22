@@ -20,4 +20,4 @@ Each `post.md` starts with front matter (title, series, number, status, image, u
 
 ## Series
 
-- [Florida's voucher programs](series/florida-vouchers/plan.md): a 12-post series for legislators in other states. Post 1: [How Florida Went From Vouchers for a Few Children to Vouchers for Every Child](series/florida-vouchers/01-how-florida-got-here/post.md). Post 2 (draft): [Who Gets Florida's Vouchers, and Where Were They Before?](series/florida-vouchers/02-who-gets-vouchers/post.md).
+- [Florida's voucher programs](series/florida-vouchers/plan.md): a 12-post series for legislators in other states. Post 1: [How Florida Went From Vouchers for a Few Children to Vouchers for Every Child](series/florida-vouchers/01-how-florida-got-here/post.md). Post 2 (draft): [Who Gets Florida's Vouchers, and Where Were They Before?](series/florida-vouchers/02-who-gets-vouchers/post.md). Post 3 (draft): [Charter Schools and Home Schooling](series/florida-vouchers/03-charters-and-home-schooling/post.md).

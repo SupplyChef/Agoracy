@@ -1,0 +1,124 @@
+---
+title: "Charter Schools and Home Schooling: Florida's Other Ways Out"
+series: florida-vouchers
+number: 3
+status: draft
+image: image.png
+updated: 2026-10-22
+---
+
+# Post 3 of 12: Charter schools and home schooling
+
+Draft 1, 22 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+
+---
+
+## Post text (paste as is)
+
+Florida vouchers, 3 of 12
+
+Charter Schools and Home Schooling: Florida's Other Ways Out
+
+Vouchers are one of three ways Florida families leave district-run public schools. The other two are charter schools and home schooling. Each comes with its own rules. In 2023, the state began paying for home schooling for any child.
+
+The second post in this series looked at who uses Florida's vouchers. This post looks at the other two choices.
+
+Florida authorized charter schools in 1996. Five opened that school year, serving about 600 students, according to a 2004 Florida Senate report. A charter school is a public school. It charges no tuition. A nonprofit group runs it under a contract with the school district, and the state pays for its students through the same formula it uses for other public schools.
+
+Charter schools are exempt from most of the state's laws for public schools. They are not exempt from its tests. Charter students take the same state exams as other public school students, and each charter school gets a state grade from A to F. Under state law, a charter school that earns two F grades in a row loses its contract, with a few exceptions.
+
+Charter schools grew steadily. More than 400,000 students now attend about 740 of them, according to the state Department of Education.
+
+Home schooling has its own rules. A family must notify the school district, keep a portfolio of the child's work for two years, and have the child evaluated once a year, according to the Department of Education. The number of home-schooled children rose from 84,096 in 2014-15 to 143,431 in 2020-21, during the pandemic. In 2024-25 it was 152,871.
+
+Before 2023, the only state scholarship that could pay for home schooling was the one for children with disabilities. House Bill 1, the 2023 law that opened vouchers to every child, changed that. It created a scholarship for home-schooled children called the Personalized Education Program. Families get an account they can spend on curriculum, tutoring, online classes and similar costs. The money comes through the Tax Credit Scholarship.
+
+The law capped the program at 20,000 students in its first year and allowed 40,000 more each year after that. Step Up For Students, the nonprofit that runs it, reported 59,925 students in 2024-25 and 78,617 in 2025-26.
+
+Children in the program follow their own rules. Parents must file a learning plan each year. The child must take a nationally normed test from a state-approved list. The results go to the scholarship organization, which reports them to a state university.
+
+Side by side, the rules follow the setting. Charter schools take the state's tests, get a state grade and can be closed. Private schools that take vouchers give a nationally normed test from a state list, or the state test, and an evaluator at Florida State University reports the results. Other home-schooled children are evaluated once a year, and the results go to the school district. Children in the new home-schooling program take a normed test, and the results go to the scholarship organization.
+
+Supporters and opponents read these choices differently. Sen. Don Gaetz, a Republican and former school superintendent, defended a 2025 bill to let parents convert a public school into a charter school. He said "the entirety of Florida education policy is wrapped around parental choice." The Department of Education reports that charter students outscored students in traditional public schools in 55 of 77 comparisons in 2024-25. The department compares raw results and does not adjust for other differences between students.
+
+Andrew Spar, president of the Florida Education Association, the statewide teachers union, opposed that year's efforts to expand charter schools. He called them "this constant eating away at the public schools" and said, "We cannot end up with public schools that are schools of last resort."
+
+In 1996, five charter schools opened with about 600 students. Today, more than 400,000 children attend charter schools, and the state pays for tens of thousands of home-schooled children. The next post looks at the private schools that take vouchers, and at how many of them are religious.
+
+Sources are in the first comment.
+
+---
+
+## First comment (paste as is)
+
+Sources for this post:
+
+1. Charter schools authorized in 1996; five schools and about 600 students in 1996-97: Florida Senate Interim Report 2005-206, "Charter Schools Operation," Oct. 31, 2004. https://www.flsenate.gov/UserContent/Committees/Publications/InterimWorkProgram/2005/pdf/2005-206ed.pdf
+2. What a charter school is (public, tuition-free, run by a nonprofit under a contract with the district, exempt from most public school laws): Florida Senate bill analysis, CS/SB 822, April 1, 2025, p. 2. https://www.flsenate.gov/Session/Bill/2025/822/Analyses/2025s00822.ed.PDF
+3. Automatic termination after two consecutive F grades, and its exceptions: Florida State Board of Education agenda item, July 17, 2017, citing s. 1002.33, Florida Statutes. https://www.fldoe.org/core/fileparse.php/18505/urlt/charter.pdf
+4. Charter schools and students today: Florida Department of Education, Charter Schools page. https://www.fldoe.org/schools/school-choice/charter-schools
+5. Home schooling rules and counts: Florida Department of Education, "Home Education in Florida, 2024-25 School Year, Annual Report." https://origin.fldoe.org/file/5606/Home-Ed-Annual-Report-2024-25.pdf
+6. House Bill 1 and the Personalized Education Program: Florida House PreK-12 Appropriations Subcommittee, bill analysis of HB 1, February 2023, pp. 6-7, 13-14. https://www.flsenate.gov/Session/Bill/2023/1/Analyses/h0001b.PKA.PDF
+7. Personalized Education Program funded only through the Tax Credit Scholarship: Education Estimating Conference, Feb. 14, 2025, General Notes. https://www.edr.state.fl.us/Content/conferences/publicschools/archives/250214publicschools.pdf
+8. Program students, 2024-25: Step Up For Students, "2024-25 Step Up Fast Facts." https://go.stepupforstudents.org/hubfs/Website/Research%20and%20Reports/PEP%20Fact%20Sheet.pdf
+9. Program students and rules, 2025-26: Step Up For Students, PEP Fast Facts 2025-26. https://www.stepupforstudents.org/wp-content/uploads/26.5-PEP.pdf
+10. Testing in private schools that take vouchers: Florida State University Learning Systems Institute, Family Empowerment Scholarship evaluation, June 2025, p. 2. https://origin.fldoe.org/file/5606/FES-Report2024.pdf
+11. Sen. Gaetz and Andrew Spar: WFSU, "Florida's legislative session has seen many efforts to boost charter schools," May 1, 2025. https://www.wlrn.org/government-politics/2025-05-01/floridas-legislative-session-has-seen-many-efforts-to-boost-charter-schools
+12. Charter and traditional public school results: Florida Department of Education, "Student Achievement in Florida's Charter Schools," 2023-24 and 2024-25. https://www.fldoe.org/file/7778/SAR2023.pdf
+
+---
+
+## Fact-check table (for RJ, not for posting)
+
+| Claim in the post | Source and what it says |
+|---|---|
+| Charter schools authorized in 1996; five opened, about 600 students | Senate Interim Report 2005-206: "Florida enacted legislation authorizing charter schools in 1996"; "Five charter schools serving about 600 students operated during 1996-97" |
+| Public, no tuition, nonprofit, contract with district | SB 822 analysis p. 2: "Charter schools are tuition-free public schools created through an agreement or 'charter'"; "must be organized as, or be operated by, a nonprofit organization"; "the applicants and district school board agree upon a charter or contract" |
+| Paid through the same formula | Senate 2005-206: "Because a charter school is a public school," the same per-student funding calculation applies; funds "flow through a local school district" |
+| Exempt from most public school laws | SB 822 analysis p. 2: "In general, charter schools are exempt for most Florida laws that govern public schools" |
+| Same state exams; state grade A-F | SB 822 analysis p. 4: sponsor must "Ensure that the charter school participates in the state's education accountability system"; Senate 2005-206 and State Board item: charter schools receive school grades and take statewide assessments |
+| Two F grades in a row: contract ends, with exceptions | State Board item, July 17, 2017: contract "automatically terminated if the school earns two consecutive grades of 'F'"; exceptions for turnaround schools, certain schools whose zoned district school earned an F, and one-time State Board waivers |
+| More than 400,000 students in about 740 charter schools | FL DOE charter page: "over 739 in 2025-2026"; "Charter school student enrollment now tops 408,481 students" (no year given). FL DOE release, May 14, 2026: "more than 400,000 students now enrolled statewide" |
+| Home schooling rules: notify district, portfolio two years, annual evaluation | Home Education Annual Report 2024-25 (s. 1002.41, F.S.): notice of intent to the superintendent; "a portfolio... must be maintained for two years"; one of five evaluation options each year, results submitted to the district |
+| 84,096 (2014-15); 143,431 (2020-21); 152,871 (2024-25) | Home Education Annual Report 2024-25, table of years |
+| Before 2023, the only state scholarship that paid for home schooling was for children with disabilities | House PKA analysis pp. 13-14: Family Empowerment for Unique Abilities covers home education evaluation and related costs; Tax Credit and FES-EO before HB 1 were for private school students. Caveat: stated as our reading of the analysis; no source states "only" |
+| HB 1 created the Personalized Education Program; account for curriculum, tutoring, online classes | PKA analysis p. 1: "establishes the personalized education program as a parent directed educational choice option"; p. 7-8 allowed uses: instructional materials, home education tuition or fees, private online provider, tutoring |
+| Funded through the Tax Credit Scholarship | Education Estimating Conference, Feb. 14, 2025: "Families awarded a personalized education program (PEP) voucher are only funded through the FTC program" |
+| Cap 20,000 first year, 40,000 more each year | PKA p. 7: "For the 2023-2024 school year, no more than 20,000 scholarships may be funded"; "may increase by 40,000 each year" through 2026-27 |
+| 59,925 (2024-25); 78,617 (2025-26) | Step Up Fast Facts 2024-25: "59,925 funded students"; PEP Fast Facts 2025-26: "78,617 funded PEP students". Administrator's own figures |
+| Learning plan; normed test from state list; results to the scholarship organization, which reports to a state university | Step Up PEP Fast Facts 2025-26: annual Student Learning Plan; "nationally norm-referenced test." PKA p. 7: test "identified by the DOE or a statewide assessment"; parents "provide assessment results to the SFO"; SFOs "annually report the assessment data to the state university selected by the DOE" |
+| Private schools taking vouchers: normed test from state list or the state test; FSU evaluator reports results | FSU LSI report p. 2: "a nationally norm-referenced test approved by the Florida Department of Education"; "Alternatively, participating students may be administered the Florida Assessment of Student Thinking (FAST)"; report published by the FSU evaluator |
+| Gaetz quote and context | WFSU, May 1, 2025: "The entirety of Florida education policy is wrapped around parental choice, and this is a parental choice." Bill: "allows parents to opt to convert their children's school to be a charter school." Post quotes the first clause |
+| Charter students outscored in 55 of 77 comparisons in 2024-25; raw comparison | FL DOE, Student Achievement in Florida's Charter Schools: 55 of 77 achievement comparisons in 2024-25; method compares percentages for all students and subgroups, with no statistical adjustment described |
+| Spar quotes and context | WFSU, May 1, 2025: "So, it's this constant eating away at the public schools,"; "We cannot end up with public schools that are schools of last resort." Post quotes from "this constant..." |
+| Closing: more than 400,000 in charters; tens of thousands of home-schooled children funded | FL DOE charter page; Step Up counts above |
+
+**Caveats:**
+- Charter enrollment on the FL DOE page carries no year. The post uses "more than 400,000," which both the page and the May 2026 release support.
+- The program counts come from Step Up For Students, which administers the program. No state report with a separate count was found; the auditor general does not break it out.
+- Whether the Home Education Annual Report counts include program (PEP) students is not stated.
+- The charter comparison is the Department of Education's own and does not adjust for differences in students. Independent studies (for example, Stanford's CREDO) are not yet reviewed for Florida.
+
+---
+
+## Notes: details kept out of the main text
+
+- **Learning gains.** In the same FL DOE report, charter students had higher learning gains in 58 of 96 comparisons in 2024-25 (67 of 96 in 2023-24); traditional public schools led in 31 (22). 
+- **Early charter grades.** By 2003-04, 255 charter schools were operating; of those graded, 52 earned an A, 15 a B, 33 a C, 18 a D and 17 an F. (Senate 2005-206.)
+- **District fee.** Districts may keep an administrative fee of up to 5 percent of a charter school's funding, limited for larger schools. (Senate 2005-206.)
+- **Program spending, 2023-24.** Of $79.9 million spent through the program, $68.5 million went to curriculum and courses and $10.2 million to home education tuition and fees. Students were 64 percent white, 23 percent Hispanic, 8 percent Black. (Step Up Fast Facts 2024-25.) Average award between $7,700 and $8,500.
+- **Denied applicants.** In 2026, some families were denied program funding because donations did not cover every eligible student; awards go first to renewals, then by income. Legislative budget staff questioned the projections. (WUSF, Aug. 13, 2026.)
+- **Gov. DeSantis on home schooling.** At the 2024 Florida Homeschool Convention: "do you want to turn them over for eight hours a day to some indoctrination factory?" (News Service of Florida, May 28, 2024.) Not used: it is a rhetorical attack rather than an argument about the rules.
+- **Other voices.** State Board of Education chair Ryan Petty: "when parents have choices and schools are focused on student outcomes, students thrive." (FL DOE release, May 14, 2026.) Rep. Demi Busatta: "schools of hope are public schools." (WFSU, May 1, 2025.)
+- **To research for later posts:** independent charter studies for Florida (CREDO), charter closures, the home-education law's history (enacted 1985, to verify), and whether program students must also follow the home-education notice and portfolio rules.
+
+---
+
+## Editor's notes
+
+**Draft 1:**
+- One idea: three ways out of district schools, each with its own rules, and the 2023 law that began paying for home schooling for any child. The rules comparison is the cross-lesson the plan asked for.
+- Plain sentences, each reference named, terms explained (charter school, the Personalized Education Program), and a link back to post 2. Lessons from posts 1 and 2 applied.
+- Both sides through named, on-the-record voices: Sen. Gaetz and the Department's data for; Andrew Spar for the critics. The Department's comparison is flagged as unadjusted.
+- Home schooling comes after charters in the text, though Florida's home-education law is older; its history is in the notes to research.
+- About 690 words.
