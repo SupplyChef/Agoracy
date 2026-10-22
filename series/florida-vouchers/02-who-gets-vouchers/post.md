@@ -9,7 +9,7 @@ updated: 2026-10-22
 
 # Post 2 of 12: Who gets vouchers, and where were they before?
 
-Draft 7, 22 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 8, 22 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -19,31 +19,29 @@ Florida vouchers, 2 of 12
 
 Who Gets Florida's Vouchers, and Where Were They Before?
 
-Florida's oldest voucher program still running was built for poor children leaving public schools. In 2023, the first year vouchers were open to every child, most new recipients were children already in private school.
+Florida's oldest voucher program still running was built for poor children leaving public schools. In 2023, the first year vouchers were open to every child, most new recipients were already in private school.
 
-Florida calls its vouchers "scholarships." As the first post in this series described, two programs remain today. The Tax Credit Scholarship began in 2001. Companies donate to nonprofit groups that award the scholarships, and the state gives the companies a tax credit for the donation. The Family Empowerment Scholarship began in 2019. The state pays for it through its school funding formula. It is now the larger of the two.
+Florida calls its vouchers "scholarships." As the first post in this series described, two programs remain. The Tax Credit Scholarship began in 2001: companies donate to nonprofit groups that award the scholarships, and the state gives the companies a tax credit. The Family Empowerment Scholarship began in 2019 and is paid through the state's school funding formula. It is now the larger of the two.
 
-In the Tax Credit Scholarship's early years, a child had to meet two rules. The family had to be poor enough for free or reduced-price school lunch. The child also had to be leaving a public school or starting kindergarten or first grade. That is according to OPPAGA, the Florida Legislature's research office.
+In the Tax Credit Scholarship's early years, a child had to meet two rules, according to OPPAGA, the Legislature's research office. The family had to be poor enough for free or reduced-price school lunch. The child had to be leaving a public school or starting kindergarten or first grade.
 
-A 2009 study for the state Department of Education showed that the program mostly served poor children from public schools. The author, David N. Figlio, an economist then at the University of Florida, looked at students who joined in 2007-08. He compared them with low-income children who stayed in public school. The scholarship students were poorer. They had lower test scores. More of them came from schools the state rated poorly.
+The program mostly served poor children from public schools. In a 2009 study for the state Department of Education, David N. Figlio, an economist then at the University of Florida, compared students who joined in 2007-08 with low-income children who stayed in public school. The scholarship students were poorer, had lower test scores, and more often came from schools the state rated poorly.
 
-In March 2023, the Legislature passed House Bill 1. It made any child who could enroll in a Florida public school eligible for a scholarship. The child did not need to attend a public school. A child already in private school qualified, whatever the family's income.
+In March 2023, the Legislature passed House Bill 1. It made any child who could enroll in a Florida public school eligible for a scholarship, whatever the family's income. The child did not need to attend one. Children already in private school qualified.
 
-Before the vote, the staff of a Florida House budget committee estimated how many children already in private school would take a scholarship in the first year. Their answer was about 58,000.
+Before the vote, staff of a House budget committee estimated that about 58,000 children already in private school would take a scholarship in the first year.
 
-The programs grew quickly. In the 2022-23 school year, the last year before the law took effect, 266,703 students had scholarships, according to the state's auditor general. In 2023-24, the first year under the new law, 398,185 did.
+The programs grew quickly. The state's auditor general counted 266,703 scholarship students in 2022-23, the last year before the law took effect, and 398,185 in 2023-24.
 
-Most of those students were renewing scholarships they already had. In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted only the students who were new to the programs that fall. There were 122,895. Of those new students, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
+Most of those students were renewing. In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted only the students new to the programs that fall: 122,895. Of those, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
 
-Supporters and opponents of the law pointed to different numbers. Step Up, which supports the program, pointed to the 16,096 students who left public schools. Its report argued that this was far from the "exodus" from public schools that critics had forecast.
+Supporters and opponents of the law pointed to different numbers. Step Up, which supports the program, pointed to the 16,096 who left public schools, far from the "exodus" it said critics had forecast. The Florida Policy Institute, a research group that opposed the law, pointed to the 84,505 already in private school. It said the "money is going to subsidize tuition that families were already paying."
 
-The Florida Policy Institute, a research group that opposed the law, pointed to the 84,505 students already in private school. It said the "money is going to subsidize tuition that families were already paying."
+Both numbers are correct. In its first year, the law moved few children out of public schools. Most new scholarships went to children whose families had been paying for private school without a state scholarship.
 
-Both numbers are correct. In its first year, the law moved few children out of public schools. Most new scholarships went to children who were already in private school, whose families had been paying for it without a state scholarship.
+The children who do leave public schools have changed, too. A 2025 study for the state by Florida State University looked at students who left public schools for a Family Empowerment Scholarship in 2023-24. They were less likely to be poor than those who stayed: 42 percent qualified for free or reduced-price lunch, against 52 percent. Test scores were about the same. The study did not say why. In a 2025 Step Up survey, families who won a scholarship but did not use it most often cited no open seat at the school they wanted, tuition or fees beyond the scholarship, and transportation.
 
-The children who do leave public schools have changed, too. A 2025 study for the state by Florida State University looked at students who left public schools in 2023-24 for one of the state's scholarships. They were less likely to be poor than the students who stayed. Of the students who left, 42 percent qualified for free or reduced-price lunch. Of those who stayed, 52 percent did. Test scores were about the same for both groups. The state study did not say why. In a 2025 survey by Step Up, families who won a scholarship but did not use it most often cited no open seat at the school they wanted, tuition or fees beyond the scholarship, and transportation.
-
-In 2007-08, a typical new scholarship student was a poor child leaving a public school. In 2023, a typical new scholarship student was already in a private school. A later post looks at what that change costs the state. The next post looks at two other ways families leave traditional public schools: charter schools, which are public but run independently, and home schooling.
+In 2007-08, a typical new scholarship student was a poor child leaving a public school. In 2023, a typical new one was already in private school. A later post looks at what that change costs the state. The next post looks at two other ways families leave traditional public schools: charter schools, which are public but run independently, and home schooling.
 
 Sources are in the first comment.
 
@@ -133,6 +131,8 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 8 (RJ: tighten):** Merged short sentences and cut repeats ("of those new students", the second statement of who supports what) with no facts removed. The 2025 study now names the Family Empowerment Scholarship, which the post introduces earlier. About 645 words, down from 735.
 
 **Draft 7, second follow-up (RJ: baseline before 2023, without mixing totals and new students):** Added the auditor general's totals for 2022-23 and 2023-24, counted the same way, then a sentence making clear that Step Up's 122,895 counts only students new that fall.
 
