@@ -29,11 +29,9 @@ The program mostly served poor children from public schools. In a 2009 study for
 
 In March 2023, the Legislature passed House Bill 1. It made any child who could enroll in a Florida public school eligible for a scholarship, whatever the family's income. The child did not need to attend one. Children already in private school qualified.
 
-Before the vote, staff of a House budget committee estimated that about 58,000 children already in private school would take a scholarship in the first year.
-
 The programs grew quickly. The state's auditor general counted 266,703 scholarship students in 2022-23, the last year before the law took effect, and 398,185 in 2023-24.
 
-Most of those students were renewing. In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted only the students new to the programs that fall: 122,895. Of those, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
+Most of the 2023-24 students already had a scholarship. In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted the students who were new that fall: 122,895. Of those, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
 
 Supporters and opponents of the law pointed to different numbers. Step Up, which supports the program, pointed to the 16,096 who left public schools, far from the "exodus" it said critics had forecast. The Florida Policy Institute, a research group that opposed the law, pointed to the 84,505 already in private school. It said the "money is going to subsidize tuition that families were already paying."
 
@@ -117,6 +115,7 @@ Sources for this post:
 - **Family income, fall 2023 (moved from draft 1).** Of all scholarship students that fall, 44 percent came from households below 185 percent of the federal poverty level (about $55,000 for a family of four), 29 percent from 185 to 400 percent, and 27 percent above 400 percent (about $120,000) or did not report income. (Step Up, via News Service of Florida.)
 - **Enrollment counts, 2022-23 to 2024-25 (moved from draft 1).** Scholarship students rose by 230,581 (Auditor General 2026-046); private school enrollment rose by 51,452 (FL DOE annual survey). The counts are measured differently: the scholarship count includes some home-education (PEP) students and anyone funded during the year; the survey is a snapshot. The gap hints that much of the growth came from families already paying for private school, but it is our arithmetic, not an official finding. Possible material for post 5.
 - **The two studies used different comparison groups.** Figlio compared participants with public school students who received subsidized meals; the FSU study compared them with public school students generally, because after HB 1 everyone was eligible. FSU also excluded students with disabilities eligible for McKay and covered only the 8,956 new students it could link to public school records.
+- **House staff estimate (cut from the text in draft 8).** Before the vote, House PreK-12 Appropriations Subcommittee staff estimated 58,315 private school students would take a new scholarship in 2023-24.
 - **House staff estimate vs Step Up count.** The staff expected 58,315 private school students in the full year, in the income-based programs. Step Up counted 84,505 by Sept. 8. Not strictly comparable (timing, and whether Step Up's count includes disability scholarships), so the post doesn't set them side by side.
 - **When the prior-public-school rule ended.** OPPAGA documents it in 2008. Later laws loosened it before HB 1; the exact year is not yet verified. Before HB 1, the Family Empowerment rule barred students currently enrolled in public school, and students who spent the prior year in public school were not counted against the program's cap. (House PKA analysis pp. 10-11.)
 - **Income limits just before HB 1.** By 2022-23, the Tax Credit and Family Empowerment income cap had risen to 400 percent of the poverty level ($111,000 for a family of four), with priority for families at or below 185 percent. (House PKA analysis pp. 3, 10-11.) HB 1 kept the 185 percent priority. Post 1 says the 2021 law set 375 percent; the adjusted cap reached 400 percent by 2022-23. Consistent, but worth knowing if asked.
@@ -131,6 +130,8 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 8, follow-up:** Cut the House staff estimate (about 58,000) to the notes. Alone it told the reader nothing, and it can't be fairly set against Step Up's count (different timing and coverage). "Most of those students were renewing" became "Most of the 2023-24 students already had a scholarship," so the reference is explicit.
 
 **Draft 8 (RJ: tighten):** Merged short sentences and cut repeats ("of those new students", the second statement of who supports what) with no facts removed. The 2025 study now names the Family Empowerment Scholarship, which the post introduces earlier. About 645 words, down from 735.
 
