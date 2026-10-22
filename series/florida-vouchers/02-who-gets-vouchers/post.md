@@ -33,7 +33,7 @@ Before the vote, the staff of a Florida House budget committee estimated how man
 
 In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted the new students. There were 122,895. Of those, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
 
-Each side pointed to a different number. Step Up, which supports the program, pointed to the 16,096 students who left public schools. Its report argued that this was far from the "exodus" from public schools that critics had forecast.
+Supporters and opponents of the law pointed to different numbers. Step Up, which supports the program, pointed to the 16,096 students who left public schools. Its report argued that this was far from the "exodus" from public schools that critics had forecast.
 
 The Florida Policy Institute, a research group that opposed the law, pointed to the 84,505 students already in private school. It said the "money is going to subsidize tuition that families were already paying."
 
@@ -129,6 +129,8 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 7, follow-up:** "Each side pointed to a different number" became "Supporters and opponents of the law pointed to different numbers."
 
 **Draft 7 (RJ: balance the two programs):**
 - The Family Empowerment Scholarship now gets the same treatment as the Tax Credit Scholarship: when it began (2019), how it is paid for (the school funding formula, same wording as post 1), and that it is now the larger program.
