@@ -31,7 +31,9 @@ In March 2023, the Legislature passed House Bill 1. It made any child who could 
 
 Before the vote, the staff of a Florida House budget committee estimated how many children already in private school would take a scholarship in the first year. Their answer was about 58,000.
 
-In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted the new students. There were 122,895. Of those, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
+The programs grew quickly. In the 2022-23 school year, the last year before the law took effect, 266,703 students had scholarships, according to the state's auditor general. In 2023-24, the first year under the new law, 398,185 did.
+
+Most of those students were renewing scholarships they already had. In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted only the students who were new to the programs that fall. There were 122,895. Of those new students, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
 
 Supporters and opponents of the law pointed to different numbers. Step Up, which supports the program, pointed to the 16,096 students who left public schools. Its report argued that this was far from the "exodus" from public schools that critics had forecast.
 
@@ -83,6 +85,8 @@ Sources for this post:
 | Included children already in private school | House PKA analysis p. 21 counts private school students without a scholarship as newly eligible |
 | Before the vote, House budget committee staff estimated about 58,000 private school students to take a scholarship in year one (from about 116,600 eligible, half assumed to take one) | House PKA analysis p. 21: enrollment in participating private schools estimated at 327,653 for 2023-24, "reduced by 211,023" for renewals; text says 116,603, table says 116,630 (rounded to "about 116,600" in the post); 50 percent participation; "58,315 private school students would be awarded a new FES-EO scholarship" (43,408 funded as FTC and 14,907 as FES-EO) |
 | (Draft 4 only, now in notes) Public school switchers add no new cost; private school students do | House PKA analysis pp. 20-21: students leaving public school for a scholarship are already funded in the FEFP, so no fiscal impact; the cost estimate counts private school students only. Paraphrased, not quoted |
+| Scholarship students: 266,703 in 2022-23; 398,185 in 2023-24 | Auditor General 2026-046, Tables 2-4. 2022-23: 100,025 + 92,232 + 74,446 = 266,703. 2023-24: 148,222 (Tax Credit, including home-education PEP students) + 156,038 (FES-EO) + 93,925 (FES-UA) = 398,185. Both years counted the same way (students funded during the year) |
+| "Most of those students were renewing" | 398,185 total in 2023-24 vs 122,895 new students counted by Step Up in September 2023; the rest were returning. The two counts come from different sources and dates, so the post does not subtract them |
 | 122,895 new; 84,505 (69%) private; 22,294 kindergarten; 16,096 (13%) public; September 2023 | Step Up For Students report, data as of Sept. 8, 2023, as reported by News Service of Florida (Ryan Dailey), Sept. 15, 2023. Arithmetic: 84,505 + 22,294 + 16,096 = 122,895. 84,505 / 122,895 = 68.8%; 16,096 / 122,895 = 13.1%; 22,294 / 122,895 = 18.1% |
 | Income: 44% below 185% FPL (about $55,000 for four); 27% above 400% (about $120,000) or no income reported | Same article: "27% ... from households above 400% of the federal poverty level ($120,000 for a family of four) or did not submit income information"; 44% below 185% ($55,000); 29% between |
 | Step Up's argument; "exodus" | Same article, quoting the Step Up report: "Does 16,096 represent an 'exodus' from the public schools as critics forecast". The post paraphrases the rhetorical question as an argument and quotes only the word "exodus" |
@@ -129,6 +133,8 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 7, second follow-up (RJ: baseline before 2023, without mixing totals and new students):** Added the auditor general's totals for 2022-23 and 2023-24, counted the same way, then a sentence making clear that Step Up's 122,895 counts only students new that fall.
 
 **Draft 7, follow-up:** "Each side pointed to a different number" became "Supporters and opponents of the law pointed to different numbers."
 
