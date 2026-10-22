@@ -4,12 +4,12 @@ series: florida-vouchers
 number: 2
 status: draft
 image: image.png
-updated: 2026-10-20
+updated: 2026-10-22
 ---
 
 # Post 2 of 12: Who gets vouchers, and where were they before?
 
-Draft 6, 20 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 7, 22 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -21,9 +21,9 @@ Who Gets Florida's Vouchers, and Where Were They Before?
 
 Florida's oldest voucher program still running was built for poor children leaving public schools. In 2023, the first year vouchers were open to every child, most new recipients were children already in private school.
 
-Florida calls its vouchers "scholarships." As the first post in this series described, two programs remain today: the Tax Credit Scholarship and the Family Empowerment Scholarship. The Tax Credit Scholarship is the older one. It began in 2001. Companies donate to nonprofit groups that award the scholarships, and the state gives the companies a tax credit for the donation.
+Florida calls its vouchers "scholarships." As the first post in this series described, two programs remain today. The Tax Credit Scholarship began in 2001. Companies donate to nonprofit groups that award the scholarships, and the state gives the companies a tax credit for the donation. The Family Empowerment Scholarship began in 2019. The state pays for it through its school funding formula. It is now the larger of the two.
 
-In the program's early years, a child had to meet two rules. The family had to be poor enough for free or reduced-price school lunch. The child also had to be leaving a public school or starting kindergarten or first grade. That is according to OPPAGA, the Florida Legislature's research office.
+In the Tax Credit Scholarship's early years, a child had to meet two rules. The family had to be poor enough for free or reduced-price school lunch. The child also had to be leaving a public school or starting kindergarten or first grade. That is according to OPPAGA, the Florida Legislature's research office.
 
 A 2009 study for the state Department of Education showed that the program mostly served poor children from public schools. The author, David N. Figlio, an economist then at the University of Florida, looked at students who joined in 2007-08. He compared them with low-income children who stayed in public school. The scholarship students were poorer. They had lower test scores. More of them came from schools the state rated poorly.
 
@@ -69,6 +69,7 @@ Sources for this post:
 | Claim in the post | Source and what it says |
 |---|---|
 | Tax Credit Scholarship is the oldest program still running; began 2001; two programs remain (Tax Credit and Family Empowerment); funded by tax-credited corporate donations | Post 1 and its sources: Opportunity Scholarship ended 2006; McKay (1999) and Gardiner merged into Family Empowerment (2019) in 2021-22 (HB 7045). Tax Credit created 2001 and funding mechanism: OPPAGA 08-68 |
+| Family Empowerment began 2019, paid through the school funding formula, now the larger program | SB 7070 summary (Ch. 2019-23): "funded through the FEFP". Auditor General 2026-046, 2024-25: Family Empowerment 382,841 students (267,413 + 115,428) vs Tax Credit 114,443 |
 | Passed March 2023 | Florida Senate bill history: House 3/17/2023, Senate 3/23/2023 |
 | (Draft 4 only, now in notes) A public school student who switches: the state pays for the scholarship instead of the public school seat | House PKA analysis pp. 20-21 (no fiscal impact for students leaving public school, who are already funded in the FEFP). For Tax Credit students the money is tax-credited donations rather than appropriations; the post simplifies to "the state pays" (explained in post 1 and post 5) |
 | Staff of a House budget committee, February 2023; students leaving public schools "would cost the state nothing new" (paraphrase) | The analysis is by the House PreK-12 Appropriations Subcommittee, posted Feb. 24, 2023 |
@@ -128,6 +129,10 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 7 (RJ: balance the two programs):**
+- The Family Empowerment Scholarship now gets the same treatment as the Tax Credit Scholarship: when it began (2019), how it is paid for (the school funding formula, same wording as post 1), and that it is now the larger program.
+- The next paragraph now names the Tax Credit Scholarship, since the early rules apply to it.
 
 **Draft 6 (RJ's line edits):**
 - Added, at RJ's request, two sentences on why poorer children may use scholarships less: the state study gives no reason; Step Up's 2025 survey of families who did not use an awarded scholarship. Source 10 added.
