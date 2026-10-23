@@ -23,7 +23,7 @@ Vouchers are one of three ways Florida families leave district-run public school
 
 The second post in this series looked at who uses Florida's vouchers. This post looks at the other two choices.
 
-First, the scale. In 2022-23, the last school year before vouchers were open to every child, Florida had about 3.47 million students from kindergarten through 12th grade. About 72 percent attended district-run public schools. About 11 percent attended charter schools. About 13 percent attended private schools, and more than four in ten of those private school students had a voucher. About 4 percent were home-schooled.
+First, the scale. In 2022-23, the last school year before vouchers were open to every child, Florida had about 3.47 million students from kindergarten through 12th grade. About 72 percent attended district-run public schools. About 11 percent attended charter schools. About 13 percent attended private schools, and more than four in ten of those private school students had a voucher. About 4 percent were home-schooled. The voucher for home-schooled children came the next year.
 
 Florida authorized charter schools in 1996. Five opened that school year, serving about 600 students, according to a 2004 Florida Senate report. A charter school is a public school. It charges no tuition. A nonprofit group runs it under a contract with the school district, and the state pays for its students through the same formula it uses for other public schools.
 
@@ -76,6 +76,7 @@ Sources for this post:
 | Claim in the post | Source and what it says |
 |---|---|
 | 2022-23: about 3.47 million K-12 students; 72% district-run, 11% charter, 13% private, 4% home-schooled | FL DOE Charter Enrollment Share 2022-23: public enrollment 2,870,507, charter 382,367 (13.3% of public). Private Schools Annual Report 2022-23: 445,067. Home Education Annual Report: 154,289 in 2022-23. Total 2,870,507 + 445,067 + 154,289 = 3,469,863. District-run = 2,870,507 − 382,367 = 2,488,140 (71.7%). Charter 11.0%; private 12.8%; home 4.4% |
+| The voucher for home-schooled children came the next year | HB 1 (2023) created the Personalized Education Program; first funded year 2023-24 (PKA analysis p. 7: cap of 20,000 "For the 2023-2024 school year"). Before that, only the disability scholarship could pay for home schooling; its home-school users are not counted separately |
 | More than four in ten private school students had a voucher (2022-23) | Auditor General 2026-046: Tax Credit 100,025 + FES-EO 92,232 = 192,257 in 2022-23; both programs paid only for private school that year. 192,257 / 445,067 = 43.2%. Excludes the disability scholarship (FES-UA, 74,446), which could be used at a private school or at home; the split is not published, so the true share is somewhat higher. The auditor general's counts are undefined department records and may not match the survey's snapshot, so the share is approximate |
 | Charter schools authorized in 1996; five opened, about 600 students | Senate Interim Report 2005-206: "Florida enacted legislation authorizing charter schools in 1996"; "Five charter schools serving about 600 students operated during 1996-97" |
 | Public, no tuition, nonprofit, contract with district | SB 822 analysis p. 2: "Charter schools are tuition-free public schools created through an agreement or 'charter'"; "must be organized as, or be operated by, a nonprofit organization"; "the applicants and district school board agree upon a charter or contract" |
@@ -121,6 +122,8 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 2, follow-up (RJ: home-school vouchers?):** Added that the home-schooling voucher began the next year (2023-24), so the 2022-23 home-schooled count has no general voucher split. Some home-schooled children used the disability scholarship; that number is not published. Image legend says the same.
 
 **Draft 2 (RJ: put 400,000 in context; break private schools down by vouchers):**
 - Added a short paragraph with the share of students in each setting, for 2022-23, the latest year with all counts in state records. Private schools are broken into with and without a voucher (43 percent with one of the two income-based vouchers).
