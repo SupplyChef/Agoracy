@@ -35,7 +35,7 @@ Home schooling has its own rules. A family must notify the school district, keep
 
 Before 2023, the only state scholarship that could pay for home schooling was the one for children with disabilities. House Bill 1, the 2023 law that opened vouchers to every child, changed that. It created a scholarship for home-schooled children called the Personalized Education Program. Families get an account they can spend on curriculum, tutoring, online classes and similar costs. The money comes through the Tax Credit Scholarship.
 
-The law capped the program at 20,000 students in its first year and allowed 40,000 more each year after that. Step Up For Students, the nonprofit that runs it, reported 59,925 students in 2024-25 and 78,617 in 2025-26.
+The law capped the program at 20,000 students in its first year and allowed 40,000 more each year after that. Step Up For Students, the main nonprofit that runs it, reported 59,925 students in 2024-25 and 78,617 in 2025-26. These children are not in the state's home-schooling count: to join the program, a family must leave the district's home-schooling rolls. In 2024-25, then, at least 212,796 children learned at home, and at least 28 percent of them did so with state money.
 
 Children in the program follow their own rules. Parents must file a learning plan each year. The child must take a nationally normed test from a state-approved list. The results go to the scholarship organization, which reports them to a state university.
 
@@ -64,10 +64,11 @@ Sources for this post:
 7. Personalized Education Program funded only through the Tax Credit Scholarship: Education Estimating Conference, Feb. 14, 2025, General Notes. https://www.edr.state.fl.us/Content/conferences/publicschools/archives/250214publicschools.pdf
 8. Program students, 2024-25: Step Up For Students, "2024-25 Step Up Fast Facts." https://go.stepupforstudents.org/hubfs/Website/Research%20and%20Reports/PEP%20Fact%20Sheet.pdf
 9. Program students and rules, 2025-26: Step Up For Students, PEP Fast Facts 2025-26. https://www.stepupforstudents.org/wp-content/uploads/26.5-PEP.pdf
-10. Testing in private schools that take vouchers: Florida State University Learning Systems Institute, Family Empowerment Scholarship evaluation, June 2025, p. 2. https://origin.fldoe.org/file/5606/FES-Report2024.pdf
-11. Sen. Gaetz and Andrew Spar: WFSU, "Florida's legislative session has seen many efforts to boost charter schools," May 1, 2025. https://www.wlrn.org/government-politics/2025-05-01/floridas-legislative-session-has-seen-many-efforts-to-boost-charter-schools
-12. Charter and traditional public school results: Florida Department of Education, "Student Achievement in Florida's Charter Schools," 2023-24 and 2024-25. https://www.fldoe.org/file/7778/SAR2023.pdf
-13. Students by setting, 2022-23: Florida Department of Education, "Florida Charter School Enrollment Share, 2022-23" (https://www.fldoe.org/core/fileparse.php/7778/urlt/CharterSchoolEnrollmentShare2122.pdf); "Florida's Private Schools, 2022-23 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2023.pdf); Home Education Annual Report 2024-25 (source 5); Florida Auditor General Report 2026-046, Tables 2 and 4 (https://flauditor.gov/pages/pdf_files/2026-046.pdf).
+10. Program students are registered separately from home-schooled students: Step Up For Students, PEP Family Handbook. https://www.stepupforstudents.org/handbook-web/pep-family-handbook/
+11. Testing in private schools that take vouchers: Florida State University Learning Systems Institute, Family Empowerment Scholarship evaluation, June 2025, p. 2. https://origin.fldoe.org/file/5606/FES-Report2024.pdf
+12. Sen. Gaetz and Andrew Spar: WFSU, "Florida's legislative session has seen many efforts to boost charter schools," May 1, 2025. https://www.wlrn.org/government-politics/2025-05-01/floridas-legislative-session-has-seen-many-efforts-to-boost-charter-schools
+13. Charter and traditional public school results: Florida Department of Education, "Student Achievement in Florida's Charter Schools," 2023-24 and 2024-25. https://www.fldoe.org/file/7778/SAR2023.pdf
+14. Students by setting, 2022-23: Florida Department of Education, "Florida Charter School Enrollment Share, 2022-23" (https://www.fldoe.org/core/fileparse.php/7778/urlt/CharterSchoolEnrollmentShare2122.pdf); "Florida's Private Schools, 2022-23 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2023.pdf); Home Education Annual Report 2024-25 (source 5); Florida Auditor General Report 2026-046, Tables 2 and 4 (https://flauditor.gov/pages/pdf_files/2026-046.pdf).
 
 ---
 
@@ -91,6 +92,8 @@ Sources for this post:
 | HB 1 created the Personalized Education Program; account for curriculum, tutoring, online classes | PKA analysis p. 1: "establishes the personalized education program as a parent directed educational choice option"; p. 7-8 allowed uses: instructional materials, home education tuition or fees, private online provider, tutoring |
 | Funded through the Tax Credit Scholarship | Education Estimating Conference, Feb. 14, 2025: "Families awarded a personalized education program (PEP) voucher are only funded through the FTC program" |
 | Cap 20,000 first year, 40,000 more each year | PKA p. 7: "For the 2023-2024 school year, no more than 20,000 scholarships may be funded"; "may increase by 40,000 each year" through 2026-27 |
+| Program students are not in the state's home-schooling count; families must leave the district's home-schooling rolls | Step Up PEP Family Handbook, "How Does the FTC-PEP Program Compare to Home Education?": PEP students "are registered with a Scholarship Funding Organization (SFO)" while "home education students are registered with their school district"; families "do not need to submit a letter of intent"; a student previously in home education "must end the home education status with the school district." https://www.stepupforstudents.org/handbook-web/pep-family-handbook/ |
+| At least 212,796 children learned at home in 2024-25; at least 28% with state money | 152,871 (Home Education Annual Report) + 59,925 (Step Up) = 212,796. 59,925 / 212,796 = 28.2%. "At least" because a second organization (AAA) also runs the program and its count is not published, and some home-schooled children use the disability scholarship (not counted) |
 | 59,925 (2024-25); 78,617 (2025-26) | Step Up Fast Facts 2024-25: "59,925 funded students"; PEP Fast Facts 2025-26: "78,617 funded PEP students". Administrator's own figures |
 | Learning plan; normed test from state list; results to the scholarship organization, which reports to a state university | Step Up PEP Fast Facts 2025-26: annual Student Learning Plan; "nationally norm-referenced test." PKA p. 7: test "identified by the DOE or a statewide assessment"; parents "provide assessment results to the SFO"; SFOs "annually report the assessment data to the state university selected by the DOE" |
 | Private schools taking vouchers: normed test from state list or the state test; FSU evaluator reports results | FSU LSI report p. 2: "a nationally norm-referenced test approved by the Florida Department of Education"; "Alternatively, participating students may be administered the Florida Assessment of Student Thinking (FAST)"; report published by the FSU evaluator |
@@ -122,6 +125,8 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 2, second follow-up (RJ: the split for later years):** Added the 2024-25 split for children learning at home: 152,871 home-schooled under district rules plus at least 59,925 in the scholarship program, which families must leave the district rolls to join. At least 28 percent had state money. No 2025-26 home-schooling count yet; 2023-24 program count (19,514) is from a news report without a named source, so not used.
 
 **Draft 2, follow-up (RJ: home-school vouchers?):** Added that the home-schooling voucher began the next year (2023-24), so the 2022-23 home-schooled count has no general voucher split. Some home-schooled children used the disability scholarship; that number is not published. Image legend says the same.
 
