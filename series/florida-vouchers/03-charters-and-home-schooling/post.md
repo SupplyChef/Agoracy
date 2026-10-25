@@ -23,7 +23,7 @@ Families who leave Florida's district-run public schools can choose a private sc
 
 The first post in this series traced where Florida's school money goes. The second looked at who uses the scholarships. This post looks at where the children learn.
 
-Florida authorized charter schools in 1996. Five opened that school year, serving about 600 students, according to a 2004 Florida Senate report. A charter school is a public school. It charges no tuition. A nonprofit group runs it under a contract with the school district, and the state pays for its students through the same formula it uses for other public schools.
+Florida authorized charter schools in 1996. Five opened that school year, serving about 600 students, according to a 2004 Florida Senate report. Under state law, a charter school is a public school. It charges no tuition, and the state pays for its students through the same formula it uses for other public schools. Unlike a district school, it is run by a nonprofit group under a contract with the school district.
 
 Charter schools are exempt from most of the state's laws for public schools. They are not exempt from its tests. Charter students take the same state exams as other public school students, and each charter school gets a state grade from A to F. Under state law, a charter school that earns two F grades in a row loses its contract, with a few exceptions.
 
@@ -145,6 +145,7 @@ Sources for this post:
 - The 2024-25 scale paragraph moved after the rules, opening "Together, these options have changed where Florida's children learn." It keeps one comparison with 2022-23 (district-run share down from 72 percent to 69).
 - Cut the scale paragraph's sentence on the disability scholarship's unknown split; the closing paragraph makes the same point with the dollar amounts.
 - About 980 words to about 880.
+- "A charter school is a public school" now says on whose terms ("Under state law") and how it differs from a district school (run by a nonprofit under a contract) (RJ: qualify).
 
 **Draft 3, sources and notes check (RJ asked whether they still match the text; post text unchanged):**
 - Fact-check table: five rows added in draft 3 sat below the caveats, outside the table; moved into it. Removed a duplicate 2022-23 share row. Reworded the "came the next year" row, which matched no current sentence, and the program-count row, which still cited the 2025-26 Step Up figure the text no longer uses.
