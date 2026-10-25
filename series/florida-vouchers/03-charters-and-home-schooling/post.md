@@ -82,7 +82,7 @@ Sources for this post:
 | Claim in the post | Source and what it says |
 |---|---|
 | 2022-23: about 3.47 million K-12 students; 72% district-run, 11% charter, 13% private, 4% home-schooled | FL DOE Charter Enrollment Share 2022-23: public enrollment 2,870,507, charter 382,367 (13.3% of public). Private Schools Annual Report 2022-23: 445,067. Home Education Annual Report: 154,289 in 2022-23. Total 2,870,507 + 445,067 + 154,289 = 3,469,863. District-run = 2,870,507 − 382,367 = 2,488,140 (71.7%). Charter 11.0%; private 12.8%; home 4.4% |
-| The voucher for home-schooled children came the next year | HB 1 (2023) created the Personalized Education Program; first funded year 2023-24 (PKA analysis p. 7: cap of 20,000 "For the 2023-2024 school year"). Before that, only the disability scholarship could pay for home schooling; its home-school users are not counted separately |
+| Since 2023, the state has paid for home schooling through a new account open to any child, up to a cap (summary line) | HB 1 (2023) created the Personalized Education Program; first funded year 2023-24 (PKA analysis p. 7: cap of 20,000 "For the 2023-2024 school year"). Before that, only the disability scholarship could pay for home schooling; its home-school users are not counted separately |
 | More than four in ten private school students had a voucher (2022-23) | Auditor General 2026-046: Tax Credit 100,025 + FES-EO 92,232 = 192,257 in 2022-23; both programs paid only for private school that year. 192,257 / 445,067 = 43.2%. Excludes the disability scholarship (FES-UA, 74,446), which could be used at a private school or at home; the split is not published, so the true share is somewhat higher. The auditor general's counts are undefined department records and may not match the survey's snapshot, so the share is approximate |
 | Charter schools authorized in 1996; five opened, about 600 students | Senate Interim Report 2005-206: "Florida enacted legislation authorizing charter schools in 1996"; "Five charter schools serving about 600 students operated during 1996-97" |
 | Public, no tuition, nonprofit, contract with district | SB 822 analysis p. 2: "Charter schools are tuition-free public schools created through an agreement or 'charter'"; "must be organized as, or be operated by, a nonprofit organization"; "the applicants and district school board agree upon a charter or contract" |
@@ -99,7 +99,7 @@ Sources for this post:
 | Cap 20,000 first year, 40,000 more each year | PKA p. 7: "For the 2023-2024 school year, no more than 20,000 scholarships may be funded"; "may increase by 40,000 each year" through 2026-27 |
 | Program students are not in the state's home-schooling count; families must leave the district's home-schooling rolls | Step Up PEP Family Handbook, "How Does the FTC-PEP Program Compare to Home Education?": PEP students "are registered with a Scholarship Funding Organization (SFO)" while "home education students are registered with their school district"; families "do not need to submit a letter of intent"; a student previously in home education "must end the home education status with the school district." https://www.stepupforstudents.org/handbook-web/pep-family-handbook/ |
 | At least 212,796 children learned at home in 2024-25; at least 28% with state money | 152,871 (Home Education Annual Report) + 59,925 (Step Up) = 212,796. 59,925 / 212,796 = 28.2%. "At least" because a second organization (AAA) also runs the program and its count is not published, and some home-schooled children use the disability scholarship (not counted) |
-| 59,925 (2024-25); 78,617 (2025-26) | Step Up Fast Facts 2024-25: "59,925 funded students"; PEP Fast Facts 2025-26: "78,617 funded PEP students". Administrator's own figures |
+| Step Up reported 59,925 students in 2024-25 | Step Up Fast Facts 2024-25: "59,925 funded students". Administrator's own figure; Step Up is the main but not the only organization running the program |
 | Learning plan; normed test from state list; results to the scholarship organization, which reports to a state university | Step Up PEP Fast Facts 2025-26: annual Student Learning Plan; "nationally norm-referenced test." PKA p. 7: test "identified by the DOE or a statewide assessment"; parents "provide assessment results to the SFO"; SFOs "annually report the assessment data to the state university selected by the DOE" |
 | Private schools taking vouchers: normed test from state list or the state test; FSU evaluator reports results | FSU LSI report p. 2: "a nationally norm-referenced test approved by the Florida Department of Education"; "Alternatively, participating students may be administered the Florida Assessment of Student Thinking (FAST)"; report published by the FSU evaluator |
 | Gaetz quote and context | WFSU, May 1, 2025: "The entirety of Florida education policy is wrapped around parental choice, and this is a parental choice." Bill: "allows parents to opt to convert their children's school to be a charter school." Post quotes the first clause |
@@ -107,24 +107,23 @@ Sources for this post:
 | Spar quotes and context | WFSU, May 1, 2025: "So, it's this constant eating away at the public schools,"; "We cannot end up with public schools that are schools of last resort." Post quotes from "this constant..." |
 | Closing: more than 400,000 in charters; tens of thousands of home-schooled children funded | FL DOE charter page; Step Up counts above |
 
-**Caveats:**
-- Charter enrollment on the FL DOE page carries no year. The post uses "more than 400,000," which both the page and the May 2026 release support.
-- The program counts come from Step Up For Students, which administers the program. No state report with a separate count was found; the auditor general does not break it out.
-- Whether the Home Education Annual Report counts include program (PEP) students is not stated.
-- The charter comparison is the Department of Education's own and does not adjust for differences in students. Independent studies (for example, Stanford's CREDO) are not yet reviewed for Florida.
-
 | 2024-25: about 3.56 million; 69 / 11 / 14 / 6 percent | Total 3,561,555 (see notes). 2,447,890 / 3,561,555 = 68.7%; 404,350 = 11.4%; 496,519 = 13.9%; (152,871 + 59,925) = 6.0% |
 | At least six in ten private students had a Tax Credit or general Family Empowerment scholarship (2024-25) | SB 7030 analysis, p. 2 (Step Up, March 2025): FES-EO 265,522; FTC 54,356 (separate from PEP 58,943). 319,878 / 496,519 = 64.4% |
-| 2022-23: "Tax Credit or income-based Family Empowerment" | Auditor General Tables 2 and 4: 92,232 + 100,025 = 192,257 / 445,067 = 43.2% |
 | Disability scholarship split between private and home not published | Checked: Auditor General 2026-046, SB 7030 and CS/SB 318 analyses, DOE, Step Up, EdChoice. None reports it |
 | 84,140 account students, November 2025 | CS/SB 318 analysis, p. 3: "84,140 students were funded through the PEP scholarship" (DOE email, Dec. 1, 2025) |
 | $1.2B disability, $0.8B Tax Credit (2024-25) | Auditor General 2026-046, Tables 3-4: $1,169.6M; $804.5M |
+
+**Caveats:**
+- Charter enrollment on the FL DOE page carries no year. The post uses "more than 400,000," which both the page and the May 2026 release support.
+- The 2024-25 program count (59,925) comes from Step Up For Students, which administers the program, and leaves out the second organization. The only state count found is the November 2025 figure (84,140) in the CS/SB 318 analysis. The auditor general does not break the program out of Tax Credit.
+- The Home Education Annual Report does not say whether it includes program (PEP) students. The post's statement that it does not rests on the registration rules in Step Up's handbook (program students register with the scholarship organization and leave the district's home-education rolls).
+- The charter comparison is the Department of Education's own and does not adjust for differences in students. Independent studies (for example, Stanford's CREDO) are not yet reviewed for Florida.
 
 ---
 
 ## Notes: details kept out of the main text
 
-- **Students by setting, 2022-23, in full.** District-run public 2,488,140 (71.7%); charter 382,367 (11.0%); private with a Tax Credit or FES-EO voucher 192,257 (5.5%); other private 252,810 (7.3%), some with a disability scholarship; home-schooled 154,289 (4.4%), some with a disability scholarship. 2022-23 is the latest year with a statewide charter count we found. Before using later years, check for a 2024-25 charter enrollment share report.
+- **Students by setting, 2022-23, in full.** District-run public 2,488,140 (71.7%); charter 382,367 (11.0%); private with a Tax Credit or FES-EO voucher 192,257 (5.5%); other private 252,810 (7.3%), some with a disability scholarship; home-schooled 154,289 (4.4%), some with a disability scholarship. For 2024-25, the charter achievement report gives the public and charter counts (see the 2024-25 breakdown below).
 - **Learning gains.** In the same FL DOE report, charter students had higher learning gains in 58 of 96 comparisons in 2024-25 (67 of 96 in 2023-24); traditional public schools led in 31 (22). 
 - **Early charter grades.** By 2003-04, 255 charter schools were operating; of those graded, 52 earned an A, 15 a B, 33 a C, 18 a D and 17 an F. (Senate 2005-206.)
 - **District fee.** Districts may keep an administrative fee of up to 5 percent of a charter school's funding, limited for larger schools. (Senate 2005-206.)
@@ -132,15 +131,21 @@ Sources for this post:
 - **Denied applicants.** In 2026, some families were denied program funding because donations did not cover every eligible student; awards go first to renewals, then by income. Legislative budget staff questioned the projections. (WUSF, Aug. 13, 2026.)
 - **Gov. DeSantis on home schooling.** At the 2024 Florida Homeschool Convention: "do you want to turn them over for eight hours a day to some indoctrination factory?" (News Service of Florida, May 28, 2024.) Not used: it is a rhetorical attack rather than an argument about the rules.
 - **Other voices.** State Board of Education chair Ryan Petty: "when parents have choices and schools are focused on student outcomes, students thrive." (FL DOE release, May 14, 2026.) Rep. Demi Busatta: "schools of hope are public schools." (WFSU, May 1, 2025.)
+- **Step Up's 2025-26 count.** Step Up reported 78,617 funded program students for 2025-26 (PEP Fast Facts 2025-26, source 9). The state's 84,140 (November 2025) counts all organizations.
 - **To research for later posts:** independent charter studies for Florida (CREDO), charter closures, the home-education law's history (enacted 1985, to verify), and whether program students must also follow the home-education notice and portfolio rules.
 
 - **Side-by-side rules paragraph (cut from draft 3; the image carries it).** "Charter schools take the state's tests, get a state grade and can be closed. Private schools that take vouchers give a nationally normed test from a state list, or the state test, and an evaluator at Florida State University reports the results. Other home-schooled children are evaluated once a year, and the results go to the school district. Children in the new home-schooling program take a normed test, and the results go to the scholarship organization."
-- **2024-25 breakdown (added 25 Oct).** District-run 2,447,890; charter 404,350 (DOE charter achievement report, p. 3); private 496,519 (DOE private school report 2025); home education 152,871 (DOE); home-schooling account 59,925 (Step Up). Total 3,561,555. Private with a Tax Credit or general Family Empowerment scholarship: 54,356 + 265,522 = 319,878, 64.4 percent of private (Step Up, March 2025, via SB 7030 analysis; excludes AAA). If every disability scholarship (115,417) were at a private school, the share would be 87.7 percent.
+- **2024-25 breakdown (added 25 Oct).** District-run 2,447,890; charter 404,350 (DOE charter achievement report, p. 3); private 496,519 (DOE private school report 2025); home education 152,871 (DOE); home-schooling account 59,925 (Step Up). Total 3,561,555. Private with a Tax Credit or general Family Empowerment scholarship: 54,356 + 265,522 = 319,878, 64.4 percent of private (Step Up, March 2025, via SB 7030 analysis; excludes AAA). If every disability scholarship (115,428, auditor general) were at a private school, the share would be 87.7 percent: (319,878 + 115,428) / 496,519.
 - **Students with disabilities by setting, 2024-25:** 11 percent of charter students (43,683) and 17 percent of district-run students (414,926). (DOE charter achievement report, p. 3.) A point charter critics raise; not used in the text.
 
 ---
 
 ## Editor's notes
+
+**Draft 3, sources and notes check (RJ asked whether they still match the text; post text unchanged):**
+- Fact-check table: five rows added in draft 3 sat below the caveats, outside the table; moved into it. Removed a duplicate 2022-23 share row. Reworded the "came the next year" row, which matched no current sentence, and the program-count row, which still cited the 2025-26 Step Up figure the text no longer uses.
+- Caveats: the program-count caveat said no state count existed; the text now uses one (84,140, November 2025). The home-education caveat now says what the "not in the state's count" sentence rests on.
+- Notes: the disability-share example now uses the auditor general's 115,428 and shows the division. The 2022-23 note no longer says a later charter count is missing. Step Up's 2025-26 figure moved to its own note.
 
 **Draft 3 (rebuilt around the money map, at RJ's request):**
 - Summary line fixed: it listed vouchers, charters and home schooling as the three ways out, which left out private school without a voucher.
