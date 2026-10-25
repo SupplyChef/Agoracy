@@ -33,7 +33,7 @@ Scholarship students of all kinds rose from 266,703 in 2022-23 to 398,185 in 202
 
 Each side pointed to a different number. Step Up, which supports the program, pointed to the 16,096 children from public schools, far from the "exodus" it said critics had forecast. The Florida Policy Institute, a research group that opposed the law, pointed to the 84,505 already in private school. It said the "money is going to subsidize tuition that families were already paying."
 
-Both are right. In its first year, the law moved few children out of public schools and mostly paid tuition that families had been paying themselves. The money moved more than the children did.
+Both are right. In its first year, the law moved few children out of public schools and mostly paid tuition that families had been paying themselves.
 
 The share of private school students with a scholarship, not counting the disability scholarship, rose from about 23 percent in 2015-16 to 43 percent in 2022-23, after a 2021 law raised the income limit, and to about 65 percent in 2024-25, according to Department of Education and auditor general counts. The image with this post shows each year. No record says how many disability scholarship students attend private schools.
 
@@ -105,7 +105,6 @@ Every source below was re-read on 22 Oct 2026 against the text; rows for the par
 | 74,446 (2022-23) to 163,242 (2025-26); about three in ten | Auditor General 2026-046, Table 3 (74,446). CS/SB 318 analysis, p. 3: "163,242 students were funded through the FES-UA scholarship" of 560,935 total = 29.1% |
 | Cap; children from public schools exempt; lifted for 2023-24 | SB 4-C analysis, p. 4: cap 26,500 in 2022-23, plus 3% of ESE membership a year; exempt: students who "spent the prior school year in attendance at a Florida public school," former McKay students, VPK, foster, military. Ch. 2023-350 set the 2023-24 maximum at the number determined by the department and the scholarship organizations. "When demand passed it": Sen. Jay Collins said 8,839 students were waiting (WLRN, Nov. 7, 2023, source 12); a news report of a senator's statement, not a state count |
 | Share of private students with a scholarship: 23% (2015-16), 43% (2022-23), about 65% (2024-25) | Source 13 and notes, 'Share of private school students... by year': 78,664 / 345,796 = 22.7%; (100,025 + 92,232) / 445,067 = 43.2%; (267,413 + 114,443 − 59,925 account students) / 496,519 = 64.8%. The account students are subtracted because the auditor's Tax Credit count includes them |
-| "Money moved more than children did" | Step Up count above: 84,505 of 122,895 new students (69%) had been in private school; 16,096 (13%) came from public schools. Interpretation of these figures, not a finding from a source |
 
 **Caveats:**
 - The 69 percent figure comes from Step Up For Students, which administers and supports the scholarships, and reaches us through a news report. We found no state agency that publishes the same breakdown. Critics cited the figures rather than disputing them.
@@ -147,7 +146,7 @@ Every source below was re-read on 22 Oct 2026 against the text; rows for the par
 - The auditor's totals (266,703 and 398,185) are back, now in the same paragraph as the fall 2023 newcomers, so the reader sees the total first and then who was new. The disability paragraph's "three in ten" again has a total to compare with.
 - Every paragraph tightened: the House Bill 1 paragraph is two sentences, "Both are right" is two, the share paragraph is one sentence plus the image line, and the Florida State University finding is one sentence.
 - About 810 words to about 770.
-- RJ found "In the terms of the first post's money map, money moved more than children did" awkward. It is now "The money moved more than the children did."
+- RJ found "In the terms of the first post's money map, money moved more than children did" awkward. It was cut; the sentence before it already makes the point.
 
 **Draft 10 (RJ: the middle paragraphs didn't flow and weren't tight):**
 - Five paragraphs became four, about 330 words to about 250. The post now goes straight from House Bill 1 to the fall 2023 newcomers and their three-way split (69, 18 and 13 percent).
