@@ -31,7 +31,7 @@ In 2000, lawmakers took the McKay pilot statewide.
 
 In 2001, they added a third program, funded in a new way. Under the Tax Credit Scholarship, corporations donate to nonprofit scholarship organizations and receive an equal state tax credit. Eligibility turned on income, not on disability or a school's rating. Any child from a family poor enough for free or reduced-price school lunch could apply, if the child was leaving a public school or starting kindergarten or first grade.
 
-The voucher for failing schools did not last. In January 2006, the Florida Supreme Court ruled 5 to 2 that its private-school option violated the State Constitution, which requires "a uniform, efficient, safe, secure, and high quality system of free public schools." The majority read that clause as making public schools the way the state must educate children. It found that voucher schools played by different rules: they could hire teachers without bachelor's degrees and did not have to teach the subjects public schools must. Chief Justice Barbara J. Pariente wrote that the program "diverts public dollars into separate private systems parallel to and in competition with the free public schools." In dissent, Justice Kenneth B. Bell wrote that the Constitution "does not forbid the Legislature from enacting a well-delineated program" of this kind.
+In 2006, the Florida Supreme Court struck down the voucher for failing schools. It ruled 5 to 2 that the program's private-school option violated the State Constitution, which requires "a uniform, efficient, safe, secure, and high quality system of free public schools." The majority read that clause as making public schools the way the state must educate children. It found that voucher schools played by different rules: they could hire teachers without bachelor's degrees and did not have to teach the subjects public schools must. Chief Justice Barbara J. Pariente wrote that the program "diverts public dollars into separate private systems parallel to and in competition with the free public schools." In dissent, Justice Kenneth B. Bell wrote that the Constitution "does not forbid the Legislature from enacting a well-delineated program" of this kind.
 
 The case involved only the voucher for failing schools. The other two programs kept growing.
 
@@ -160,6 +160,7 @@ These are accurate and sourced. They were moved out of the post because they are
 ## Editor's notes
 
 **Draft 13 (less detail, at RJ's request):**
+- The court paragraph now opens with its year, like the other steps: "In 2006, the Florida Supreme Court struck down the voucher for failing schools." The month (January) moved to the fact-check table, which already has the date.
 - Moved to the notes: House Bill 1's vote tallies and signing date, McKay's growth figures, and the 95 percent award level. None is needed to follow how the programs grew. The tallies and award level stay in the fact-check table and notes for replies.
 
 **Draft 12 (tightened at RJ's request, no ideas dropped):**
