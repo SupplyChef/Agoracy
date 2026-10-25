@@ -35,7 +35,7 @@ Each side pointed to a different number. Step Up, which supports the program, po
 
 Both are right. In its first year, the law moved few children out of public schools and mostly paid tuition that families had been paying themselves.
 
-The share of private school students with a scholarship, not counting the disability scholarship, rose from about 23 percent in 2015-16 to 43 percent in 2022-23, after a 2021 law raised the income limit, and to about 65 percent in 2024-25, according to Department of Education and auditor general counts. The image with this post shows each year. No record says how many disability scholarship students attend private schools.
+The share of private school students with a scholarship, not counting the disability scholarship, rose from about 23 percent in 2015-16 to 43 percent in 2022-23, after a 2021 law raised the income limit, and to about 65 percent in 2024-25, according to Department of Education and auditor general counts. No record says how many disability scholarship students attend private schools.
 
 The children who do leave public schools have changed too. A 2025 Florida State University evaluation, required by state law, found that students who left for a Family Empowerment Scholarship in 2023-24 were less likely to be poor than those who stayed: 42 percent qualified for free or reduced-price lunch, against 52 percent. Test scores were about the same. The study did not say why. In a 2025 Step Up survey, families who won a scholarship but did not use it most often cited no open seat, tuition or fees beyond the scholarship, and transportation.
 
@@ -147,6 +147,7 @@ Every source below was re-read on 22 Oct 2026 against the text; rows for the par
 - Every paragraph tightened: the House Bill 1 paragraph is two sentences, "Both are right" is two, the share paragraph is one sentence plus the image line, and the Florida State University finding is one sentence.
 - About 810 words to about 770.
 - RJ found "In the terms of the first post's money map, money moved more than children did" awkward. It was cut; the sentence before it already makes the point.
+- Cut "The image with this post shows each year" (RJ: unneeded).
 
 **Draft 10 (RJ: the middle paragraphs didn't flow and weren't tight):**
 - Five paragraphs became four, about 330 words to about 250. The post now goes straight from House Bill 1 to the fall 2023 newcomers and their three-way split (69, 18 and 13 percent).
