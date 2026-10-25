@@ -135,6 +135,8 @@ Every source below was re-read on 22 Oct 2026 against the current text.
 
 - **The auditor's Tax Credit count includes the home-schooling account (added 25 Oct).** Senate staff list 54,356 Tax Credit and 58,943 account students as of March 2025 (SB 7030 analysis, p. 2); together 113,299, close to the auditor's 114,443. This corrects the earlier note that the report doesn't say: it doesn't say, but the numbers show it. By fall 2025, only 7,560 children used Tax Credit at a private school (CS/SB 318 analysis, p. 3).
 
+- **Share of private school students with a Tax Credit or income-based/general Family Empowerment scholarship, by year (added 25 Oct; disability scholarships excluded).** 2015-16: 78,664 / 345,796 = 22.7%. 2016-17: 98,936 / 368,321 = 26.9%. 2017-18: 108,098 / 370,166 = 29.2%. 2018-19: 104,091 / 380,295 = 27.4%. 2019-20: Tax Credit alone 111,219 / 397,970 = 27.9% (Family Empowerment count not verified). 2021-22: (85,612 + 77,141) / 416,084 = 39.1%. 2022-23: (100,025 + 92,232) / 445,067 = 43.2%. 2023-24: (156,038 + 148,222 less up to 20,000 home-schooling accounts) / 466,004 = 61.0 to 65.3%. 2024-25: (267,413 + 114,443 − 59,925) / 496,519 = 64.8% (auditor counts), or 64.4% (Step Up counts). Sources: FL DOE Tax Credit fact sheet, Oct. 2020 (2015-16 to 2019-20; https://www.fldoe.org/core/fileparse.php/5606/urlt/FTC-Sept-2020-line.pdf); House HB 1 analysis, pp. 4, 11 (2021-22, "awarded"); Auditor General 2026-046, Tables 2 and 4 (2022-23 to 2024-25); FL DOE private school annual reports 2018-19, 2021-22, 2023-24, 2024-25 (enrollment). Caveat: counts mix "awarded" and "funded" definitions across sources.
+
 ---
 
 ## Editor's notes
