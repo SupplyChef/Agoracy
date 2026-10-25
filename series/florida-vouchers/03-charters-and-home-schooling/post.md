@@ -9,7 +9,7 @@ updated: 2026-10-25
 
 # Post 3 of 12: Charter schools and home schooling
 
-Draft 3, 25 Oct 2026. Rebuilt around the money map: shares by setting before and after 2023, and the open question about the disability and Tax Credit money. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 4, 25 Oct 2026. Starts with charters and home schooling and ends with where children learn now; draft 3 rebuilt it around the money map. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -22,10 +22,6 @@ Charter Schools and Home Schooling: Florida's Other Ways Out
 Families who leave Florida's district-run public schools can choose a private school, with or without a voucher, a charter school, or home schooling. Each comes with its own rules. Since 2023, the state has also paid for home schooling through a new account open to any child, up to a cap.
 
 The first post in this series traced where Florida's school money goes. The second looked at who uses the scholarships. This post looks at where the children learn.
-
-First, the scale. In 2022-23, the last school year before vouchers were open to every child, Florida had about 3.47 million students from kindergarten through 12th grade, according to the Department of Education. About 72 percent attended district-run public schools. About 11 percent attended charter schools. About 13 percent attended private schools, and more than four in ten of those private school students had a Tax Credit or income-based Family Empowerment scholarship, according to the auditor general. About 4 percent were home-schooled.
-
-Two years later, in 2024-25, Florida had about 3.56 million students. The share in district-run schools had fallen to 69 percent. Charter schools still had about 11 percent. Private schools had about 14 percent, and at least six in ten of their students had a Tax Credit or general Family Empowerment scholarship, according to Step Up For Students counts reported by Florida Senate staff. About 6 percent learned at home, counting a new state-funded account described below. The disability scholarship paid for some children in private schools and some at home in both years, but no state record says how many in each.
 
 Florida authorized charter schools in 1996. Five opened that school year, serving about 600 students, according to a 2004 Florida Senate report. A charter school is a public school. It charges no tuition. A nonprofit group runs it under a contract with the school district, and the state pays for its students through the same formula it uses for other public schools.
 
@@ -42,6 +38,8 @@ The law capped the program at 20,000 students in its first year and allowed 40,0
 Children in the program follow their own rules. Parents must file a learning plan each year. The child must take a nationally normed test from a state-approved list. The results go to the scholarship organization, which reports them to a state university.
 
 Private schools that take vouchers follow a fourth set of rules. Their scholarship students take a nationally normed test from a state list, or the state test, and an evaluator at Florida State University reports the results.
+
+Together, these options have changed where Florida's children learn. In 2024-25, Florida had about 3.56 million students from kindergarten through 12th grade, according to Department of Education and Step Up counts. About 69 percent attended district-run public schools, down from 72 percent two years earlier. Charter schools had about 11 percent. Private schools had about 14 percent, and at least six in ten of their students had a Tax Credit or general Family Empowerment scholarship, according to Step Up For Students counts reported by Florida Senate staff. About 6 percent learned at home, counting the account students.
 
 Supporters and opponents read these choices differently. Sen. Don Gaetz, a Republican and former school superintendent, defended a 2025 bill to let parents convert a public school into a charter school. He said "the entirety of Florida education policy is wrapped around parental choice." The Department of Education reports that charter students outscored students in traditional public schools in 55 of 77 comparisons in 2024-25. The department compares raw results and does not adjust for other differences between students.
 
@@ -81,9 +79,8 @@ Sources for this post:
 
 | Claim in the post | Source and what it says |
 |---|---|
-| 2022-23: about 3.47 million K-12 students; 72% district-run, 11% charter, 13% private, 4% home-schooled | FL DOE Charter Enrollment Share 2022-23: public enrollment 2,870,507, charter 382,367 (13.3% of public). Private Schools Annual Report 2022-23: 445,067. Home Education Annual Report: 154,289 in 2022-23. Total 2,870,507 + 445,067 + 154,289 = 3,469,863. District-run = 2,870,507 − 382,367 = 2,488,140 (71.7%). Charter 11.0%; private 12.8%; home 4.4% |
+| District-run share "down from 72 percent two years earlier" (2022-23). Other 2022-23 shares are notes only since draft 4 | FL DOE Charter Enrollment Share 2022-23: public enrollment 2,870,507, charter 382,367 (13.3% of public). Private Schools Annual Report 2022-23: 445,067. Home Education Annual Report: 154,289 in 2022-23. Total 2,870,507 + 445,067 + 154,289 = 3,469,863. District-run = 2,870,507 − 382,367 = 2,488,140 (71.7%). Charter 11.0%; private 12.8%; home 4.4% |
 | Since 2023, the state has paid for home schooling through a new account open to any child, up to a cap (summary line) | HB 1 (2023) created the Personalized Education Program; first funded year 2023-24 (PKA analysis p. 7: cap of 20,000 "For the 2023-2024 school year"). Before that, only the disability scholarship could pay for home schooling; its home-school users are not counted separately |
-| More than four in ten private school students had a voucher (2022-23) | Auditor General 2026-046: Tax Credit 100,025 + FES-EO 92,232 = 192,257 in 2022-23; both programs paid only for private school that year. 192,257 / 445,067 = 43.2%. Excludes the disability scholarship (FES-UA, 74,446), which could be used at a private school or at home; the split is not published, so the true share is somewhat higher. The auditor general's counts are undefined department records and may not match the survey's snapshot, so the share is approximate |
 | Charter schools authorized in 1996; five opened, about 600 students | Senate Interim Report 2005-206: "Florida enacted legislation authorizing charter schools in 1996"; "Five charter schools serving about 600 students operated during 1996-97" |
 | Public, no tuition, nonprofit, contract with district | SB 822 analysis p. 2: "Charter schools are tuition-free public schools created through an agreement or 'charter'"; "must be organized as, or be operated by, a nonprofit organization"; "the applicants and district school board agree upon a charter or contract" |
 | Paid through the same formula | Senate 2005-206: "Because a charter school is a public school," the same per-student funding calculation applies; funds "flow through a local school district" |
@@ -107,7 +104,7 @@ Sources for this post:
 | Spar quotes and context | WFSU, May 1, 2025: "So, it's this constant eating away at the public schools,"; "We cannot end up with public schools that are schools of last resort." Post quotes from "this constant..." |
 | Closing: more than 400,000 in charters; tens of thousands of home-schooled children funded | FL DOE charter page; Step Up counts above |
 
-| 2024-25: about 3.56 million; 69 / 11 / 14 / 6 percent | Total 3,561,555 (see notes). 2,447,890 / 3,561,555 = 68.7%; 404,350 = 11.4%; 496,519 = 13.9%; (152,871 + 59,925) = 6.0% |
+| 2024-25: about 3.56 million; 69 / 11 / 14 / 6 percent | Total 3,561,555 (see notes): Department of Education counts plus Step Up's 59,925 account students. 2,447,890 / 3,561,555 = 68.7%; 404,350 = 11.4%; 496,519 = 13.9%; (152,871 + 59,925) = 6.0% |
 | At least six in ten private students had a Tax Credit or general Family Empowerment scholarship (2024-25) | SB 7030 analysis, p. 2 (Step Up, March 2025): FES-EO 265,522; FTC 54,356 (separate from PEP 58,943). 319,878 / 496,519 = 64.4% |
 | Disability scholarship split between private and home not published | Checked: Auditor General 2026-046, SB 7030 and CS/SB 318 analyses, DOE, Step Up, EdChoice. None reports it |
 | 84,140 account students, November 2025 | CS/SB 318 analysis, p. 3: "84,140 students were funded through the PEP scholarship" (DOE email, Dec. 1, 2025) |
@@ -123,6 +120,7 @@ Sources for this post:
 
 ## Notes: details kept out of the main text
 
+- **2022-23 scale paragraph (cut in draft 4; RJ: not needed up front).** "In 2022-23, the last school year before vouchers were open to every child, Florida had about 3.47 million students from kindergarten through 12th grade. About 72 percent attended district-run public schools, 11 percent charter schools, 13 percent private schools, and 4 percent were home-schooled. More than four in ten private school students had a Tax Credit or income-based Family Empowerment scholarship" (192,257 / 445,067 = 43.2%, Auditor General 2026-046). The image still shows 2022-23 beside 2024-25.
 - **Students by setting, 2022-23, in full.** District-run public 2,488,140 (71.7%); charter 382,367 (11.0%); private with a Tax Credit or FES-EO voucher 192,257 (5.5%); other private 252,810 (7.3%), some with a disability scholarship; home-schooled 154,289 (4.4%), some with a disability scholarship. For 2024-25, the charter achievement report gives the public and charter counts (see the 2024-25 breakdown below).
 - **Learning gains.** In the same FL DOE report, charter students had higher learning gains in 58 of 96 comparisons in 2024-25 (67 of 96 in 2023-24); traditional public schools led in 31 (22). 
 - **Early charter grades.** By 2003-04, 255 charter schools were operating; of those graded, 52 earned an A, 15 a B, 33 a C, 18 a D and 17 an F. (Senate 2005-206.)
@@ -141,6 +139,12 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 4 (RJ: is the scale paragraph needed? start with charters and home schooling, then loop back to vouchers):**
+- Cut the 2022-23 scale paragraph; its figures are in the notes, and the image still shows both years. The post now opens with charters (1996), then home schooling, the 2023 account and the rules each option follows.
+- The 2024-25 scale paragraph moved after the rules, opening "Together, these options have changed where Florida's children learn." It keeps one comparison with 2022-23 (district-run share down from 72 percent to 69).
+- Cut the scale paragraph's sentence on the disability scholarship's unknown split; the closing paragraph makes the same point with the dollar amounts.
+- About 980 words to about 880.
 
 **Draft 3, sources and notes check (RJ asked whether they still match the text; post text unchanged):**
 - Fact-check table: five rows added in draft 3 sat below the caveats, outside the table; moved into it. Removed a duplicate 2022-23 share row. Reworded the "came the next year" row, which matched no current sentence, and the program-count row, which still cited the 2025-26 Step Up figure the text no longer uses.
