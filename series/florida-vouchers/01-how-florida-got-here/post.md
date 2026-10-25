@@ -128,6 +128,7 @@ Sources for this post, all official records:
 | $3.2B for Family Empowerment, state money only; $2.0B general, $1.2B disability | Auditor General 2026-046, Tables 2-3: $2,004.2M + $1,169.6M = $3,173.8M. HB 7045 summary: scholarships "funded in the FEFP with state funds only, not local funds" |
 | About 11 percent in 2024-25, about 5 percent in 2022-23 | $3,173.8M / $28,590.8M = 11.1%. 2022-23: ($637.3M + $673.5M) / $24,530.2M = 5.3% (FEFP 2022-23 third calculation, "TOTAL FUNDING 24,530,241,398") |
 | Tax Credit $0.8B | Auditor General 2026-046, Table 4: $804.5M |
+| Image: private schools 497,000 students in all, at least 320,000 with a general or Tax Credit scholarship | DOE private school report 2024-25: 496,519 total. Senate SB 7030 analysis, p. 2 (Step Up, March 2025): 265,522 FES-EO + 54,356 FTC = 319,878; excludes AAA, so a floor. Not to be confused with the 497,284 scholarship students of all kinds in the text |
 | Simon quote | Governor's press release, March 27, 2023: "we are going to stop funding systems and start funding students" (verified verbatim) |
 | "Supporters see... / Critics see..." | Summarizes the two sides' stated positions: Simon, Passidomo and Renner in the governor's release; the FEA statement ("drain billions of taxpayer dollars away from the neighborhood public schools"). Not a factual claim. Every program began with limited eligibility (Opportunity: school rating; McKay and Gardiner: disability; Tax Credit: free or reduced-price lunch; FES: 300% FPL), sourced above |
 
