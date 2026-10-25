@@ -31,7 +31,7 @@ In March 2023, the Legislature passed House Bill 1. It made any child who could 
 
 Scholarship students of all kinds rose from 266,703 in 2022-23 to 398,185 in 2023-24, according to the state's auditor general. Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted 122,895 who were new in the fall of 2023. Of those, 69 percent had been in private school, 18 percent were starting kindergarten, and 13 percent came from public schools.
 
-Each side pointed to a different number. Step Up, which supports the program, pointed to the 16,096 children from public schools, far from the "exodus" it said critics had forecast. The Florida Policy Institute, a research group that opposed the law, pointed to the 84,505 already in private school. It said the "money is going to subsidize tuition that families were already paying."
+The law's supporters and opponents pointed to different numbers. Step Up, which supports the program, pointed to the 16,096 children from public schools, far from the "exodus" it said critics had forecast. The Florida Policy Institute, a research group that opposed the law, pointed to the 84,505 already in private school. It said the "money is going to subsidize tuition that families were already paying."
 
 Both are right. In its first year, the law moved few children out of public schools and mostly paid tuition that families had been paying themselves.
 
@@ -148,6 +148,7 @@ Every source below was re-read on 22 Oct 2026 against the text; rows for the par
 - The survey sentence now follows from "The study did not say why": "A 2025 Step Up survey points to some obstacles" (RJ: didn't flow). The survey is not broken down by income, so it is offered as obstacles, not as the reason.
 - "The study did not say why" became "The evaluation did not explain the income gap" (RJ: which study?). The paragraph calls it an evaluation, and "why" had no clear object.
 - Then cut both sentences, the evaluation's silence and the Step Up survey (RJ: make a clear point or remove). The survey can't make a clear point here: it is an advocate's survey of families who didn't use a scholarship, not broken down by income, so it can't explain the income gap. It stays in the notes. Its source (Fordham) left the first comment; sources renumbered 1 to 12.
+- Final read: "Each side pointed to a different number" became "The law's supporters and opponents pointed to different numbers", since "each side" had no antecedent. About 730 words.
 
 **Draft 10 (RJ: the middle paragraphs didn't flow and weren't tight):**
 - Five paragraphs became four, about 330 words to about 250. The post now goes straight from House Bill 1 to the fall 2023 newcomers and their three-way split (69, 18 and 13 percent).
