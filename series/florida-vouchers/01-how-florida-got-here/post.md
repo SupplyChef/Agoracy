@@ -9,7 +9,7 @@ updated: 2026-10-25
 
 # Post 1 of 12: Florida's 25-year experiment
 
-Draft 12, 25 Oct 2026. Tightened; rebuilt around the money map in draft 11. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png), the 2024-25 money map.
+Draft 13, 25 Oct 2026. Tightened, with side details moved to the notes; rebuilt around the money map in draft 11. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png), the 2024-25 money map.
 
 ---
 
@@ -27,7 +27,7 @@ That same year, the Legislature passed a second program, proposed by Gov. Jeb Bu
 
 Florida calls this aid "scholarships." Other states would call it vouchers or, in some cases, education savings accounts. By 2024-25, the programs funded 497,284 students, worth $3.98 billion, according to the state's auditor general. That is about one scholarship student for every six public school students, at about $8,000 each. Here is how it got there.
 
-In 2000, lawmakers took the McKay pilot statewide. It grew from 1,021 students that year to 9,130 two years later, according to the same Senate report.
+In 2000, lawmakers took the McKay pilot statewide.
 
 In 2001, they added a third program, funded in a new way. Under the Tax Credit Scholarship, corporations donate to nonprofit scholarship organizations and receive an equal state tax credit. Eligibility turned on income, not on disability or a school's rating. Any child from a family poor enough for free or reduced-price school lunch could apply, if the child was leaving a public school or starting kindergarten or first grade.
 
@@ -37,11 +37,11 @@ The case involved only the voucher for failing schools. The other two programs k
 
 In 2014, lawmakers created a fourth program, the Gardiner Scholarship, a spending account for children with disabilities.
 
-In 2019 came the fifth, the Family Empowerment Scholarship, for families earning up to 300 percent of the federal poverty level and capped at 18,000 students. Unlike Tax Credit, it was paid through the Florida Education Finance Program, the formula that sets how much money each school district receives per student. Each scholarship was worth 95 percent of what the formula provided for a student in the basic program.
+In 2019 came the fifth, the Family Empowerment Scholarship, for families earning up to 300 percent of the federal poverty level and capped at 18,000 students. Unlike Tax Credit, it was paid through the Florida Education Finance Program, the formula that sets how much money each school district receives per student.
 
 In 2021, the Legislature began merging the programs. It folded the two disability programs into Family Empowerment, Gardiner that year and McKay the next, and raised the income limit for Tax Credit and Family Empowerment to 375 percent of the poverty level. That left two programs. Tax Credit was paid for by donations the state credits against corporate taxes. Family Empowerment was paid with state money through the formula and had two parts: one for children under the income limit, and one for children with disabilities, with no income test.
 
-In March 2023, House Bill 1 removed the income limits. It passed 83 to 27 in the House and 26 to 12 in the Senate, and Gov. Ron DeSantis signed it on March 27. Every child eligible to attend a Florida public school became eligible for a scholarship, whatever the family's income. The law also let the Tax Credit Scholarship pay for home schooling, through a new account.
+In March 2023, the Legislature passed House Bill 1, which removed the income limits, and Gov. Ron DeSantis signed it. Every child eligible to attend a Florida public school became eligible for a scholarship, whatever the family's income. The law also let the Tax Credit Scholarship pay for home schooling, through a new account.
 
 Since then, the two programs have offered four kinds of aid. Tax Credit pays for private school or, through the account, for home schooling. Family Empowerment has a general scholarship for private school and a disability scholarship that families can spend on private school, home schooling or services such as therapy. A Tax Credit scholarship and a general Family Empowerment scholarship are worth the same; what differs is who pays. The law spends donations first: every Tax Credit scholarship must be funded before general Family Empowerment scholarships are awarded from the state budget.
 
@@ -153,9 +153,14 @@ These are accurate and sourced. They were moved out of the post because they are
 - **DeSantis's signing quote:** "the largest expansion of education choice in the history of these United States." He signed the bill in Miami. (Governor's press release; WLRN.)
 - **Other voices in the governor's release:** House Speaker Paul Renner ("Florida puts parents and students first by giving them the freedom to customize their education") and Senate President Kathleen Passidomo.
 
+- **Moved from the text in draft 13 (RJ: less detail).** House Bill 1 passed 83 to 27 in the House (March 17, 2023) and 26 to 12 in the Senate (March 23), and Gov. DeSantis signed it on March 27 (Florida Senate bill history; governor's release). McKay grew from 1,021 students in 2000-01 to 9,130 in 2002-03 (Senate Interim Report 2004-130). Each Family Empowerment scholarship was first set at 95 percent of the formula's amount for a basic-program student (SB 7070 summary); since 2021 it is 100 percent.
+
 ---
 
 ## Editor's notes
+
+**Draft 13 (less detail, at RJ's request):**
+- Moved to the notes: House Bill 1's vote tallies and signing date, McKay's growth figures, and the 95 percent award level. None is needed to follow how the programs grew. The tallies and award level stay in the fact-check table and notes for replies.
 
 **Draft 12 (tightened at RJ's request, no ideas dropped):**
 - About 1,110 words down to about 1,030. Mostly sentence-level cuts and merges.
