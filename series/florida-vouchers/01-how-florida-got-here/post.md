@@ -4,12 +4,12 @@ series: florida-vouchers
 number: 1
 status: draft
 image: image.png
-updated: 2026-10-19
+updated: 2026-10-25
 ---
 
 # Post 1 of 12: Florida's 25-year experiment
 
-Draft 10, 19 Oct 2026. Edited to New York Times standards, in chronological order, with side details moved to the notes. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. The image is unchanged: [image.png](image.png).
+Draft 11, 25 Oct 2026. Rebuilt around the money map: the history now ends on where the money goes today. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png), the 2024-25 money map.
 
 ---
 
@@ -19,7 +19,7 @@ Florida vouchers, 1 of 12
 
 How Florida Went From Vouchers for a Few Children to Vouchers for Every Child
 
-Over 25 years, the state created five programs. Two remain. They are open to every child, and they are worth nearly $4 billion a year.
+Over 25 years, the state created five programs. Two remain, open to every child and worth nearly $4 billion a year. Most of that money is paid through the same funding system as public schools.
 
 In 1999, Florida paid $3,525 to send two children with disabilities to private school, according to a Florida Senate report. They were the first students in the McKay Scholarship, a pilot run in a single school district. It let a public school student with a disability take state school funding to a private school or to another public school.
 
@@ -41,15 +41,17 @@ In 2019 came the fifth, the Family Empowerment Scholarship. Unlike the Tax Credi
 
 In 2021, the Legislature began merging the programs. It folded the two disability programs into Family Empowerment, Gardiner that year and McKay the next. The same law raised the income limit for the two income-based programs, Tax Credit and Family Empowerment, to 375 percent of the poverty level.
 
-That left two programs. The Florida Tax Credit Scholarship was open to children from families under the income limit and was paid for by corporate donations the state credits against taxes. The Family Empowerment Scholarship had two parts: one for children from families under the same income limit, and one for children with disabilities, with no income test. It was paid with state money through the school funding formula.
+That left two programs. Tax Credit was paid for by corporate donations the state credits against taxes. Family Empowerment was paid with state money through the school funding formula, and it had two parts: one for children from families under the income limit, and one for children with disabilities, with no income test.
 
-In March 2023, the Legislature removed the income limits. House Bill 1 passed 83 to 27 in the House and 26 to 12 in the Senate, and Gov. Ron DeSantis signed it on March 27. It made every child eligible to attend a Florida public school eligible for a scholarship, whatever the family's income.
+In March 2023, the Legislature removed the income limits. House Bill 1 passed 83 to 27 in the House and 26 to 12 in the Senate, and Gov. Ron DeSantis signed it on March 27. It made every child eligible to attend a Florida public school eligible for a scholarship, whatever the family's income. It also let the Tax Credit Scholarship pay for home schooling, through a new account.
 
-Families apply through a nonprofit scholarship organization, and since 2021 the award has been the same in both income-based programs. What differs is who pays. The law requires every Tax Credit scholarship to be funded, from donations, before income-based Family Empowerment scholarships are awarded from the state budget.
+Since then, the two programs have offered four kinds of aid. The Tax Credit Scholarship pays for private school or, through the new account, for home schooling. Family Empowerment has a general scholarship for private school and a disability scholarship that families can spend on private school, home schooling or services such as therapy. A Tax Credit scholarship and a general Family Empowerment scholarship are worth the same; what differs is who pays. The law requires every Tax Credit scholarship to be funded, from donations, before general Family Empowerment scholarships are awarded from the state budget.
 
 The bill's Senate sponsor, Sen. Corey Simon, put the argument for it plainly: "we are going to stop funding systems and start funding students." The Florida Education Association, the statewide teachers union, said the law "will drain billions of taxpayer dollars away from the neighborhood public schools."
 
 Within two years, enrollment nearly doubled. The auditor general counted 266,703 scholarship students and $2.0 billion in 2022-23, and 497,284 students and $3.98 billion in 2024-25.
+
+The image with this post shows where the money went in 2024-25. State and local school funding totaled $28.6 billion, according to the Florida Senate's budget committee. Within it, the state paid $3.2 billion in Family Empowerment scholarships from its own share, according to the auditor general. That was about 11 percent of the total, up from about 5 percent two years earlier. The Tax Credit Scholarship added $0.8 billion.
 
 Supporters see Florida's path as lawmakers responding, step by step, to parents who wanted more options. Critics see narrow programs, created for children with particular needs, that grew into a large system paid for with money that would otherwise go to public schools.
 
@@ -76,6 +78,10 @@ Sources for this post, all official records:
 11. Florida Education Association statement, March 27, 2023. https://feaweb.org/release/fea-statement-on-signing-of-universal-voucher-bill/
 12. Enrollment and payments, 2022-23 and 2024-25: Florida Auditor General Report 2026-046, Tables 2-4. https://flauditor.gov/pages/pdf_files/2026-046.pdf
 13. Public school enrollment, 2024-25 (2,859,600): U.S. Department of Education, NCES Common Core of Data, Table 2. https://nces.ed.gov/ccd/tables/202425_summary_2.asp
+14. State and local school funding, 2024-25 ($28.6 billion): Florida Senate Committee on Appropriations, "Public School Funding: The Florida Education Finance Program," April 3, 2025, p. 2, 2024-25 third calculation column. https://www.flsenate.gov/PublishedContent/Session/2025/Conference/9/RelatedDocument/Florida%20Education%20Finance%20Program%20(FEFP)_1410.pdf
+15. State and local school funding, 2022-23 ($24.5 billion): Florida Department of Education, FEFP 2022-23 Third Calculation, p. 2. https://www.fldoe.org/core/fileparse.php/7507/urlt/2223FEFPThirdCalc.pdf
+16. What the disability scholarship can pay for: Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, pp. 16-17. https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF
+17. Image only, federal money to public schools ($6.9 billion, 2023-24): NCES, "Revenues and Expenditures for Public Elementary and Secondary Education: FY 2024," Table 1. https://nces.ed.gov/sites/default/files/nces/document/2026/05/2026008_FY24NPEFS_FirstLook.pdf
 
 ---
 
@@ -115,6 +121,14 @@ Sources for this post, all official records:
 | The two remaining programs differ mainly in how they are paid for | OPPAGA 08-68 (FTC: tax-credited donations); SB 7070 (FES: FEFP). "Mainly" because FES also has a disability part (FES-UA) |
 | 2021: income limit for both income-based programs raised to 375% FPL | HB 7045 summary: FTC "increasing the household income limit to 375 [percent] of the federal poverty level"; FES 375% likewise |
 | About one scholarship student per six public students; about $8,000 each | 2,859,600 (NCES CCD 2024-25) / 497,284 = 5.75; $3,978.3M / 497,284 = $8,000 |
+| HB 1 let Tax Credit pay for home schooling through a new account | Senate summary of HB 1: creates the Personalized Education Program, funded through the FTC; Education Estimating Conference, Feb. 14, 2025: PEP funded only through FTC |
+| Four kinds of aid; disability scholarship can pay for private school, home schooling or services such as therapy | Senate bill analysis, CS/SB 318 (2026), pp. 16-17, FES-UA authorized uses: "an eligible private school"; "Tuition or fees associated with full-time or part-time enrollment in a home education program"; "occupational therapy services, services provided by physical therapists"; "Contracted services provided by a public school or school district, including classes" |
+| Tax Credit and general Family Empowerment scholarships worth the same | HB 7045 summary: both set at 100 percent of the calculated FEFP amount |
+| State and local funding $28.6B (2024-25) | Senate Appropriations FEFP summary, Apr. 3, 2025, p. 2: "Total Funding 28,590,844,425" (state 15,604,421,458 + local 12,986,422,967), 2024-25 third calculation |
+| $3.2B for Family Empowerment, state money only; $2.0B general, $1.2B disability | Auditor General 2026-046, Tables 2-3: $2,004.2M + $1,169.6M = $3,173.8M. HB 7045 summary: scholarships "funded in the FEFP with state funds only, not local funds" |
+| About 11 percent in 2024-25, about 5 percent in 2022-23 | $3,173.8M / $28,590.8M = 11.1%. 2022-23: ($637.3M + $673.5M) / $24,530.2M = 5.3% (FEFP 2022-23 third calculation, "TOTAL FUNDING 24,530,241,398") |
+| Tax Credit $0.8B | Auditor General 2026-046, Table 4: $804.5M |
+| Summary line: "Most of that money is paid through the same funding system as public schools" | $3,173.8M of $3,978.3M (80%) is Family Empowerment, paid through the FEFP (SB 7070; HB 7045; Auditor General 2026-046, p. 6: "Funded by FEFP Funds") |
 | Simon quote | Governor's press release, March 27, 2023: "we are going to stop funding systems and start funding students" (verified verbatim) |
 | "Supporters see... / Critics see..." | Summarizes the two sides' stated positions: Simon, Passidomo and Renner in the governor's release; the FEA statement ("drain billions of taxpayer dollars away from the neighborhood public schools"). Not a factual claim. Every program began with limited eligibility (Opportunity: school rating; McKay and Gardiner: disability; Tax Credit: free or reduced-price lunch; FES: 300% FPL), sourced above |
 
@@ -145,6 +159,13 @@ These are accurate and sourced. They were moved out of the post because they are
 ---
 
 ## Editor's notes
+
+**Draft 11 (rebuilt around the money map, at RJ's request):**
+- New image: the 2024-25 money map (who pays, how it is paid, where it goes). It replaces the old image. A matching 2022-23 map is kept in the drafts folder for comparison.
+- The House Bill 1 paragraph now says the law also created the home-schooling account paid through the Tax Credit Scholarship. Post 3 introduced it, but post 1 never mentioned it.
+- The paragraph after House Bill 1 now names the four kinds of aid in one place. "Income-based" is no longer used for scholarships after 2023, since they have had no income limit since then; they are called "general".
+- New paragraph describing the map: $28.6 billion in state and local funding, $3.2 billion of it (state money only) for Family Empowerment, about 11 percent, up from about 5 percent; $0.8 billion through tax credits. The question of whether that money comes out of public schools' share stays in post 6.
+- Summary line adds that most of the money is paid through the same funding system as public schools.
 
 **Draft 10 (final read, agreed with RJ):**
 - New headline. The old one said Florida went "from vouchers for failing schools," but the post shows the failing-schools voucher ended in 2006 and the current programs grew from the others.

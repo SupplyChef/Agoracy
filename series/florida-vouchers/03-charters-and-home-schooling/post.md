@@ -4,12 +4,12 @@ series: florida-vouchers
 number: 3
 status: draft
 image: image.png
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 # Post 3 of 12: Charter schools and home schooling
 
-Draft 2, 23 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 3, 25 Oct 2026. Rebuilt around the money map: shares by setting before and after 2023, and the open question about the disability and Tax Credit money. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -19,11 +19,13 @@ Florida vouchers, 3 of 12
 
 Charter Schools and Home Schooling: Florida's Other Ways Out
 
-Vouchers are one of three ways Florida families leave district-run public schools. The other two are charter schools and home schooling. Each comes with its own rules. In 2023, the state began paying for home schooling for any child.
+Families who leave Florida's district-run public schools can choose a private school, with or without a voucher, a charter school, or home schooling. Each comes with its own rules. Since 2023, the state has also paid for home schooling through a new account open to any child, up to a cap.
 
-The second post in this series looked at who uses Florida's vouchers. This post looks at the other two choices.
+The first post in this series traced where Florida's school money goes. The second looked at who uses the scholarships. This post looks at where the children learn.
 
-First, the scale. In 2022-23, the last school year before vouchers were open to every child, Florida had about 3.47 million students from kindergarten through 12th grade. About 72 percent attended district-run public schools. About 11 percent attended charter schools. About 13 percent attended private schools, and more than four in ten of those private school students had a voucher. About 4 percent were home-schooled. The voucher for home-schooled children came the next year.
+First, the scale. In 2022-23, the last school year before vouchers were open to every child, Florida had about 3.47 million students from kindergarten through 12th grade, according to the Department of Education. About 72 percent attended district-run public schools. About 11 percent attended charter schools. About 13 percent attended private schools, and more than four in ten of those private school students had a Tax Credit or income-based Family Empowerment scholarship, according to the auditor general. About 4 percent were home-schooled.
+
+Two years later, in 2024-25, Florida had about 3.56 million students. The share in district-run schools had fallen to 69 percent. Charter schools still had about 11 percent. Private schools had about 14 percent, and at least six in ten of their students had a Tax Credit or general Family Empowerment scholarship, according to Step Up For Students counts reported by Florida Senate staff. About 6 percent learned at home, counting a new state-funded account described below. The disability scholarship paid for some children in private schools and some at home in both years, but no state record says how many in each.
 
 Florida authorized charter schools in 1996. Five opened that school year, serving about 600 students, according to a 2004 Florida Senate report. A charter school is a public school. It charges no tuition. A nonprofit group runs it under a contract with the school district, and the state pays for its students through the same formula it uses for other public schools.
 
@@ -35,17 +37,17 @@ Home schooling has its own rules. A family must notify the school district, keep
 
 Before 2023, the only state scholarship that could pay for home schooling was the one for children with disabilities. House Bill 1, the 2023 law that opened vouchers to every child, changed that. It created a scholarship for home-schooled children called the Personalized Education Program. Families get an account they can spend on curriculum, tutoring, online classes and similar costs. The money comes through the Tax Credit Scholarship.
 
-The law capped the program at 20,000 students in its first year and allowed 40,000 more each year after that. Step Up For Students, the main nonprofit that runs it, reported 59,925 students in 2024-25 and 78,617 in 2025-26. These children are not in the state's home-schooling count: to join the program, a family must leave the district's home-schooling rolls. In 2024-25, then, at least 212,796 children learned at home, and at least 28 percent of them did so with state money.
+The law capped the program at 20,000 students in its first year and allowed 40,000 more each year after that. Step Up For Students, the main nonprofit that runs it, reported 59,925 students in 2024-25. By November 2025, the state counted 84,140 across all the nonprofits that run it, according to Florida Senate staff. These children are not in the state's home-schooling count: to join the program, a family must leave the district's home-schooling rolls. In 2024-25, then, at least 212,796 children learned at home, and at least 28 percent of them did so with state money.
 
 Children in the program follow their own rules. Parents must file a learning plan each year. The child must take a nationally normed test from a state-approved list. The results go to the scholarship organization, which reports them to a state university.
 
-Side by side, the rules follow the setting. Charter schools take the state's tests, get a state grade and can be closed. Private schools that take vouchers give a nationally normed test from a state list, or the state test, and an evaluator at Florida State University reports the results. Other home-schooled children are evaluated once a year, and the results go to the school district. Children in the new home-schooling program take a normed test, and the results go to the scholarship organization.
+Private schools that take vouchers follow a fourth set of rules. Their scholarship students take a nationally normed test from a state list, or the state test, and an evaluator at Florida State University reports the results.
 
 Supporters and opponents read these choices differently. Sen. Don Gaetz, a Republican and former school superintendent, defended a 2025 bill to let parents convert a public school into a charter school. He said "the entirety of Florida education policy is wrapped around parental choice." The Department of Education reports that charter students outscored students in traditional public schools in 55 of 77 comparisons in 2024-25. The department compares raw results and does not adjust for other differences between students.
 
 Andrew Spar, president of the Florida Education Association, the statewide teachers union, opposed that year's efforts to expand charter schools. He called them "this constant eating away at the public schools" and said, "We cannot end up with public schools that are schools of last resort."
 
-In 1996, five charter schools opened with about 600 students. Today, more than 400,000 children attend charter schools, and the state pays for tens of thousands of home-schooled children. Who runs charter schools, and who profits from them and from the home-schooling scholarship, is the subject of a later post. The next post looks at the private schools that take vouchers, and at how many of them are religious.
+In 1996, five charter schools opened with about 600 students. Today, more than 400,000 children attend charter schools, and the state pays for tens of thousands of home-schooled children. One part of the picture is still missing: for 2024-25, no state record says how much of the $1.2 billion in disability scholarships and the $0.8 billion in Tax Credit scholarships went to private schools and how much to home schooling. Who runs charter schools, and who profits from them and from the home-schooling scholarship, is the subject of a later post. The next post looks at the private schools that take vouchers, and at how many of them are religious.
 
 Sources are in the first comment.
 
@@ -69,6 +71,9 @@ Sources for this post:
 12. Sen. Gaetz and Andrew Spar: WFSU, "Florida's legislative session has seen many efforts to boost charter schools," May 1, 2025. https://www.wlrn.org/government-politics/2025-05-01/floridas-legislative-session-has-seen-many-efforts-to-boost-charter-schools
 13. Charter and traditional public school results: Florida Department of Education, "Student Achievement in Florida's Charter Schools," 2023-24 and 2024-25. https://www.fldoe.org/file/7778/SAR2023.pdf
 14. Students by setting, 2022-23: Florida Department of Education, "Florida Charter School Enrollment Share, 2022-23" (https://www.fldoe.org/core/fileparse.php/7778/urlt/CharterSchoolEnrollmentShare2122.pdf); "Florida's Private Schools, 2022-23 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2023.pdf); Home Education Annual Report 2024-25 (source 5); Florida Auditor General Report 2026-046, Tables 2 and 4 (https://flauditor.gov/pages/pdf_files/2026-046.pdf).
+15. Students by setting, 2024-25: Florida Department of Education, "Student Achievement in Florida's Charter Schools," p. 3 (public and charter, https://www.fldoe.org/file/7778/SAR2023.pdf); "Florida's Private Schools, 2024-25 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2025.pdf); Home Education Annual Report 2024-25 (source 5); Step Up (source 8). Scholarship students by kind, March 2025: Florida Senate bill analysis, SB 7030, p. 2. https://www.flsenate.gov/Session/Bill/2025/7030/Analyses/2025s07030.pre.ap.PDF
+16. Home-schooling account students, November 2025 (84,140): Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, p. 3. https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF
+17. Disability and Tax Credit scholarship payments, 2024-25: Florida Auditor General Report 2026-046, Tables 3-4. https://flauditor.gov/pages/pdf_files/2026-046.pdf
 
 ---
 
@@ -108,6 +113,13 @@ Sources for this post:
 - Whether the Home Education Annual Report counts include program (PEP) students is not stated.
 - The charter comparison is the Department of Education's own and does not adjust for differences in students. Independent studies (for example, Stanford's CREDO) are not yet reviewed for Florida.
 
+| 2024-25: about 3.56 million; 69 / 11 / 14 / 6 percent | Total 3,561,555 (see notes). 2,447,890 / 3,561,555 = 68.7%; 404,350 = 11.4%; 496,519 = 13.9%; (152,871 + 59,925) = 6.0% |
+| At least six in ten private students had a Tax Credit or general Family Empowerment scholarship (2024-25) | SB 7030 analysis, p. 2 (Step Up, March 2025): FES-EO 265,522; FTC 54,356 (separate from PEP 58,943). 319,878 / 496,519 = 64.4% |
+| 2022-23: "Tax Credit or income-based Family Empowerment" | Auditor General Tables 2 and 4: 92,232 + 100,025 = 192,257 / 445,067 = 43.2% |
+| Disability scholarship split between private and home not published | Checked: Auditor General 2026-046, SB 7030 and CS/SB 318 analyses, DOE, Step Up, EdChoice. None reports it |
+| 84,140 account students, November 2025 | CS/SB 318 analysis, p. 3: "84,140 students were funded through the PEP scholarship" (DOE email, Dec. 1, 2025) |
+| $1.2B disability, $0.8B Tax Credit (2024-25) | Auditor General 2026-046, Tables 3-4: $1,169.6M; $804.5M |
+
 ---
 
 ## Notes: details kept out of the main text
@@ -122,9 +134,23 @@ Sources for this post:
 - **Other voices.** State Board of Education chair Ryan Petty: "when parents have choices and schools are focused on student outcomes, students thrive." (FL DOE release, May 14, 2026.) Rep. Demi Busatta: "schools of hope are public schools." (WFSU, May 1, 2025.)
 - **To research for later posts:** independent charter studies for Florida (CREDO), charter closures, the home-education law's history (enacted 1985, to verify), and whether program students must also follow the home-education notice and portfolio rules.
 
+- **Side-by-side rules paragraph (cut from draft 3; the image carries it).** "Charter schools take the state's tests, get a state grade and can be closed. Private schools that take vouchers give a nationally normed test from a state list, or the state test, and an evaluator at Florida State University reports the results. Other home-schooled children are evaluated once a year, and the results go to the school district. Children in the new home-schooling program take a normed test, and the results go to the scholarship organization."
+- **2024-25 breakdown (added 25 Oct).** District-run 2,447,890; charter 404,350 (DOE charter achievement report, p. 3); private 496,519 (DOE private school report 2025); home education 152,871 (DOE); home-schooling account 59,925 (Step Up). Total 3,561,555. Private with a Tax Credit or general Family Empowerment scholarship: 54,356 + 265,522 = 319,878, 64.4 percent of private (Step Up, March 2025, via SB 7030 analysis; excludes AAA). If every disability scholarship (115,417) were at a private school, the share would be 87.7 percent.
+- **Students with disabilities by setting, 2024-25:** 11 percent of charter students (43,683) and 17 percent of district-run students (414,926). (DOE charter achievement report, p. 3.) A point charter critics raise; not used in the text.
+
 ---
 
 ## Editor's notes
+
+**Draft 3 (rebuilt around the money map, at RJ's request):**
+- Summary line fixed: it listed vouchers, charters and home schooling as the three ways out, which left out private school without a voucher.
+- Intro places the post on the map: post 1 traced the money, post 2 who uses the scholarships, post 3 where children learn.
+- Scale: kept 2022-23 and added 2024-25 (option B). The voucher share now says which scholarships it counts, and that the disability scholarship's split between private and home is unknown.
+- Removed "The voucher for home-schooled children came the next year," which contradicted the later line that the disability scholarship already paid for home schooling.
+- 2025-26 account count: the state's 84,140 across all nonprofits replaces Step Up's 78,617, which covered only its own students.
+- Cut the side-by-side rules paragraph (the image carries it; text kept in the notes). The private school testing rule, stated only there, now has its own two sentences.
+- Closing adds the open question: how the disability and Tax Credit money splits between private schools and home schooling.
+- Image: option B (2022-23 and 2024-25 bars).
 
 **Draft 2, second follow-up (RJ: the split for later years):** Added the 2024-25 split for children learning at home: 152,871 home-schooled under district rules plus at least 59,925 in the scholarship program, which families must leave the district rolls to join. At least 28 percent had state money. No 2025-26 home-schooling count yet; 2023-24 program count (19,514) is from a news report without a named source, so not used.
 

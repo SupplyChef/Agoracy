@@ -4,12 +4,12 @@ series: florida-vouchers
 number: 2
 status: draft
 image: image.png
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 # Post 2 of 12: Who gets vouchers, and where were they before?
 
-Draft 8, 22 Oct 2026. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 9, 25 Oct 2026. Rebuilt with the four kinds of aid named, and a paragraph on the disability scholarship. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -21,25 +21,27 @@ Who Gets Florida's Vouchers, and Where Were They Before?
 
 Florida's oldest voucher program still running was built for poor children leaving public schools. In 2023, the first year vouchers were open to every child, most new recipients were already in private school.
 
-Florida calls its vouchers "scholarships." As the first post in this series described, two programs remain. The Tax Credit Scholarship began in 2001: companies donate to nonprofit groups that award the scholarships, and the state gives the companies a tax credit. The Family Empowerment Scholarship began in 2019 and is paid through the state's school funding formula. It is now the larger of the two.
+Florida calls its vouchers "scholarships." As the first post in this series described, two programs remain, and they offer four kinds of aid. The Tax Credit Scholarship, paid from donations that earn companies a tax credit, pays for private school or, since 2023, for home schooling through an account. The Family Empowerment Scholarship, paid through the state's school funding formula, has a general scholarship for private school and a disability scholarship. Most of this post is about the two scholarships for private school that any child can get: the Tax Credit scholarship and the general Family Empowerment scholarship.
 
-In the Tax Credit Scholarship's early years, a child had to meet two rules, according to OPPAGA, the Legislature's research office. The family had to be poor enough for free or reduced-price school lunch. The child had to be leaving a public school or starting kindergarten or first grade.
+In the Tax Credit Scholarship's early years, a child had to come from a family poor enough for free or reduced-price school lunch, and had to be leaving a public school or starting kindergarten or first grade, according to OPPAGA, the Legislature's research office.
 
 The program mostly served poor children from public schools. In a 2009 study for the state Department of Education, David N. Figlio, an economist then at the University of Florida, compared students who joined in 2007-08 with low-income children who stayed in public school. The scholarship students were poorer, had lower test scores, and more often came from schools the state rated poorly.
 
 In March 2023, the Legislature passed House Bill 1. It made any child who could enroll in a Florida public school eligible for a scholarship, whatever the family's income. The child did not need to attend one. Children already in private school qualified.
 
-The programs grew quickly. The state's auditor general reported 266,703 scholarship students in 2022-23, the last year before the law took effect, and 398,185 in 2023-24.
+The programs grew quickly. The state's auditor general reported 266,703 scholarship students of all kinds in 2022-23, the last year before the law took effect, and 398,185 in 2023-24.
 
 Most of the 2023-24 students already had a scholarship. In September 2023, Step Up For Students, the nonprofit that runs most of Florida's scholarships, counted the students who were new that fall: 122,895. Of those, 84,505, or 69 percent, had been in private school. Another 22,294 were starting kindergarten. Only 16,096, or 13 percent, came from public schools.
 
 Supporters and opponents of the law pointed to different numbers. Step Up, which supports the program, pointed to the 16,096 who left public schools, far from the "exodus" it said critics had forecast. The Florida Policy Institute, a research group that opposed the law, pointed to the 84,505 already in private school. It said the "money is going to subsidize tuition that families were already paying."
 
-Both numbers are correct. In its first year, the law moved few children out of public schools. Most new scholarships went to children whose families had been paying for private school without a state scholarship.
+Both numbers are correct. In its first year, the law moved few children out of public schools. Most new scholarships went to children whose families had been paying for private school without a state scholarship. In the terms of the money map in the first post, money moved more than children did: tuition that families had paid themselves was now paid by a scholarship.
 
 The children who do leave public schools have changed, too. A 2025 evaluation by Florida State University, required by state law, looked at students who left public schools for a Family Empowerment Scholarship in 2023-24. They were less likely to be poor than those who stayed: 42 percent qualified for free or reduced-price lunch, against 52 percent. Test scores were about the same. The study did not say why. In a 2025 Step Up survey, families who won a scholarship but did not use it most often cited no open seat at the school they wanted, tuition or fees beyond the scholarship, and transportation.
 
-In 2007-08, a typical new scholarship student was a poor child leaving a public school. In 2023, a typical new one was already in private school. A later post looks at what that change costs the state. The next post looks at two other ways families leave traditional public schools: charter schools, which are public but run independently, and home schooling.
+The disability scholarship follows its own rules. It has no income test. A diagnosis from a doctor or psychologist qualifies a child, without a special-education plan from a school, according to a 2025 Florida Senate staff analysis. About 16 percent of Florida's public school students have a disability, according to the Department of Education. The scholarship grew from 74,446 students in 2022-23, according to the auditor general, to 163,242 in 2025-26, according to Senate staff, about three in ten of all scholarship students that year. The law caps the number of students, but children leaving public schools do not count against the cap, and lawmakers lifted it for 2023-24 when demand passed it.
+
+In 2007-08, a typical new scholarship student was a poor child leaving a public school. In 2023, a typical new one was already in private school. A later post looks at what that change costs the state. The next post looks at where Florida's children learn, and at two other ways families leave district-run public schools: charter schools, which are public but run independently, and home schooling.
 
 Sources are in the first comment.
 
@@ -58,6 +60,9 @@ Sources for this post:
 7. New scholarship students in fall 2023 and where they came from; Step Up's and the Florida Policy Institute's statements: News Service of Florida, Sept. 15, 2023, reporting Step Up For Students data as of Sept. 8, 2023. https://jaxtoday.org/2023/09/15/over-100000-new-students-got-florida-school-vouchers/
 8. Who left public schools for a Family Empowerment Scholarship in 2023-24: Florida State University Learning Systems Institute, "Evaluation of the Family Empowerment Scholarship for Educational Options Program: Participation, Compliance and Test Scores in 2023-24," June 2025, required by s. 1002.394, Florida Statutes. https://origin.fldoe.org/file/5606/FES-Report2024.pdf
 9. Why some families who won a scholarship did not use it: Step Up For Students survey, "Going with Plan B," July 2025, as described by the Thomas B. Fordham Institute, July 31, 2025. https://fordhaminstitute.org/national/commentary/why-tens-thousands-florida-families-didnt-use-their-private-school-scholarships
+10. The disability scholarship's eligibility, and scholarship students by kind in 2025-26: Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, pp. 3, 19. https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF
+11. Students with disabilities in public schools, 2024-25: Florida Department of Education, "Student Achievement in Florida's Charter Schools," 2023-24 and 2024-25, p. 3. https://www.fldoe.org/file/7778/SAR2023.pdf
+12. The disability scholarship's cap and who is exempt from it: Florida Senate bill analysis, SB 4-C, Nov. 2, 2023, p. 4; the 2023-24 cap lifted by Chapter 2023-350, Laws of Florida (HB 3-C). https://www.flsenate.gov/Session/Bill/2023C/4C/Analyses/2023s00004C.fp.PDF
 
 ---
 
@@ -99,6 +104,13 @@ Every source below was re-read on 22 Oct 2026 against the current text.
 - The survey of families who did not use their scholarships is Step Up's own, and we have read it only as Fordham describes it. Step Up's report itself was not found online. It is not broken down by income.
 - The auditor general's counts come from "Department records" and are not defined. Whether the 2023-24 Tax Credit count includes home-education (PEP) students is not stated.
 
+| Four kinds of aid; Tax Credit pays for private school or a home-schooling account since 2023 | Senate summary of HB 1 (PEP created, funded through FTC); CS/SB 318 analysis p. 15: PEP students "funded through the Florida Tax Credit (FTC) scholarship" |
+| Disability scholarship: no income test; a diagnosis from a physician or psychologist qualifies, without a school plan | CS/SB 318 analysis, p. 19: student must have "an IEP ... or a diagnosis from a licensed physician, licensed psychologist" |
+| About 16 percent of public school students have a disability (2024-25) | DOE charter achievement report, p. 3: students with disabilities 458,609 of 2,852,240 = 16.08% ("SWD 458,609 16.08%"). Gifted students not included (DOE ESE slides, May 2025, slide 7: 448,482 SWD, no gifted category) |
+| 74,446 (2022-23) to 163,242 (2025-26); about three in ten | Auditor General 2026-046, Table 3 (74,446). CS/SB 318 analysis, p. 3: "163,242 students were funded through the FES-UA scholarship" of 560,935 total = 29.1% |
+| Cap; children from public schools exempt; lifted for 2023-24 | SB 4-C analysis, p. 4: cap 26,500 in 2022-23, plus 3% of ESE membership a year; exempt: students who "spent the prior school year in attendance at a Florida public school," former McKay students, VPK, foster, military. Ch. 2023-350 set the 2023-24 maximum at the number determined by the department and the scholarship organizations. Sen. Jay Collins: 8,839 students waiting (WLRN, Nov. 7, 2023) |
+| "Money moved more than children did" | Step Up count above: 84,505 of 122,895 new students (69%) had been in private school; 16,096 (13%) came from public schools. Interpretation, labeled as the map's terms |
+
 ---
 
 ## Notes: details kept out of the main text
@@ -121,9 +133,19 @@ Every source below was re-read on 22 Oct 2026 against the current text.
 - **Public enrollment.** Public school enrollment was 2,870,527 in 2022-23 and 2,859,600 in 2024-25 (NCES Common Core of Data, via the project spreadsheet; re-verify the 2022-23 figure before use). For post 7.
 - **Private school growth.** 30,515 more private school students and 236 more private schools in 2024-25 than in 2023-24. (FL DOE Private Schools Annual Report.)
 
+- **The auditor's Tax Credit count includes the home-schooling account (added 25 Oct).** Senate staff list 54,356 Tax Credit and 58,943 account students as of March 2025 (SB 7030 analysis, p. 2); together 113,299, close to the auditor's 114,443. This corrects the earlier note that the report doesn't say: it doesn't say, but the numbers show it. By fall 2025, only 7,560 children used Tax Credit at a private school (CS/SB 318 analysis, p. 3).
+
 ---
 
 ## Editor's notes
+
+**Draft 9 (rebuilt around the money map, at RJ's request):**
+- The recap paragraph names the four kinds of aid and says which two the post is mainly about. RJ found "two programs" confusing once post 3 introduced the home-schooling account.
+- The early Tax Credit rules shortened to one sentence; post 1 already gives them.
+- The auditor's totals now say they count all kinds of scholarship.
+- One sentence ties the main finding to the money map: tuition families paid themselves was now paid by a scholarship.
+- New paragraph on the disability scholarship: no income test, a diagnosis qualifies, about 16 percent of public school students have a disability, growth from 74,446 to 163,242, and the cap's exemptions. The post had left out about three scholarship students in ten.
+- The closing points to post 3 as the look at where children learn.
 
 **Verification pass, 22 Oct 2026 (RJ: verify all sources and notes):**
 - Re-read every source against the current text: OPPAGA 08-68, SB 7070 summary, Figlio 2009, HB 1 Senate summary and House analysis, Auditor General 2026-046, the News Service of Florida article, the FSU evaluation, the Fordham commentary. All figures and quotes match.
