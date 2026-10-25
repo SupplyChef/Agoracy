@@ -9,7 +9,7 @@ updated: 2026-10-25
 
 # Post 1 of 12: Florida's 25-year experiment
 
-Draft 11, 25 Oct 2026. Rebuilt around the money map: the history now ends on where the money goes today. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png), the 2024-25 money map.
+Draft 12, 25 Oct 2026. Tightened; rebuilt around the money map in draft 11. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png), the 2024-25 money map.
 
 ---
 
@@ -21,37 +21,33 @@ How Florida Went From Vouchers for a Few Children to Vouchers for Every Child
 
 Over 25 years, the state created five programs. Two remain, open to every child and worth nearly $4 billion a year.
 
-In 1999, Florida paid $3,525 to send two children with disabilities to private school, according to a Florida Senate report. They were the first students in the McKay Scholarship, a pilot run in a single school district. It let a public school student with a disability take state school funding to a private school or to another public school.
+In 1999, Florida paid $3,525 to send two children with disabilities to private school, according to a Florida Senate report. They were the first students in the McKay Scholarship, a pilot in a single school district. It let a public school student with a disability take state school funding to a private school or to another public school.
 
-That same year, the Legislature passed a second program with a different aim. Proposed by Gov. Jeb Bush, the Opportunity Scholarship offered a voucher to any child assigned to a public school the state had rated as failing in two of four years.
+That same year, the Legislature passed a second program, proposed by Gov. Jeb Bush. The Opportunity Scholarship offered a voucher to any child assigned to a public school the state had rated as failing in two of four years.
 
-Florida calls this aid "scholarships." In other states it would be called vouchers or, in some cases, education savings accounts. By the 2024-25 school year, the programs were funding 497,284 students, worth $3.98 billion, according to the state's auditor general. That is about one scholarship student for every six students in Florida's public schools, at an average of about $8,000 each. Here is how it got there.
+Florida calls this aid "scholarships." Other states would call it vouchers or, in some cases, education savings accounts. By 2024-25, the programs funded 497,284 students, worth $3.98 billion, according to the state's auditor general. That is about one scholarship student for every six public school students, at about $8,000 each. Here is how it got there.
 
-In 2000, lawmakers took the McKay pilot statewide. It grew from 1,021 students that school year to 9,130 two years later, according to the same Senate report.
+In 2000, lawmakers took the McKay pilot statewide. It grew from 1,021 students that year to 9,130 two years later, according to the same Senate report.
 
-In 2001, they added a third program, funded in a new way. Under the Tax Credit Scholarship, corporations donate to nonprofit scholarship organizations and receive a state tax credit equal to the donation. Eligibility turned on income, not on disability or a school's rating. Any child from a family poor enough to qualify for free or reduced-price school lunch could apply, if the child was leaving a public school or starting kindergarten or first grade.
+In 2001, they added a third program, funded in a new way. Under the Tax Credit Scholarship, corporations donate to nonprofit scholarship organizations and receive an equal state tax credit. Eligibility turned on income, not on disability or a school's rating. Any child from a family poor enough for free or reduced-price school lunch could apply, if the child was leaving a public school or starting kindergarten or first grade.
 
-The voucher for failing schools did not last. In January 2006, the Florida Supreme Court ruled 5 to 2 that its private-school option violated the State Constitution, which requires "a uniform, efficient, safe, secure, and high quality system of free public schools." The majority read that clause as making public schools the way the state must educate children, and found that voucher schools were held to different rules: they could hire teachers without bachelor's degrees and did not have to teach the subjects public schools must. Chief Justice Barbara J. Pariente wrote that the program "diverts public dollars into separate private systems parallel to and in competition with the free public schools." In dissent, Justice Kenneth B. Bell wrote that the Constitution "does not forbid the Legislature from enacting a well-delineated program" of this kind.
+The voucher for failing schools did not last. In January 2006, the Florida Supreme Court ruled 5 to 2 that its private-school option violated the State Constitution, which requires "a uniform, efficient, safe, secure, and high quality system of free public schools." The majority read that clause as making public schools the way the state must educate children. It found that voucher schools played by different rules: they could hire teachers without bachelor's degrees and did not have to teach the subjects public schools must. Chief Justice Barbara J. Pariente wrote that the program "diverts public dollars into separate private systems parallel to and in competition with the free public schools." In dissent, Justice Kenneth B. Bell wrote that the Constitution "does not forbid the Legislature from enacting a well-delineated program" of this kind.
 
-The ruling ended the voucher for failing schools, but the case involved only that program. The other two kept growing.
+The case involved only the voucher for failing schools. The other two programs kept growing.
 
 In 2014, lawmakers created a fourth program, the Gardiner Scholarship, a spending account for children with disabilities.
 
-In 2019 came the fifth, the Family Empowerment Scholarship. Unlike the Tax Credit program, it was paid through the Florida Education Finance Program, the formula that sets how much money each school district receives per student. Each scholarship was set at 95 percent of what the formula provided for a student in the basic program. Whether that money comes out of public schools' share, or adds to the total, is disputed; a later post in this series takes it up. The program was aimed at middle- and lower-income families, those earning up to 300 percent of the federal poverty level, and was capped at 18,000 students.
+In 2019 came the fifth, the Family Empowerment Scholarship, for families earning up to 300 percent of the federal poverty level and capped at 18,000 students. Unlike Tax Credit, it was paid through the Florida Education Finance Program, the formula that sets how much money each school district receives per student. Each scholarship was worth 95 percent of what the formula provided for a student in the basic program.
 
-In 2021, the Legislature began merging the programs. It folded the two disability programs into Family Empowerment, Gardiner that year and McKay the next. The same law raised the income limit for the two income-based programs, Tax Credit and Family Empowerment, to 375 percent of the poverty level.
+In 2021, the Legislature began merging the programs. It folded the two disability programs into Family Empowerment, Gardiner that year and McKay the next, and raised the income limit for Tax Credit and Family Empowerment to 375 percent of the poverty level. That left two programs. Tax Credit was paid for by donations the state credits against corporate taxes. Family Empowerment was paid with state money through the formula and had two parts: one for children under the income limit, and one for children with disabilities, with no income test.
 
-That left two programs. Tax Credit was paid for by corporate donations the state credits against taxes. Family Empowerment was paid with state money through the school funding formula, and it had two parts: one for children from families under the income limit, and one for children with disabilities, with no income test.
+In March 2023, House Bill 1 removed the income limits. It passed 83 to 27 in the House and 26 to 12 in the Senate, and Gov. Ron DeSantis signed it on March 27. Every child eligible to attend a Florida public school became eligible for a scholarship, whatever the family's income. The law also let the Tax Credit Scholarship pay for home schooling, through a new account.
 
-In March 2023, the Legislature removed the income limits. House Bill 1 passed 83 to 27 in the House and 26 to 12 in the Senate, and Gov. Ron DeSantis signed it on March 27. It made every child eligible to attend a Florida public school eligible for a scholarship, whatever the family's income. It also let the Tax Credit Scholarship pay for home schooling, through a new account.
-
-Since then, the two programs have offered four kinds of aid. The Tax Credit Scholarship pays for private school or, through the new account, for home schooling. Family Empowerment has a general scholarship for private school and a disability scholarship that families can spend on private school, home schooling or services such as therapy. A Tax Credit scholarship and a general Family Empowerment scholarship are worth the same; what differs is who pays. The law requires every Tax Credit scholarship to be funded, from donations, before general Family Empowerment scholarships are awarded from the state budget.
+Since then, the two programs have offered four kinds of aid. Tax Credit pays for private school or, through the account, for home schooling. Family Empowerment has a general scholarship for private school and a disability scholarship that families can spend on private school, home schooling or services such as therapy. A Tax Credit scholarship and a general Family Empowerment scholarship are worth the same; what differs is who pays. The law spends donations first: every Tax Credit scholarship must be funded before general Family Empowerment scholarships are awarded from the state budget.
 
 The bill's Senate sponsor, Sen. Corey Simon, put the argument for it plainly: "we are going to stop funding systems and start funding students." The Florida Education Association, the statewide teachers union, said the law "will drain billions of taxpayer dollars away from the neighborhood public schools."
 
-Within two years, enrollment nearly doubled. The auditor general counted 266,703 scholarship students and $2.0 billion in 2022-23, and 497,284 students and $3.98 billion in 2024-25.
-
-The image with this post shows where the money went in 2024-25. State and local school funding totaled $28.6 billion, according to the Florida Senate's budget committee. Within it, the state paid $3.2 billion in Family Empowerment scholarships from its own share, according to the auditor general. That was about 11 percent of the total, up from about 5 percent two years earlier. The Tax Credit Scholarship added $0.8 billion. Whether the scholarship money would otherwise have gone to public schools is not settled by these numbers; a later post takes it up.
+Within two years, enrollment nearly doubled, from 266,703 students and $2.0 billion in 2022-23 to 497,284 students and $3.98 billion in 2024-25, the auditor general reported. The image with this post shows where the money went. In 2024-25, state and local school funding totaled $28.6 billion, according to the Florida Senate's budget committee. Within it, the state paid $3.2 billion in Family Empowerment scholarships from its own share, according to the auditor general. That was about 11 percent of the total, up from about 5 percent two years earlier. The Tax Credit Scholarship added $0.8 billion. These numbers do not settle whether the scholarship money would otherwise have gone to public schools; a later post takes that up.
 
 Supporters see Florida's path as lawmakers responding, step by step, to parents who wanted more options. Critics see narrow programs, created for children with particular needs, that grew into a large system paid for with money that would otherwise go to public schools.
 
@@ -60,6 +56,7 @@ What the record does not show is how many of today's scholarship students would 
 Sources are in the first comment.
 
 ---
+
 
 ## First comment (paste as is)
 
@@ -159,6 +156,13 @@ These are accurate and sourced. They were moved out of the post because they are
 ---
 
 ## Editor's notes
+
+**Draft 12 (tightened at RJ's request, no ideas dropped):**
+- About 1,110 words down to about 1,030. Mostly sentence-level cuts and merges.
+- The 2021 paragraph and "That left two programs" merged into one paragraph.
+- "Within two years, enrollment nearly doubled" merged into the money-map paragraph, which already gave the 2024-25 totals.
+- The 2019 paragraph's "whether that money comes out of public schools' share... is disputed" was cut, because the money-map paragraph now says the same thing where the numbers are. That keeps the idea once.
+- "The ruling ended the voucher for failing schools, but the case involved only that program" shortened, since the paragraph before already says the voucher ended.
 
 **Draft 11 (rebuilt around the money map, at RJ's request):**
 - New image: the 2024-25 money map (who pays, how it is paid, where it goes). It replaces the old image. A matching 2022-23 map is kept in the drafts folder for comparison.
