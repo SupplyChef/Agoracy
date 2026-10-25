@@ -95,7 +95,7 @@ Every source below was re-read on 22 Oct 2026 against the text; rows for the par
 | 2025 evaluation by Florida State University, required by state law; students who left public schools for a Family Empowerment Scholarship in 2023-24 | FSU LSI report, June 2025: "as required by the 2024 Florida Statutes, s. 1002.394 (9)(c)"; evaluates the "Family Empowerment Scholarship for Educational Options Program"; compares 8,956 new FES students with prior public school records against students who "remained in the public schools" |
 | Less likely to be poor: 42% vs 52% free or reduced-price lunch | FSU LSI, p. 15: "a smaller proportion of new FES students qualified for free or reduced lunch (41.5%) compared to eligible non-participants (51.9%)". Rounded |
 | Test scores about the same | FSU LSI, p. 15: "slightly higher achievement in math and English Language Arts"; Figure 6 percentiles: math 54.4 vs 54.3, ELA 55.5 vs 54.3 |
-| The study did not say why | FSU LSI reports the gap and gives no explanation (checked) |
+| The evaluation did not explain the income gap | FSU LSI reports the gap and gives no explanation (checked) |
 | 2025 Step Up survey: no open seat, tuition or fees beyond the scholarship, transportation | Fordham (Jeff Murray, July 31, 2025), describing Step Up's survey of 2024-25 awardees who did not use the scholarship (2,739 responses): no available seat 34.7%, tuition not covered 19.7%, fees 19.6%, transportation just under 10% |
 | "Typical new scholarship student" in 2007-08 vs 2023 | 2007-08: early rules (OPPAGA) and Figlio's findings. 2023: 69% of new students already in private school (Step Up) |
 
