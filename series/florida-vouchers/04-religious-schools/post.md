@@ -9,7 +9,7 @@ updated: 2026-10-26
 
 # Post 4 of 12: Religious schools
 
-Draft 1, 26 Oct 2026. First draft, to show how the post flows. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 2, 26 Oct 2026. Second draft after RJ's first read. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -35,9 +35,11 @@ In 2019, Florida created the Family Empowerment Scholarship, which is paid from 
 
 In 2020 and 2022, the U.S. Supreme Court ruled on clauses like Florida's. In 2020, it held that Montana's courts could not use that state's no-aid clause to shut religious schools out of a tax credit scholarship program. In 2022, it struck down a Maine rule that kept tuition aid from religious schools. Chief Justice John G. Roberts Jr. wrote for the majority: "A State need not subsidize private education. But once a State decides to do so, it cannot disqualify some private schools solely because they are religious." In dissent, Justice Sonia Sotomayor wrote that the court "continues to dismantle the wall of separation between church and state that the Framers fought to build."
 
-Through all of this, the share of Tax Credit students at religious schools barely moved. It was 83 percent in 2009-10, 82 percent in 2015-16 and 81 percent in 2022-23, according to the Department of Education. Over the same years, more secular schools joined. In 2022-23, they made up 35 percent of the 2,083 participating schools but enrolled 19 percent of the students.
+Through all of this, the share of Tax Credit students at religious schools barely moved. It was 83 percent in 2009-10, 82 percent in 2015-16 and 81 percent in 2022-23, according to the Department of Education.
 
-That was the last year the department published the count. Step Up For Students, the nonprofit that runs most of Florida's scholarships, says on its website that 82 percent of its students on the general scholarships attend a religious school. Catholic schools enroll the largest number, according to a 2022 Step Up analysis. Nationally, 76 percent of private school students attend religious schools, according to 2023-24 federal data. No public record gives the share for all of Florida's private school students, so it is not possible to say whether scholarship students are more likely than other private school students to attend a religious school.
+The schools changed more than the students did. As more secular schools joined, the share of participating schools that were religious fell from 79 percent in 2005-06 to 65 percent in 2022-23. That year, secular schools made up 35 percent of the 2,083 participating schools but enrolled 19 percent of the Tax Credit students. Religious schools enrolled about 61 scholarship students each on average; secular schools, about 26.
+
+The department has not published these counts since 2022-23. Step Up For Students, the nonprofit that runs most of Florida's scholarships, says on its website that 82 percent of its students on the general scholarships attend a religious school. Catholic schools enroll the largest number, according to a 2022 Step Up analysis. Nationally, 76 percent of all private school students, with or without a voucher, attend religious schools, according to 2023-24 federal data. No public record gives that share for Florida, so it is not possible to say whether scholarship students are more likely than other private school students to attend a religious school.
 
 Supporters see parents choosing the schools they trust, most of which happen to be religious, and a state that may not exclude them. Critics see public money paying for religious education that Florida's Constitution was written to keep the state out of.
 
@@ -86,10 +88,11 @@ Sources for this post:
 | 2022: struck down Maine's rule keeping tuition aid from religious schools; Roberts and Sotomayor quotes | Carson v. Makin (June 21, 2022, 6-3), majority (Roberts, C.J.), slip op. p. 15: "A State need not subsidize private education. But once a State decides to do so, it cannot disqualify some private schools solely because they are religious." (The line first appeared in Espinoza.) Sotomayor, J., dissenting, p. 1: "This Court continues to dismantle the wall of separation between church and state that the Framers fought to build." Verbatim |
 | 83% (2009-10), 82% (2015-16), 81% (2022-23) | DOE quarterly reports: June 2010: 24,134 of 28,927 (83.4%); June 2016: 65,811 of 80,473 (81.8%); June 2023: 82,291 of 101,242 (81.3%). Student totals are duplicated counts (students at two schools counted in both) |
 | 2022-23: secular schools 35% of 2,083 participating schools, 19% of students | DOE June 2023, p. 5: Non-Religious 732 schools (35.1%), Religious 1,351 (64.9%), total 2,083; students Non-Religious 18,951 (18.7%), Religious 82,291 (81.3%) |
-| Last year the department published the count | DOE FTC quarterly reports page lists reports through June 2023 only (checked 26 Oct 2026). DOE annual private school reports have no religious breakdown (2012-13 and 2024-25 checked) |
+| Share of religious schools fell from 79% (2005-06) to 65% (2022-23); about 61 vs 26 scholarship students per school | DOE June 2006: 708 of 895 (79.1%); June 2023: 1,351 of 2,083 (64.9%). Averages: 82,291 / 1,351 = 60.9; 18,951 / 732 = 25.9 (duplicated student counts) |
+| The department has not published these counts since 2022-23 | DOE FTC quarterly reports page lists reports through June 2023 only (checked 26 Oct 2026). DOE annual private school reports have no religious breakdown (2012-13 and 2024-25 checked) |
 | Step Up: 82 percent of its general-scholarship students at religious schools | Step Up research page (undated): "61 percent of private schools identified as religious, though 82 percent of all students attend a religious school." The page is about its income-based (now general) scholarships. Administrator's own figure; schools self-report |
 | Catholic schools enroll the largest number (2022) | Step Up, Nov. 16, 2022: "Catholics comprise the largest religious group with 34,912 students and 204 schools" |
-| Nationally 76 percent (2023-24) | NCES PSS 2023-24, Table C-2: 3,863,203 of 5,096,365 students (75.8%) in schools with a religious orientation |
+| Nationally 76 percent of all private school students, with or without a voucher (2023-24) | NCES PSS 2023-24, Table C-2: 3,863,203 of 5,096,365 students (75.8%) in schools with a religious orientation |
 | No public record gives the share for all Florida private school students | DOE private school annual reports (no religious data); NCES publishes religious orientation only for the nation, not by state (PSS 2021-22 and 2023-24 table lists checked) |
 | 2022-23: about 100,000 Tax Credit students | Auditor General 2026-046, Table 4: 100,025; DOE June 2023: 101,242 duplicated, 100,025 unique |
 | "The programs have grown several times over" | Post 1: 266,703 scholarship students of all kinds in 2022-23 and 497,284 in 2024-25 (Auditor General); Tax Credit alone 100,025 in 2022-23 |
@@ -117,6 +120,11 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 2 (RJ's first read):**
+- The secular-schools point now has its own paragraph, opening "The schools changed more than the students did," with the 2005-06 to 2022-23 drop (79 to 65 percent) and the average scholarship enrollment per school (about 61 at religious schools, 26 at secular ones).
+- "That was the last year the department published the count" became "The department has not published these counts since 2022-23."
+- RJ asked whether 80 percent meant all children or voucher students. It means Tax Credit scholarship students. The national comparison now says "all private school students, with or without a voucher," to keep the two apart.
 
 **Draft 1 (26 Oct 2026, RJ: start on the next post to see how it flows):**
 - Story told in date order: the 2005-06 share, the clause (1885/1968), the 2004 ruling, the Tax Credit design and the 2014-17 lawsuit, the 2012 ballot measure, Family Empowerment (2019), the 2020 and 2022 Supreme Court rulings, then what the state's counts show.
