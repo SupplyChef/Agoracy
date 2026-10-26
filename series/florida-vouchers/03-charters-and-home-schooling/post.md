@@ -33,7 +33,7 @@ Home schooling has its own rules. A family must notify the school district, keep
 
 Before 2023, the only state scholarship that could pay for home schooling was the one for children with disabilities. House Bill 1, the 2023 law that opened vouchers to every child, changed that. It created a scholarship for home-schooled children called the Personalized Education Program. Families get an account they can spend on curriculum, tutoring, online classes and similar costs. The money comes through the Tax Credit Scholarship.
 
-The law capped the program at 20,000 students in its first year and allowed 40,000 more each year after that. Step Up For Students, the main nonprofit that runs it, reported 59,925 students in 2024-25. By November 2025, the state counted 84,140 across all the nonprofits that run it, according to Florida Senate staff. These children are not in the state's home-schooling count: to join the program, a family must leave the district's home-schooling rolls. In 2024-25, then, at least 212,796 children learned at home, and at least 28 percent of them did so with state money.
+The law capped the program at 20,000 students in its first year, with room for 40,000 more each year after. In 2024-25, Step Up For Students, the main nonprofit that runs it, counted 59,925 children in the program. They are counted separately from the state's 152,871 home-schooled children, because a family must leave the district's home-schooling rolls to join. Together, at least 212,796 children learned at home that year, and more than one in four did so with a state-funded account.
 
 Children in the program follow their own rules. Parents must file a learning plan each year. The child must take a nationally normed test from a state-approved list. The results go to the scholarship organization, which reports them to a state university.
 
@@ -70,8 +70,7 @@ Sources for this post:
 13. Charter and traditional public school results: Florida Department of Education, "Student Achievement in Florida's Charter Schools," 2023-24 and 2024-25. https://www.fldoe.org/file/7778/SAR2023.pdf
 14. Students by setting, 2022-23: Florida Department of Education, "Florida Charter School Enrollment Share, 2022-23" (https://www.fldoe.org/core/fileparse.php/7778/urlt/CharterSchoolEnrollmentShare2122.pdf); "Florida's Private Schools, 2022-23 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2023.pdf); Home Education Annual Report 2024-25 (source 5); Florida Auditor General Report 2026-046, Tables 2 and 4 (https://flauditor.gov/pages/pdf_files/2026-046.pdf).
 15. Students by setting, 2024-25: Florida Department of Education, "Student Achievement in Florida's Charter Schools," p. 3 (public and charter, https://www.fldoe.org/file/7778/SAR2023.pdf); "Florida's Private Schools, 2024-25 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2025.pdf); Home Education Annual Report 2024-25 (source 5); Step Up (source 8). Scholarship students by kind, March 2025: Florida Senate bill analysis, SB 7030, p. 2. https://www.flsenate.gov/Session/Bill/2025/7030/Analyses/2025s07030.pre.ap.PDF
-16. Home-schooling account students, November 2025 (84,140): Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, p. 3. https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF
-17. Disability and Tax Credit scholarship payments, 2024-25: Florida Auditor General Report 2026-046, Tables 3-4. https://flauditor.gov/pages/pdf_files/2026-046.pdf
+16. Disability and Tax Credit scholarship payments, 2024-25: Florida Auditor General Report 2026-046, Tables 3-4. https://flauditor.gov/pages/pdf_files/2026-046.pdf
 
 ---
 
@@ -95,7 +94,7 @@ Sources for this post:
 | Funded through the Tax Credit Scholarship | Education Estimating Conference, Feb. 14, 2025: "Families awarded a personalized education program (PEP) voucher are only funded through the FTC program" |
 | Cap 20,000 first year, 40,000 more each year | PKA p. 7: "For the 2023-2024 school year, no more than 20,000 scholarships may be funded"; "may increase by 40,000 each year" through 2026-27 |
 | Program students are not in the state's home-schooling count; families must leave the district's home-schooling rolls | Step Up PEP Family Handbook, "How Does the FTC-PEP Program Compare to Home Education?": PEP students "are registered with a Scholarship Funding Organization (SFO)" while "home education students are registered with their school district"; families "do not need to submit a letter of intent"; a student previously in home education "must end the home education status with the school district." https://www.stepupforstudents.org/handbook-web/pep-family-handbook/ |
-| At least 212,796 children learned at home in 2024-25; at least 28% with state money | 152,871 (Home Education Annual Report) + 59,925 (Step Up) = 212,796. 59,925 / 212,796 = 28.2%. "At least" because a second organization (AAA) also runs the program and its count is not published, and some home-schooled children use the disability scholarship (not counted) |
+| At least 212,796 children learned at home in 2024-25; more than one in four with state money | 152,871 (Home Education Annual Report) + 59,925 (Step Up) = 212,796. 59,925 / 212,796 = 28.2%. "At least" because a second organization (AAA) also runs the program and its count is not published, and some home-schooled children use the disability scholarship (not counted) |
 | Step Up reported 59,925 students in 2024-25 | Step Up Fast Facts 2024-25: "59,925 funded students". Administrator's own figure; Step Up is the main but not the only organization running the program |
 | Learning plan; normed test from state list; results to the scholarship organization, which reports to a state university | Step Up PEP Fast Facts 2025-26: annual Student Learning Plan; "nationally norm-referenced test." PKA p. 7: test "identified by the DOE or a statewide assessment"; parents "provide assessment results to the SFO"; SFOs "annually report the assessment data to the state university selected by the DOE" |
 | Private schools taking vouchers: normed test from state list or the state test; FSU evaluator reports results | FSU LSI report p. 2: "a nationally norm-referenced test approved by the Florida Department of Education"; "Alternatively, participating students may be administered the Florida Assessment of Student Thinking (FAST)"; report published by the FSU evaluator |
@@ -107,12 +106,11 @@ Sources for this post:
 | 2024-25: about 3.56 million; 69 / 11 / 14 / 6 percent | Total 3,561,555 (see notes): Department of Education counts plus Step Up's 59,925 account students. 2,447,890 / 3,561,555 = 68.7%; 404,350 = 11.4%; 496,519 = 13.9%; (152,871 + 59,925) = 6.0% |
 | At least six in ten private students had a Tax Credit or general Family Empowerment scholarship (2024-25) | SB 7030 analysis, p. 2 (Step Up, March 2025): FES-EO 265,522; FTC 54,356 (separate from PEP 58,943). 319,878 / 496,519 = 64.4% |
 | Disability scholarship split between private and home not published | Checked: Auditor General 2026-046, SB 7030 and CS/SB 318 analyses, DOE, Step Up, EdChoice. None reports it |
-| 84,140 account students, November 2025 | CS/SB 318 analysis, p. 3: "84,140 students were funded through the PEP scholarship" (DOE email, Dec. 1, 2025) |
 | $1.2B disability, $0.8B Tax Credit (2024-25) | Auditor General 2026-046, Tables 3-4: $1,169.6M; $804.5M |
 
 **Caveats:**
 - Charter enrollment on the FL DOE page carries no year. The post uses "more than 400,000," which both the page and the May 2026 release support.
-- The 2024-25 program count (59,925) comes from Step Up For Students, which administers the program, and leaves out the second organization. The only state count found is the November 2025 figure (84,140) in the CS/SB 318 analysis. The auditor general does not break the program out of Tax Credit.
+- The 2024-25 program count (59,925) comes from Step Up For Students, which administers the program, and leaves out the second organization. The only state count found is the November 2025 figure (84,140) in the CS/SB 318 analysis, now in the notes. The auditor general does not break the program out of Tax Credit.
 - The Home Education Annual Report does not say whether it includes program (PEP) students. The post's statement that it does not rests on the registration rules in Step Up's handbook (program students register with the scholarship organization and leave the district's home-education rolls).
 - The charter comparison is the Department of Education's own and does not adjust for differences in students. Independent studies (for example, Stanford's CREDO) are not yet reviewed for Florida.
 
@@ -129,6 +127,7 @@ Sources for this post:
 - **Denied applicants.** In 2026, some families were denied program funding because donations did not cover every eligible student; awards go first to renewals, then by income. Legislative budget staff questioned the projections. (WUSF, Aug. 13, 2026.)
 - **Gov. DeSantis on home schooling.** At the 2024 Florida Homeschool Convention: "do you want to turn them over for eight hours a day to some indoctrination factory?" (News Service of Florida, May 28, 2024.) Not used: it is a rhetorical attack rather than an argument about the rules.
 - **Other voices.** State Board of Education chair Ryan Petty: "when parents have choices and schools are focused on student outcomes, students thrive." (FL DOE release, May 14, 2026.) Rep. Demi Busatta: "schools of hope are public schools." (WFSU, May 1, 2025.)
+- **State count, November 2025 (cut from the text in draft 4).** 84,140 account students across all nonprofits, "funded through the PEP scholarship" (Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, p. 3, citing a Department of Education email of Dec. 1, 2025; https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF).
 - **Step Up's 2025-26 count.** Step Up reported 78,617 funded program students for 2025-26 (PEP Fast Facts 2025-26, source 9). The state's 84,140 (November 2025) counts all organizations.
 - **To research for later posts:** independent charter studies for Florida (CREDO), charter closures, the home-education law's history (enacted 1985, to verify), and whether program students must also follow the home-education notice and portfolio rules.
 
@@ -146,6 +145,7 @@ Sources for this post:
 - Cut the scale paragraph's sentence on the disability scholarship's unknown split; the closing paragraph makes the same point with the dollar amounts.
 - About 980 words to about 880.
 - "A charter school is a public school" now says on whose terms ("Under state law") and how it differs from a district school (run by a nonprofit under a contract) (RJ: qualify).
+- The account paragraph rewritten (RJ: confusing). It now stays in one year, 2024-25: the cap, Step Up's count, why those children are counted separately, and the total learning at home. The November 2025 state count (84,140) moved to the notes, and its source left the first comment; sources renumbered 1 to 16. "At least 28 percent" became "more than one in four".
 
 **Draft 3, sources and notes check (RJ asked whether they still match the text; post text unchanged):**
 - Fact-check table: five rows added in draft 3 sat below the caveats, outside the table; moved into it. Removed a duplicate 2022-23 share row. Reworded the "came the next year" row, which matched no current sentence, and the program-count row, which still cited the 2025-26 Step Up figure the text no longer uses.
