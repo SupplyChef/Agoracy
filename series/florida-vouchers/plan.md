@@ -32,7 +32,7 @@
 *Image:* the split of 2023-24 new recipients: 69% already in private school, 13% from public school, 18% starting kindergarten.
 *Evidence:* ✅ Before 2023, first-time recipients had to come from public school, and they were poorer and lower-scoring than eligible peers (Figlio, 2009). ✅ After 2023 the split above (Step Up For Students data). ✅ Our math: scholarships grew about 231K from 2022-23 to 2024-25 while private enrollment grew about 51K. ✅ Public enrollment peaked about 2.87M and is now falling. 🔍 Income, race and region of current recipients, and where 2024-25 onward recipients came from.
 
-**3. Charter schools and homeschooling: the other ways out**
+**3. Where Florida's children learn: charter schools and home schooling**
 *Question:* How do charters and homeschooling fit alongside vouchers, and what does each teach about the others?
 *Image:* enrollment over time in district, charter, voucher and home education.
 *Evidence:* ✅ Home education grew from about 32K to 153K students, mostly in 2020-21. 🔍 Charter enrollment and outcomes (Stanford CREDO; FL DOE comparisons) and closures. Charters are public schools held to state tests and school grades; voucher schools are not. 🔍 The home-education ESA (Personalized Education Program, 2023): enrollment, spending, oversight. 🔍 Florida's light homeschool rules compared with other states. *Cross lessons:* what accountability can come with public money, how each option affects district enrollment, and whether the lines between charter, funded private school and funded homeschool are blurring.

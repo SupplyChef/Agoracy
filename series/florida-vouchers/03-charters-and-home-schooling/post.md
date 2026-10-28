@@ -1,5 +1,5 @@
 ---
-title: "Charter Schools and Home Schooling: Florida's Other Ways Out"
+title: "Where Florida's Children Learn: Charter Schools and Home Schooling"
 series: florida-vouchers
 number: 3
 status: draft
@@ -17,7 +17,7 @@ Draft 4, 25 Oct 2026. Starts with charters and home schooling and ends with wher
 
 Florida vouchers, 3 of 12
 
-Charter Schools and Home Schooling: Florida's Other Ways Out
+Where Florida's Children Learn: Charter Schools and Home Schooling
 
 Families who leave Florida's district-run public schools can choose a private school, with or without a voucher, a charter school, or home schooling. Each comes with its own rules. Since 2023, the state has also paid for home schooling through a new account open to any child, up to a cap.
 
@@ -136,6 +136,8 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 4, headline (RJ: doesn't like "Other Ways Out"):** "Charter Schools and Home Schooling: Florida's Other Ways Out" became "Where Florida's Children Learn: Charter Schools and Home Schooling." "Ways out" cast district schools as something to escape, which tilts; the new headline matches the post's own frame ("This post looks at where the children learn").
 
 **Draft 4 (RJ: is the scale paragraph needed? start with charters and home schooling, then loop back to vouchers):**
 - Cut the 2022-23 scale paragraph; its figures are in the notes, and the image still shows both years. The post now opens with charters (1996), then home schooling, the 2023 account and the rules each option follows.
