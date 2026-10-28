@@ -138,6 +138,7 @@ Sources for this post:
 ## Editor's notes
 
 **Draft 4, headline (RJ: doesn't like "Other Ways Out"):** "Charter Schools and Home Schooling: Florida's Other Ways Out" became "Where Florida's Children Learn: Charter Schools and Home Schooling." "Ways out" cast district schools as something to escape, which tilts; the new headline matches the post's own frame ("This post looks at where the children learn").
+The image title changed the same way: "Different ways out, different rules" became "Where Florida's children learn, and the rules for each."
 
 **Draft 4 (RJ: is the scale paragraph needed? start with charters and home schooling, then loop back to vouchers):**
 - Cut the 2022-23 scale paragraph; its figures are in the notes, and the image still shows both years. The post now opens with charters (1996), then home schooling, the 2023 account and the rules each option follows.
