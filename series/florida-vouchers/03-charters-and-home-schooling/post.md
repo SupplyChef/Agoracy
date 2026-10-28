@@ -19,17 +19,17 @@ Florida vouchers, 3 of 12
 
 Where Florida's Children Learn: Charter Schools and Home Schooling
 
-Families who leave Florida's district-run public schools can choose a private school, with or without a voucher, a charter school, or home schooling. Each comes with its own rules. Since 2023, the state has also paid for home schooling through a new account open to any child, up to a cap.
+Families who leave Florida's district-run public schools can choose a charter school, home schooling, or a private school, with or without a voucher. Each comes with its own rules. Since 2023, the state has also paid for home schooling through a new account open to any child, up to a cap.
 
 The first post in this series traced where Florida's school money goes. The second looked at who uses the scholarships. This post looks at where the children learn.
 
 Florida authorized charter schools in 1996. Five opened that school year, serving about 600 students, according to a 2004 Florida Senate report. Under state law, a charter school is a public school. It charges no tuition, and the state pays for its students through the same formula it uses for other public schools. Unlike a district school, it is run by a nonprofit group under a contract with the school district.
 
-Charter schools are exempt from most of the state's laws for public schools. They are not exempt from its tests. Charter students take the same state exams as other public school students, and each charter school gets a state grade from A to F. Under state law, a charter school that earns two F grades in a row loses its contract, with a few exceptions.
+Charter schools are exempt from most of the state's laws for public schools. They are not exempt from its tests. Charter students take the same state exams as other public school students, and each charter school gets a state grade from A to F. A charter school that earns two F grades in a row loses its contract, with a few exceptions.
 
-Charter schools grew steadily. More than 400,000 students now attend about 740 of them, according to the state Department of Education.
+Charter schools grew. More than 400,000 students now attend about 740 of them, according to the state Department of Education.
 
-Home schooling has its own rules. A family registers with its school district, keeps a portfolio of the child's work and has the child evaluated once a year, according to the Department of Education. The number of home-schooled children rose from 84,096 in 2014-15 to 143,431 in 2020-21, during the pandemic, and reached 152,871 in 2024-25.
+Home schooling has its own rules. A family registers with its school district, keeps a portfolio of the child's work and has the child evaluated once a year, according to the Department of Education. The number of home-schooled children rose from 84,096 in 2014-15 to 143,431 in 2020-21, the first full school year of the pandemic, and reached 152,871 in 2024-25.
 
 Until 2023, these families got no state money unless the child had a disability scholarship. House Bill 1, the law that opened vouchers to every child, created a second path, the Personalized Education Program. A family registers with a scholarship organization instead of the district and gets an account, paid through the Tax Credit Scholarship, for curriculum, tutoring, online classes and similar costs. The family files a learning plan each year, and the child takes a nationally normed test.
 
@@ -39,9 +39,9 @@ Private schools that take vouchers have their own testing rule. Their scholarshi
 
 Together, these options have changed where Florida's children learn. Of about 3.56 million students in 2024-25, about 69 percent attended district-run public schools, down from 72 percent two years earlier, according to Department of Education and Step Up counts. About 11 percent attended charter schools. About 14 percent attended private schools, where at least six in ten students had a Tax Credit or general Family Empowerment scholarship, according to Step Up counts reported by Florida Senate staff. About 6 percent learned at home, counting the account students.
 
-Supporters and opponents read these choices differently. Sen. Don Gaetz, a Republican and former school superintendent, defended a 2025 bill to let parents convert a public school into a charter school. He said "the entirety of Florida education policy is wrapped around parental choice." The Department of Education reports that charter students outscored students in traditional public schools in 55 of 77 comparisons in 2024-25. The department compares raw results and does not adjust for other differences between students.
+Supporters and opponents read these choices differently. Sen. Don Gaetz, a Republican and former school superintendent, defended a 2025 bill to let parents convert a public school into a charter school. He said, "The entirety of Florida education policy is wrapped around parental choice." The Department of Education reports that charter students outscored students in traditional public schools in 55 of 77 comparisons in 2024-25. The department compares raw results and does not adjust for other differences between students.
 
-Andrew Spar, president of the Florida Education Association, the statewide teachers union, opposed that year's efforts to expand charter schools. He called them "this constant eating away at the public schools" and said, "We cannot end up with public schools that are schools of last resort."
+Andrew Spar, president of the Florida Education Association, the statewide teachers union, opposed that year's efforts to expand charter schools. He called the trend "this constant eating away at the public schools" and said, "We cannot end up with public schools that are schools of last resort."
 
 In 1996, five charter schools opened with about 600 students. Today, more than 400,000 children attend charter schools, and the state pays for tens of thousands of home-schooled children. The next post looks at the private schools that take vouchers, including how many are religious.
 
@@ -64,7 +64,7 @@ Sources for this post:
 9. Program students and rules, 2025-26: Step Up For Students, PEP Fast Facts 2025-26. https://www.stepupforstudents.org/wp-content/uploads/26.5-PEP.pdf
 10. Program students are registered separately from home-schooled students: Step Up For Students, PEP Family Handbook. https://www.stepupforstudents.org/handbook-web/pep-family-handbook/
 11. Testing in private schools that take vouchers: Florida State University Learning Systems Institute, Family Empowerment Scholarship evaluation, June 2025, p. 2. https://origin.fldoe.org/file/5606/FES-Report2024.pdf
-12. Sen. Gaetz and Andrew Spar: WFSU, "Florida's legislative session has seen many efforts to boost charter schools," May 1, 2025. https://www.wlrn.org/government-politics/2025-05-01/floridas-legislative-session-has-seen-many-efforts-to-boost-charter-schools
+12. Sen. Gaetz and Andrew Spar: WFSU (republished by WLRN), "Florida's legislative session has seen many efforts to boost charter schools," May 1, 2025. https://www.wlrn.org/government-politics/2025-05-01/floridas-legislative-session-has-seen-many-efforts-to-boost-charter-schools
 13. Charter and traditional public school results: Florida Department of Education, "Student Achievement in Florida's Charter Schools," 2023-24 and 2024-25. https://www.fldoe.org/file/7778/SAR2023.pdf
 14. Students by setting, 2022-23: Florida Department of Education, "Florida Charter School Enrollment Share, 2022-23" (https://www.fldoe.org/core/fileparse.php/7778/urlt/CharterSchoolEnrollmentShare2122.pdf); "Florida's Private Schools, 2022-23 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2023.pdf); Home Education Annual Report 2024-25 (source 5); Florida Auditor General Report 2026-046, Tables 2 and 4 (https://flauditor.gov/pages/pdf_files/2026-046.pdf).
 15. Students by setting, 2024-25: Florida Department of Education, "Student Achievement in Florida's Charter Schools," p. 3 (public and charter, https://www.fldoe.org/file/7778/SAR2023.pdf); "Florida's Private Schools, 2024-25 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2025.pdf); Home Education Annual Report 2024-25 (source 5); Step Up (source 8). Scholarship students by kind, March 2025: Florida Senate bill analysis, SB 7030, p. 2. https://www.flsenate.gov/Session/Bill/2025/7030/Analyses/2025s07030.pre.ap.PDF
@@ -135,6 +135,15 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Final editor's read and link check (28 Oct, RJ: review as a Times editor, verify all links):**
+- All 16 sources load and support the claims they're cited for (checked 28 Oct).
+- Summary line: the list put "with or without a voucher" between two items, which read as if it applied to charters. Reordered.
+- "Under state law" appeared in two nearby paragraphs; the second dropped.
+- "Grew steadily" had no year-by-year source; now "grew."
+- Home schooling "rose ... to 143,431 in 2020-21, during the pandemic" implied the whole rise was pandemic-driven; now "the first full school year of the pandemic."
+- Gaetz quote now starts a sentence as in the source ("The entirety ..."). Spar described a trend, not the bills, so "He called them" became "He called the trend."
+- Source 12 named WFSU but linked to WLRN; it now says WFSU, republished by WLRN.
 
 - Cut the closing sentence on the unknown private/home split of the disability and Tax Credit money (RJ: doesn't belong in the main text). Moved to the notes; its source (Auditor General payments) left the first comment.
 
