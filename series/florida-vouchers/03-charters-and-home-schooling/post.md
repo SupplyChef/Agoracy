@@ -43,7 +43,7 @@ Supporters and opponents read these choices differently. Sen. Don Gaetz, a Repub
 
 Andrew Spar, president of the Florida Education Association, the statewide teachers union, opposed that year's efforts to expand charter schools. He called them "this constant eating away at the public schools" and said, "We cannot end up with public schools that are schools of last resort."
 
-In 1996, five charter schools opened with about 600 students. Today, more than 400,000 children attend charter schools, and the state pays for tens of thousands of home-schooled children. One part of the picture is still missing: for 2024-25, no state record says how much of the $1.2 billion in disability scholarships and the $0.8 billion in Tax Credit scholarships went to private schools and how much to home schooling. The next post looks at the private schools that take vouchers, including how many are religious.
+In 1996, five charter schools opened with about 600 students. Today, more than 400,000 children attend charter schools, and the state pays for tens of thousands of home-schooled children. The next post looks at the private schools that take vouchers, including how many are religious.
 
 Sources are in the first comment.
 
@@ -68,7 +68,6 @@ Sources for this post:
 13. Charter and traditional public school results: Florida Department of Education, "Student Achievement in Florida's Charter Schools," 2023-24 and 2024-25. https://www.fldoe.org/file/7778/SAR2023.pdf
 14. Students by setting, 2022-23: Florida Department of Education, "Florida Charter School Enrollment Share, 2022-23" (https://www.fldoe.org/core/fileparse.php/7778/urlt/CharterSchoolEnrollmentShare2122.pdf); "Florida's Private Schools, 2022-23 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2023.pdf); Home Education Annual Report 2024-25 (source 5); Florida Auditor General Report 2026-046, Tables 2 and 4 (https://flauditor.gov/pages/pdf_files/2026-046.pdf).
 15. Students by setting, 2024-25: Florida Department of Education, "Student Achievement in Florida's Charter Schools," p. 3 (public and charter, https://www.fldoe.org/file/7778/SAR2023.pdf); "Florida's Private Schools, 2024-25 School Year Annual Report" (https://www.fldoe.org/core/fileparse.php/7562/urlt/PS-AnnualReport2025.pdf); Home Education Annual Report 2024-25 (source 5); Step Up (source 8). Scholarship students by kind, March 2025: Florida Senate bill analysis, SB 7030, p. 2. https://www.flsenate.gov/Session/Bill/2025/7030/Analyses/2025s07030.pre.ap.PDF
-16. Disability and Tax Credit scholarship payments, 2024-25: Florida Auditor General Report 2026-046, Tables 3-4. https://flauditor.gov/pages/pdf_files/2026-046.pdf
 
 ---
 
@@ -104,7 +103,6 @@ Sources for this post:
 | 2024-25: about 3.56 million; 69 / 11 / 14 / 6 percent | Total 3,561,555 (see notes): Department of Education counts plus Step Up's 59,925 account students. 2,447,890 / 3,561,555 = 68.7%; 404,350 = 11.4%; 496,519 = 13.9%; (152,871 + 59,925) = 6.0% |
 | At least six in ten private students had a Tax Credit or general Family Empowerment scholarship (2024-25) | SB 7030 analysis, p. 2 (Step Up, March 2025): FES-EO 265,522; FTC 54,356 (separate from PEP 58,943). 319,878 / 496,519 = 64.4% |
 | Disability scholarship split between private and home not published | Checked: Auditor General 2026-046, SB 7030 and CS/SB 318 analyses, DOE, Step Up, EdChoice. None reports it |
-| $1.2B disability, $0.8B Tax Credit (2024-25) | Auditor General 2026-046, Tables 3-4: $1,169.6M; $804.5M |
 
 **Caveats:**
 - Charter enrollment on the FL DOE page carries no year. The post uses "more than 400,000," which both the page and the May 2026 release support.
@@ -126,6 +124,7 @@ Sources for this post:
 - **Gov. DeSantis on home schooling.** At the 2024 Florida Homeschool Convention: "do you want to turn them over for eight hours a day to some indoctrination factory?" (News Service of Florida, May 28, 2024.) Not used: it is a rhetorical attack rather than an argument about the rules.
 - **Other voices.** State Board of Education chair Ryan Petty: "when parents have choices and schools are focused on student outcomes, students thrive." (FL DOE release, May 14, 2026.) Rep. Demi Busatta: "schools of hope are public schools." (WFSU, May 1, 2025.)
 - **State count, November 2025 (cut from the text in draft 4).** 84,140 account students across all nonprofits, "funded through the PEP scholarship" (Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, p. 3, citing a Department of Education email of Dec. 1, 2025; https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF).
+- **The open money question (cut from the closing in draft 4).** For 2024-25, no state record says how much of the $1.2 billion in disability scholarships and the $0.8 billion in Tax Credit scholarships went to private schools and how much to home schooling (Auditor General 2026-046, Tables 3-4: $1,169.6M and $804.5M). Checked: Auditor General, SB 7030 and CS/SB 318 analyses, DOE, Step Up. Useful for post 5 or a public records request.
 - **Step Up's 2025-26 count.** Step Up reported 78,617 funded program students for 2025-26 (PEP Fast Facts 2025-26, source 9). The state's 84,140 (November 2025) counts all organizations.
 - **To research for later posts:** independent charter studies for Florida (CREDO), charter closures, the home-education law's history (enacted 1985, to verify), and whether program students must also follow the home-education notice and portfolio rules.
 
@@ -136,6 +135,8 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+- Cut the closing sentence on the unknown private/home split of the disability and Tax Credit money (RJ: doesn't belong in the main text). Moved to the notes; its source (Auditor General payments) left the first comment.
 
 **Draft 4, headline (RJ: doesn't like "Other Ways Out"):** "Charter Schools and Home Schooling: Florida's Other Ways Out" became "Where Florida's Children Learn: Charter Schools and Home Schooling." "Ways out" cast district schools as something to escape, which tilts; the new headline matches the post's own frame ("This post looks at where the children learn").
 The image title changed the same way: "Different ways out, different rules" became "Where Florida's children learn, and the rules for each."
