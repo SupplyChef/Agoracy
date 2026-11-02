@@ -4,7 +4,7 @@ series: florida-vouchers
 number: 4
 status: draft
 image: image.png
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 
 # Post 4 of 12: Religious schools
@@ -29,7 +29,7 @@ In 2004, a state appeals court applied the clause to the voucher for failing sch
 
 The Tax Credit Scholarship works differently. Companies give money to nonprofit scholarship organizations and receive a state tax credit, so the money does not pass through the state budget. In 2014, the Florida Education Association, the statewide teachers union, and others sued, arguing in part that the program still diverted public funds to religious schools. In 2016, the First District upheld the dismissal of the case without ruling on that question: the plaintiffs, it held, had not shown that the program harmed them in a way that gave them the right to sue. The Florida Supreme Court declined to hear an appeal in 2017.
 
-Lawmakers also tried to change the clause. In 2012, the Legislature asked voters to remove it and to bar the state from denying benefits "on the basis of religious identity or belief." The amendment needed 60 percent of the vote. It got about 44 percent, according to news reports.
+Lawmakers also tried to change the clause. In 2012, the Legislature asked voters to remove it and to bar the state from denying benefits "on the basis of religious identity or belief." The amendment needed 60 percent of the vote. It got 44.5 percent, according to the Florida Division of Elections.
 
 In 2019, Florida created the Family Empowerment Scholarship, which is paid from the state budget. Its scholarships also pay tuition at religious schools, according to Step Up For Students.
 
@@ -57,8 +57,8 @@ Sources for this post:
 2. The no-aid clause, its history, the 2004 appeals court ruling and the 2006 Supreme Court's treatment of it: Florida Senate Committee on Judiciary, Interim Project Report 2006-139, February 2006, pp. 3-6. https://www.flsenate.gov/UserContent/Committees/Publications/InterimWorkProgram/2006/pdf/2006-139ju.pdf
 3. The 2006 ruling: Bush v. Holmes, Florida Supreme Court, Jan. 5, 2006. https://library.law.fsu.edu/Digital-Collections/flsupct/dockets/sc04-2323/op-sc04-2323-correction.pdf
 4. How the Tax Credit Scholarship is funded: OPPAGA Report 08-68. https://oppaga.fl.gov/Documents/Reports/08-68.pdf
-5. The teachers union's lawsuit: McCall v. Scott, 199 So. 3d 359 (Fla. 1st DCA, Aug. 16, 2016). https://case-law.vlex.com/vid/mccall-v-scott-no-887408738. Supreme Court review declined Jan. 18, 2017 (Case No. SC16-1668).
-6. The 2012 amendment: Florida Senate bill summary, CS/HJR 1471 (2011). https://flsenate.gov/Committees/BillSummaries/2011/html/1471. Result: National Catholic Register, Nov. 2012. https://www.ncregister.com/site/article/religious-freedom-amendments-tumble1
+5. The teachers union's lawsuit: McCall v. Scott, 199 So. 3d 359 (Fla. 1st DCA, Aug. 16, 2016). https://case-law.vlex.com/vid/mccall-v-scott-no-887408738. Florida Supreme Court order declining review, Jan. 18, 2017, Case No. SC16-1668: https://legacy.myfloridalegal.com/webfiles.nsf/WF/JMAR-AHQQGN/$file/1.18.17%20Florida%20Supreme%20Court%20Order.pdf
+6. The 2012 amendment: Florida Senate bill summary, CS/HJR 1471 (2011). https://flsenate.gov/Committees/BillSummaries/2011/html/1471. Result: Florida Division of Elections, Nov. 6, 2012 general election, Religious Freedom amendment. https://results.elections.myflorida.com/DetailRpt.Asp?ELECTIONDATE=11/6/2012&RACE=A08&PARTY=&DIST=&GRP=&DATAMODE=
 7. Family Empowerment Scholarship paid through the state budget: Florida Senate bill summary, SB 7070 (Chapter 2019-23, Laws of Florida). https://flsenate.gov/Committees/BillSummaries/2019/html/7070
 8. Montana ruling: Espinoza v. Montana Department of Revenue, U.S. Supreme Court, June 30, 2020. https://www.law.cornell.edu/supremecourt/text/18-1195
 9. Maine ruling and the quotes: Carson v. Makin, U.S. Supreme Court, June 21, 2022, majority p. 15; Sotomayor dissent p. 1. https://www.supremecourt.gov/opinions/21pdf/20-1088_dbfi.pdf
@@ -79,10 +79,10 @@ Sources for this post:
 | 2006: Supreme Court struck the program on other grounds and declined to rule on the religion question | Senate 2006-139, p. 5: the majority "decline[d] to reach" the no-aid determination; ruled under art. IX, s. 1(a). Bush v. Holmes (2006) |
 | Tax Credit money goes from companies to scholarship organizations and does not pass through the state budget | OPPAGA 08-68, p. 1: corporations "make contributions to scholarship funding organizations" and receive tax credits. The state's cost is forgone revenue (post 1 notes) |
 | 2014 suit by FEA and others, arguing in part that the program diverted public funds to religious schools | McCall v. Scott, 199 So. 3d 359 (Fla. 1st DCA 2016), as shown on vLex: appellants claimed violations of art. I, s. 3 ("diverting funds from the public treasury" to religiously affiliated schools) and art. IX, s. 1(a). Filed August 2014 (EdChoice case page). Holland & Knight release, Jan. 18, 2017: suit "brought by the Florida Education Association, the state's teachers union, and other advocacy groups" |
-| 2016: First DCA upheld the dismissal for lack of standing, without ruling on the clause | McCall, Aug. 16, 2016 (Judge Rowe): trial court dismissed with prejudice on standing; "we affirm." EdChoice case page: plaintiffs "suffered no special injury." **To verify against the full opinion text before posting** |
-| 2017: Florida Supreme Court declined to hear an appeal | Holland & Knight release, Jan. 18, 2017: justices "declined to hear the case in a 4-1 decision"; EdChoice: review denied Jan. 18, 2017, Case No. SC16-1668. **Primary docket not yet checked** |
+| 2016: First DCA upheld the dismissal for lack of standing, without ruling on the clause | McCall, Aug. 16, 2016 (Judge Rowe): trial court dismissed with prejudice on standing; "we affirm." EdChoice case page: plaintiffs "suffered no special injury." A later court describes McCall as "holding that appellant parents and teachers lacked taxpayer standing to challenge the Florida Tax Credit Scholarship Program" (citing case shown on vLex). A dismissal for lack of standing does not reach the constitutional claims |
+| 2017: Florida Supreme Court declined to hear an appeal | Florida Supreme Court order, Jan. 18, 2017, Case No. SC16-1668 (McCall v. Scott; lower tribunal 1D15-2752): "having determined that it should decline to accept jurisdiction, it is ordered that the petition for review is denied." Pariente, Quince, Canady and Polston concurred; Lewis "would grant oral argument" |
 | 2012: the Legislature put an amendment on the ballot to remove the clause and bar denying benefits "on the basis of religious identity or belief"; needed 60 percent | Senate bill summary, CS/HJR 1471 (2011): would remove the "in aid of any church, sect, or religious denomination" language and add that "government may not deny the benefits of any program, funding, or other support on the basis of religious identity or belief"; "If approved by at least 60 percent of the electors voting on the measure at the November 2012 general election" |
-| About 44 percent voted yes | National Catholic Register, Nov. 2012: 44 percent Yes. **News source; the official Division of Elections result could not be retrieved. Confirm before posting** |
+| 44.5 percent voted yes | Florida Division of Elections, 2012 general election, Religious Freedom amendment: Yes 3,441,128 (44.5%), No 4,286,376 (55.5%). Check: 3,441,128 / 7,727,504 = 44.53% |
 | 2019: Family Empowerment paid from the state budget; its scholarships also pay tuition at religious schools | SB 7070 summary: FES "funded through the FEFP." Step Up, Nov. 16, 2022: "About 151,000 income-based scholarship students (82.5%) are attending religious schools" (Tax Credit and Family Empowerment combined) |
 | 2020: Montana's courts could not use the no-aid clause to shut religious schools out of a tax credit scholarship program | Espinoza (June 30, 2020, 5-4, Roberts, C.J.), syllabus: the Montana Supreme Court struck down the program under the no-aid provision; held "The application of the no-aid provision discriminated against religious schools and the families whose children attend or hope to attend them in violation of the Free Exercise Clause of the Federal Constitution" |
 | 2022: struck down Maine's rule keeping tuition aid from religious schools; Roberts and Sotomayor quotes | Carson v. Makin (June 21, 2022, 6-3), majority (Roberts, C.J.), slip op. p. 15: "A State need not subsidize private education. But once a State decides to do so, it cannot disqualify some private schools solely because they are religious." (The line first appeared in Espinoza.) Sotomayor, J., dissenting, p. 1: "This Court continues to dismantle the wall of separation between church and state that the Framers fought to build." Verbatim |
@@ -99,8 +99,7 @@ Sources for this post:
 
 **Caveats:**
 - The appeals court's 2004 opinion itself was not retrieved; the post relies on the Senate's 2006 legal analysis of it.
-- The McCall standing holding is confirmed only through a legal database summary and EdChoice's case page. Read the opinion before posting.
-- The 2012 vote share comes from a news report.
+- The McCall opinion was read through vLex's copy, which shows the affirmance on standing but cuts off before the court's full analysis; a later court's description confirms the standing holding.
 - The state's counts classify schools as "Religious" or "Non-Religious" without saying how; Step Up says schools self-report.
 
 ---
@@ -120,6 +119,10 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Pre-publication check (2 Nov, RJ: is it ready for publication?):**
+- The three flagged items are now confirmed in primary records. The 2012 vote share is 44.5 percent (Division of Elections), so the post now says "44.5 percent, according to the Florida Division of Elections" instead of "about 44 percent, according to news reports." The 2017 denial is confirmed by the Supreme Court's order (4-1; Justice Lewis would have heard argument). The 2016 standing holding is confirmed by the opinion's affirmance and a later court's description of it.
+- Sources 5 and 6 now link the court order and the election result; the National Catholic Register link was dropped.
 
 **Final editor's read and link check (28 Oct, RJ: review as a Times editor, verify all links):**
 - All 12 sources load and support the claims they're cited for (checked 28 Oct). The three flagged items (2012 vote share, McCall's standing holding, 2017 denial) still rest on news or secondary sources; see caveats.
