@@ -37,8 +37,6 @@ In 2020 and 2022, the U.S. Supreme Court ruled on clauses like Florida's. In 202
 
 Through all of this, the share of Tax Credit students at religious schools barely moved. It was 83 percent in 2009-10, 82 percent in 2015-16 and 81 percent in 2022-23, according to the Department of Education.
 
-The schools changed more than the students did. As more secular schools joined, the share of participating schools that were religious fell from 79 percent in 2005-06 to 65 percent in 2022-23. That year, secular schools made up 35 percent of the 2,083 participating schools but enrolled 19 percent of the Tax Credit students. Religious schools enrolled about 61 scholarship students each on average; secular schools, about 26.
-
 The department has not published these counts since 2022-23. Step Up For Students, the nonprofit that runs most of Florida's scholarships, says on its website that 82 percent of its students on the general scholarships attend a religious school. Catholic schools enroll the largest number, according to a 2022 Step Up analysis. Nationally, 76 percent of all private school students, with or without a voucher, attend religious schools, according to 2023-24 federal data. No public record gives that share for Florida, so it is not possible to say whether scholarship students are more likely than other private school students to attend a religious school.
 
 Supporters see parents choosing the schools they trust, most of them religious, and a U.S. Constitution that does not let the state exclude them. Critics see public money paying for religious education, which they say Florida's Constitution was written to prevent.
@@ -87,8 +85,6 @@ Sources for this post:
 | 2020: Montana's courts could not use the no-aid clause to shut religious schools out of a tax credit scholarship program | Espinoza (June 30, 2020, 5-4, Roberts, C.J.), syllabus: the Montana Supreme Court struck down the program under the no-aid provision; held "The application of the no-aid provision discriminated against religious schools and the families whose children attend or hope to attend them in violation of the Free Exercise Clause of the Federal Constitution" |
 | 2022: struck down Maine's rule keeping tuition aid from religious schools; Roberts and Sotomayor quotes | Carson v. Makin (June 21, 2022, 6-3), majority (Roberts, C.J.), slip op. p. 15: "A State need not subsidize private education. But once a State decides to do so, it cannot disqualify some private schools solely because they are religious." (The line first appeared in Espinoza.) Sotomayor, J., dissenting, p. 1: "This Court continues to dismantle the wall of separation between church and state that the Framers fought to build." Verbatim |
 | 83% (2009-10), 82% (2015-16), 81% (2022-23) | DOE quarterly reports: June 2010: 24,134 of 28,927 (83.4%); June 2016: 65,811 of 80,473 (81.8%); June 2023: 82,291 of 101,242 (81.3%). Student totals are duplicated counts (students at two schools counted in both) |
-| 2022-23: secular schools 35% of 2,083 participating schools, 19% of students | DOE June 2023, p. 5: Non-Religious 732 schools (35.1%), Religious 1,351 (64.9%), total 2,083; students Non-Religious 18,951 (18.7%), Religious 82,291 (81.3%) |
-| Share of religious schools fell from 79% (2005-06) to 65% (2022-23); about 61 vs 26 scholarship students per school | DOE June 2006: 708 of 895 (79.1%); June 2023: 1,351 of 2,083 (64.9%). Averages: 82,291 / 1,351 = 60.9; 18,951 / 732 = 25.9 (duplicated student counts) |
 | The department has not published these counts since 2022-23 | DOE FTC quarterly reports page lists reports through June 2023 only (checked 26 Oct 2026). DOE annual private school reports have no religious breakdown (2012-13 and 2024-25 checked) |
 | Step Up: 82 percent of its general-scholarship students at religious schools | Step Up research page (undated): "61 percent of private schools identified as religious, though 82 percent of all students attend a religious school." The page is about its income-based (now general) scholarships. Administrator's own figure; schools self-report |
 | Catholic schools enroll the largest number (2022) | Step Up, Nov. 16, 2022: "Catholics comprise the largest religious group with 34,912 students and 204 schools" |
@@ -107,6 +103,7 @@ Sources for this post:
 ## Notes: details kept out of the main text
 
 - **Full Tax Credit series (DOE quarterly reports).** Students at religious schools: 81.0% (2005-06), 83.4% (2009-10), 82.5% (2012-13), 81.8% (2015-16), 82.6% (2019-20), 81.3% (2022-23). Schools that were religious: 79.1%, 79.2%, 73.2%, 69.2%, 65.8%, 64.9%. Participating schools: 895, 1,033, 1,338, 1,602, 1,870, 2,083.
+- **Secular schools (cut from the post in the 2 Nov edit).** More secular schools joined over time: religious schools fell from 79.1 percent of participating schools in 2005-06 (708 of 895) to 64.9 percent in 2022-23 (1,351 of 2,083), while the student share stayed near 81 percent. In 2022-23 secular schools were 35.1 percent of schools (732) but enrolled 18.7 percent of students (18,951). Average scholarship students per school: religious 82,291 / 1,351 = 60.9; secular 18,951 / 732 = 25.9 (duplicated counts). Source: DOE quarterly reports, June 2006 p. 4 and June 2023 p. 5. Useful if a commenter says the program mostly created new religious schools.
 - **Disability scholarship.** Step Up's 2022 analysis says more than 22,000 of 37,603 private-school students on the disability scholarship (about 59 percent) attended religious schools. Not used because the disability scholarship's private-school count is not otherwise published (see post 3).
 - **By denomination (Step Up, 2021-22 school report, income-based students in religious schools).** Non-denominational 36.4%, Catholic 20.1%, Baptist 17.6%, Assemblies of God 5.0%, Islamic 3.2%. Administrator's data.
 - **2012 amendment voices (news, not used).** Michael Sheedy of the Florida Conference of Catholic Bishops: "Discrimination against some harms us all." The League of Women Voters and teachers unions opposed it. (National Catholic Register.) The Senate passed the resolution 26-10 and the House 81-35 (Senate bill summary).
@@ -119,6 +116,10 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Secular-schools paragraph cut (2 Nov, RJ: "confusing and I am not sure it adds to the topic"):**
+- Cut the paragraph beginning "The schools changed more than the students did." It was about which schools take part, not which schools the students attend, and its four numbers were hard to follow. The figures and their fact-check rows moved to the notes.
+- The image no longer shows the share of participating schools that were religious, so it matches the text: one line for students, and the national 76 percent for context.
 
 **Pre-publication check (2 Nov, RJ: is it ready for publication?):**
 - The three flagged items are now confirmed in primary records. The 2012 vote share is 44.5 percent (Division of Elections), so the post now says "44.5 percent, according to the Florida Division of Elections" instead of "about 44 percent, according to news reports." The 2017 denial is confirmed by the Supreme Court's order (4-1; Justice Lewis would have heard argument). The 2016 standing holding is confirmed by the opinion's affirmance and a later court's description of it.
