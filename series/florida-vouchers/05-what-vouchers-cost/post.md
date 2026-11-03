@@ -29,7 +29,7 @@ The savings rested on one assumption: that about 90 percent of the students woul
 
 In 2023, the Legislature opened vouchers to every child, including children already in private school. That fall, 69 percent of new voucher students had been in private school, 13 percent came from public schools, and 18 percent were starting kindergarten, according to Step Up For Students, the nonprofit that runs most of the programs.
 
-Spending on vouchers rose from $2.0 billion in 2022-23 to about $4.0 billion in 2024-25, according to the state's auditor general. Most of it, $3.2 billion, came from the state's school funding formula, the same money that pays for public schools. The rest, $0.8 billion, came through the Tax Credit Scholarship, paid by corporate donations that the state credits against taxes.
+Spending on vouchers rose from $2.0 billion in 2022-23 to about $4.0 billion in 2024-25, according to the state's auditor general. Most of it, $3.2 billion, came out of the same state appropriation that pays for public schools. Lawmakers set one amount for the school funding formula, and voucher students are counted in it alongside public school students. The rest, $0.8 billion, came through the Tax Credit Scholarship, paid by corporate donations that the state credits against taxes.
 
 That changed what the state's school money pays for. Over those two years, the state's money in the formula grew from $13.6 billion to $15.6 billion, according to the Department of Education. Vouchers took $1.9 billion of the $2 billion increase. The part left for public schools barely changed. It rose by about $130 million, to $12.4 billion. Some of the voucher money follows children who left public schools, whom the state would have paid for anyway, and no state record says how many. The dollars are not adjusted for inflation.
 
@@ -69,7 +69,7 @@ Sources for this post:
 | 2023: opened to every child, including those in private school | Senate summary of HB 1 (Chapter 2023-16); House PKA analysis (post 2) |
 | 69 / 13 / 18 percent | Step Up, Sept. 8, 2023: 84,505 private, 16,096 public, 22,294 kindergarten, of 122,895 (68.8 / 13.1 / 18.1) |
 | $2.0B (2022-23) to about $4.0B (2024-25) | Auditor General Tables 2-4: $2,008.5M; $3,978.3M |
-| $3.2B from the formula; $0.8B Tax Credit, donations credited against taxes | Auditor General Tables 2-3: $2,004.2M + $1,169.6M = $3,173.8M; p. 5: FES "Funded by FEFP Funds"; Table 4: $804.5M; p. 5: FTC "Funded by Corporate Contributions." OPPAGA 08-68, p. 1, on the credits |
+| $3.2B from the same state appropriation as public schools; one formula amount, voucher students counted in it; $0.8B Tax Credit | Auditor General Tables 2-3: $2,004.2M + $1,169.6M = $3,173.8M; p. 5: FES "Funded by FEFP Funds"; p. 10: $2,790,276,311 budgeted for FES within the FEFP appropriation; p. 16: "appropriated FEFP funds began to run short." 2024-25 Final Calculation: scholarship students are included in FTE and their cost is deducted from the state share as the "Adjustment for Family Empowerment Scholarships." CS/SB 318 analysis, p. 21: when the appropriation ran short, "only school district FEFP funding is prorated, FES scholarship awards are not impacted"; Table 4: $804.5M; p. 5: FTC "Funded by Corporate Contributions." OPPAGA 08-68, p. 1, on the credits |
 | State money in the formula $13.6B to $15.6B; vouchers took $1.9B of the $2B increase; part left for public schools rose about $130M, to $12.4B | Final Calculations, Total State Funding: $13,592,573,924 (2022-23), $15,583,715,574 (2024-25); increase $1,991,141,650. Adjustment for Family Empowerment Scholarships: $1,311,503,892 and $3,173,823,878; increase $1,862,319,986 (93.5%). Left: $12,281,070,032 and $12,409,891,696 (both about $12.3-12.4B; up $128.8M) |
 | Some voucher money follows children who left public schools; no record says how many | Step Up's fall 2023 split covers new students only; no state record splits all scholarship students by prior school (post 2) |
 | Nominal dollars | All figures as reported |
@@ -108,6 +108,9 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 2 follow-up (3 Nov, RJ: is it the same fund, or only the same formula?):**
+- Same fund. Family Empowerment is paid from the state's appropriation for the school funding formula, the same appropriation that pays districts. Voucher students are counted in the formula, and their cost is deducted from the state's share. When that appropriation ran short in 2024-25, districts' payments were reduced and scholarships were not (notes). The sentence now says "the same state appropriation" and explains it in one line. Local property taxes are not used for vouchers.
 
 **Draft 2 (3 Nov, RJ: "way too complex"):**
 - Rewritten around one idea: whether vouchers save money depends on where the children would otherwise be. About 560 words, down from about 900; about a dozen numbers, down from about 40.
