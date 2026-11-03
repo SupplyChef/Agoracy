@@ -1,5 +1,5 @@
 ---
-title: "Do Florida's Vouchers Save Money? It Depends on Where the Children Came From"
+title: "Do Florida's Vouchers Save Money?"
 series: florida-vouchers
 number: 5
 status: draft
@@ -9,7 +9,7 @@ updated: 2026-11-03
 
 # Post 5 of 12: What vouchers cost, and where the money comes from
 
-Draft 2, 3 Nov 2026. Rewritten much simpler at RJ's request: one idea, few numbers. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 3, 3 Nov 2026. Rewritten for clarity at RJ's request: short paragraphs, one point each. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -17,25 +17,31 @@ Draft 2, 3 Nov 2026. Rewritten much simpler at RJ's request: one idea, few numbe
 
 Florida vouchers, 5 of 12
 
-Do Florida's Vouchers Save Money? It Depends on Where the Children Came From
+Do Florida's Vouchers Save Money?
 
-In 2008, the Legislature's auditors found that a Florida voucher program saved the state money, because most of its students came from public schools. In 2023, the first year vouchers were open to every child, most new students came from private schools.
+It depends on one thing: where each child would have gone to school without a voucher.
 
-The math behind a voucher's cost is simple. Florida already pays for every child in public school. When a child leaves for a private school with a voucher, the state pays for the voucher instead, and the voucher usually costs less. When a child who was already in private school gets a voucher, the state pays for a child it was not paying for before.
+Here is why. Florida already pays for every child in public school.
 
-In 2008, OPPAGA, the Legislature's research office, applied that math to the Tax Credit Scholarship. In 2007-08, the scholarship was worth up to $3,750. The state's school funding formula provided $6,106 for each public school student. OPPAGA estimated that the program saved the state $38.9 million that year.
+If a child leaves public school with a voucher, the state pays for the voucher instead. A voucher usually costs less than a public school seat, so the state saves money.
 
-The savings rested on one assumption: that about 90 percent of the students would otherwise have been in public school. That was reasonable then, because most new students had to come from a public school. If the share fell to 60 percent, OPPAGA said, the savings would disappear.
+If a child was already in private school, the state now pays for a child it was not paying for before. That is a new cost.
 
-In 2023, the Legislature opened vouchers to every child, including children already in private school. That fall, 69 percent of new voucher students had been in private school, 13 percent came from public schools, and 18 percent were starting kindergarten, according to Step Up For Students, the nonprofit that runs most of the programs.
+In 2008, OPPAGA, the Legislature's research office, applied this test to the Tax Credit Scholarship. At the time, most new students had to come from public schools. OPPAGA found that the program saved the state $38.9 million in 2007-08. It added that the savings would disappear if fewer than 60 percent of the students would otherwise have been in public school.
 
-Spending on vouchers rose from $2.0 billion in 2022-23 to about $4.0 billion in 2024-25, according to the state's auditor general. Most of it, $3.2 billion, came out of the same state appropriation that pays for public schools. Lawmakers set one amount for the school funding formula, and voucher students are counted in it alongside public school students. The rest, $0.8 billion, came through the Tax Credit Scholarship, paid by corporate donations that the state credits against taxes.
+In 2023, Florida opened vouchers to every child, including children already in private school. That fall, 69 percent of new voucher students had already been in private school, and 13 percent came from public schools, according to Step Up For Students, the nonprofit that runs most of the programs. The rest were starting kindergarten.
 
-That changed what the state's school money pays for. Over those two years, the state's money in the formula grew from $13.6 billion to $15.6 billion, according to the Department of Education. Vouchers took $1.9 billion of the $2 billion increase. The part left for public schools barely changed. It rose by about $130 million, to $12.4 billion. Some of the voucher money follows children who left public schools, whom the state would have paid for anyway, and no state record says how many. The dollars are not adjusted for inflation.
+Spending on vouchers doubled in two years, from $2 billion in 2022-23 to $4 billion in 2024-25, according to the state's auditor general.
 
-The two sides read these numbers differently. Step Up says that "every study shows the scholarships save state tax money." The studies it cites were done before 2023, when most students came from public schools. Sadaf Knight, chief executive of the Florida Policy Institute, a research group that opposed the 2023 law, said in 2025 that the cost of vouchers continues "to balloon to the detriment of public schools."
+Most of that money comes from the same place as public school money. Each year, lawmakers set one amount of state money for schools. Vouchers are paid from it in full, and school districts share the rest. The other $0.8 billion comes from corporate donations that the state credits against taxes.
 
-In 2008, the state's auditors said the program saved money if at least 60 percent of its students would otherwise have been in public school. The state has not estimated that share since vouchers opened to every child. The next post asks what this means for public schools' money per student, and who makes up the difference.
+From 2022-23 to 2024-25, lawmakers added $2 billion to the state's school money. Vouchers took $1.9 billion of it, according to the Department of Education. Some of that pays for children who left public schools, whom the state would have paid for anyway. No state record says how many. (Dollars are not adjusted for inflation.)
+
+When vouchers cost more than planned, districts take the hit. In 2024-25, vouchers cost about $400 million more than the state had budgeted. The state cut districts' last payment of the year by $47 million and paid it in November 2025, after the school year had ended, according to the auditor general.
+
+The two sides read the cost differently. Step Up says that "every study shows the scholarships save state tax money." The studies it cites were done before 2023. Sadaf Knight, chief executive of the Florida Policy Institute, a research group that opposed the 2023 law, said in 2025 that the cost of vouchers continues "to balloon to the detriment of public schools."
+
+In 2008, the answer was clear: most students came from public schools, and the program saved money. Today the state does not know the answer, because it has not measured where voucher students would otherwise be. The next post looks at what this means for public schools' money per student.
 
 Sources are in the first comment.
 
@@ -47,10 +53,11 @@ Sources for this post:
 
 1. The 2007-08 savings estimate, the 90 percent assumption, the 60 percent break-even, the maximum scholarship and per-student formula funding: OPPAGA Report 08-68, "The Corporate Income Tax Credit Scholarship Program Saves State Dollars," December 2008, pp. 3-4, 11-12. https://oppaga.fl.gov/Documents/Reports/08-68.pdf
 2. Where new voucher students came from, fall 2023: News Service of Florida, Sept. 15, 2023, reporting Step Up For Students data as of Sept. 8, 2023. https://jaxtoday.org/2023/09/15/over-100000-new-students-got-florida-school-vouchers/
-3. Voucher spending by program, 2022-23 and 2024-25: Florida Auditor General Report 2026-046, November 2025, Tables 2-4, p. 6. https://flauditor.gov/pages/pdf_files/2026-046.pdf
-4. State money in the school funding formula and the voucher share: Florida Department of Education, FEFP Final Calculations, 2022-23 (https://www.fldoe.org/file/7507/22-23FEFPFinalCalc.pdf) and 2024-25 (https://cdn.fldoe.org/file/7507/2425FEFPFinal.pdf).
+3. Voucher spending by program, 2022-23 and 2024-25; the 2024-25 budget overrun, the cut to districts' last payment and the November 2025 payment: Florida Auditor General Report 2026-046, November 2025, Tables 2-4, pp. 5-6, 10, 16-17 and note 26. https://flauditor.gov/pages/pdf_files/2026-046.pdf
+4. State money for schools and the voucher share: Florida Department of Education, FEFP Final Calculations, 2022-23 (https://www.fldoe.org/file/7507/22-23FEFPFinalCalc.pdf) and 2024-25 (https://cdn.fldoe.org/file/7507/2425FEFPFinal.pdf).
 5. Step Up's statement: Step Up For Students, "Tax Credit Scholarship Financial Costs" (undated fact sheet). https://www.stepupforstudents.org/wp-content/uploads/23.1-FTC-Cost-Savings.pdf
-6. Sadaf Knight's statement: Florida Policy Institute press release, Jan. 14, 2025. https://www.floridapolicy.org/posts/growth-rate-of-floridas-private-school-vouchers-cause-for-alarm-groups-say
+6. Vouchers paid in full when money runs short: Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, p. 21. https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF
+7. Sadaf Knight's statement: Florida Policy Institute press release, Jan. 14, 2025. https://www.floridapolicy.org/posts/growth-rate-of-floridas-private-school-vouchers-cause-for-alarm-groups-say
 
 ---
 
@@ -73,11 +80,19 @@ Sources for this post:
 | State money in the formula $13.6B to $15.6B; vouchers took $1.9B of the $2B increase; part left for public schools rose about $130M, to $12.4B | Final Calculations, Total State Funding: $13,592,573,924 (2022-23), $15,583,715,574 (2024-25); increase $1,991,141,650. Adjustment for Family Empowerment Scholarships: $1,311,503,892 and $3,173,823,878; increase $1,862,319,986 (93.5%). Left: $12,281,070,032 and $12,409,891,696 (both about $12.3-12.4B; up $128.8M) |
 | Some voucher money follows children who left public schools; no record says how many | Step Up's fall 2023 split covers new students only; no state record splits all scholarship students by prior school (post 2) |
 | Nominal dollars | All figures as reported |
+| Summary: it depends on where each child would have gone | House PKA analysis of HB 1, p. 21 (switchers "already funded ... no fiscal impact"); OPPAGA 08-68 savings assume 90% would have been in public school |
+| Vouchers paid in full; districts share the rest | CS/SB 318 analysis, p. 21: "Under current law, only school district FEFP funding is prorated, FES scholarship awards are not impacted." Final Calculations deduct the "Adjustment for Family Empowerment Scholarships" from the state share before district totals |
+| "Lawmakers added $2 billion to the state's school money" | Total State Funding rose $1,991,141,650 from 2022-23 to 2024-25 (Final Calculations). State money only; local property taxes are separate (post 6) |
+| Doubled, $2B to $4B | Auditor General: $2,008.5M to $3,978.3M (x1.98) |
+| 2024-25: about $400M over budget | Auditor General p. 10: budgeted $2,790,276,311; spent $3,188,043,518; difference $397,767,207 |
+| Last payment cut by $47M; paid in November 2025 | Auditor General p. 16: "the 24th and final FEFP payment to school districts was reduced by $47 million"; Exhibit B: $47,099,007. Note 26: the department "released $47,117,395 to school districts and special districts on November 6, 2025" to meet "outstanding obligations at the end of the 2024-25 school year for the FEFP." Tampa Bay Times, Nov. 6, 2025: the release was to make districts "whole." See caveat on the Final Calculation's $250.1M proration |
+| "The state does not know the answer, because it has not measured where voucher students would otherwise be" | Same check as the last row: no state record estimates the share for current scholarship students; Step Up's fall 2023 split covers new students only |
 | Step Up quote; its studies predate 2023 | Step Up fact sheet: "Every study shows the scholarships save state tax money"; cited studies run 2002 to 2019 |
 | Knight quote; FPI opposed the 2023 law | FPI release, Jan. 14, 2025: "the cost of private school vouchers continue to balloon to the detriment of public schools" (post quotes "to balloon to the detriment of public schools"). News Service of Florida, Sept. 15, 2023: FPI "strongly opposed" the expansion |
 | The state has not estimated that share since 2023 | Checked: Auditor General 2026-046; CS/SB 318 analysis (Dec. 2025); Education Estimating Conference (Aug. 2026); OPPAGA search. None estimates the share of current scholarship students who would otherwise be in public school |
 
 **Caveats:**
+- The 2024-25 cut: the Final Calculation shows a $250.1 million "Proration to Appropriation" offset by $97.3 million in stabilization money. The post uses the auditor general's account of the final payment ($47 million, later paid), which is the cut districts actually saw at year's end. Reconcile the two before posting.
 - All dollars are nominal.
 
 ---
@@ -114,6 +129,15 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 3 (3 Nov, RJ: "the idea is good but presentation is still overly complex"):**
+- Short paragraphs, one point each, in the order a reader needs them: the test (where would the child be?), the 2008 answer, the 2023 answer, how much money, where it comes from, what happens when it runs short, the two sides, the open question.
+- Headline shortened to the question; the summary line gives the answer.
+- The cost logic is now three short paragraphs instead of one.
+- Back in the text, at RJ's prompting in the thread: vouchers come from the same state money as public schools, are paid in full, and districts take the hit when it runs short, with 2024-25 as the example ($400 million over budget, $47 million cut from districts' last payment, paid in November 2025).
+- Cut: the $3,750 vs $6,106 comparison, the 90 percent assumption, the $13.6 and $15.6 billion totals (still on the image), and the $12.4 billion left for public schools. All remain in the notes or the fact-check table.
+- About 520 words.
+
 
 **Draft 2 follow-up (3 Nov, RJ: is it the same fund, or only the same formula?):**
 - Same fund. Family Empowerment is paid from the state's appropriation for the school funding formula, the same appropriation that pays districts. Voucher students are counted in the formula, and their cost is deducted from the state's share. When that appropriation ran short in 2024-25, districts' payments were reduced and scholarships were not (notes). The sentence now says "the same state appropriation" and explains it in one line. Local property taxes are not used for vouchers.
