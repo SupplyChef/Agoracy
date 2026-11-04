@@ -25,11 +25,13 @@ OPPAGA, the Legislature's research office, studied the Tax Credit Scholarship in
 
 The 2023 law let children already in private school take vouchers. That fall, 69 percent of new voucher students had been in private school and 13 percent had come from public schools, according to Step Up For Students, the nonprofit that runs most of the programs. The rest were starting kindergarten.
 
-Spending on vouchers rose from $2 billion in 2022-23 to $4 billion in 2024-25, according to the state's auditor general. In 2024-25, $0.8 billion came from corporate donations that the state credits against taxes. The other $3.2 billion came from the state money lawmakers set each year for schools. Vouchers are paid from that money in full, and school districts share what remains.
+Spending on vouchers rose from $2 billion in 2022-23 to $4 billion in 2024-25, according to the state's auditor general. In 2024-25, $0.8 billion came from corporate donations that the state credits against taxes. The other $3.2 billion came from the state money lawmakers set each year for public schools.
 
-Over the same two years, lawmakers added $2 billion to the state's school money. Vouchers took $1.9 billion of it, according to the Department of Education. Part of that paid for children who had left public schools, whom the state would have paid for anyway. No state record says how many. The figures are not adjusted for inflation.
+That money is set before the school year starts. A panel of state economists, the Education Estimating Conference, forecasts how many students will attend public schools and how many will use these vouchers. Lawmakers use the forecast and the state's funding formula to set one amount for both. During the year, the state counts the students again. If fewer students show up than forecast, the unspent money goes back to the state treasury. If more show up, state law pays the vouchers in full and reduces what districts receive. A reserve of at least $250 million is meant to soften those cuts.
 
-In 2024-25, vouchers cost about $400 million more than the state had budgeted, the auditor general reported. State law does not allow the scholarships to be reduced when money runs short. The state cut districts' last payment of the year by $47 million instead, and paid that money in November 2025, after the school year had ended.
+From 2022-23 to 2024-25, lawmakers added $2 billion to the state's school money. Vouchers took $1.9 billion of it, according to the Department of Education. Part of that paid for children who had left public schools, whom the state would have paid for anyway. No state record says how many, so no one can say how much of the increase was new cost. The figures are not adjusted for inflation.
+
+In 2024-25, the forecast was too low. Vouchers cost about $400 million more than the state had budgeted, the auditor general reported. The state cut districts' last payment of the year by $47 million and paid that money in November 2025, after the school year had ended.
 
 Supporters and critics read the cost differently. Step Up says that "every study shows the scholarships save state tax money." The studies it cites were done before 2023, when most scholarship students came from public schools. Sadaf Knight, chief executive of the Florida Policy Institute, a research group that opposed the 2023 law, said in 2025 that the cost of vouchers continues "to balloon to the detriment of public schools."
 
@@ -49,7 +51,8 @@ Sources for this post:
 4. State money for schools and the voucher share: Florida Department of Education, FEFP Final Calculations, 2022-23 (https://www.fldoe.org/file/7507/22-23FEFPFinalCalc.pdf) and 2024-25 (https://cdn.fldoe.org/file/7507/2425FEFPFinal.pdf).
 5. Step Up's statement: Step Up For Students, "Tax Credit Scholarship Financial Costs" (undated fact sheet). https://www.stepupforstudents.org/wp-content/uploads/23.1-FTC-Cost-Savings.pdf
 6. Vouchers paid in full when money runs short: Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, p. 21. https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF
-7. Sadaf Knight's statement: Florida Policy Institute press release, Jan. 14, 2025. https://www.floridapolicy.org/posts/growth-rate-of-floridas-private-school-vouchers-cause-for-alarm-groups-say
+7. How the forecast and the school funding are set, cuts when money runs short, and the reserve: Section 1011.62(15) and (19), Florida Statutes (https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099%2F1011%2FSections%2F1011.62.html); Education Estimating Conference, PreK-12 enrollment conference reports (https://edr.state.fl.us/Content/conferences/publicschools/prek-12_conferencereport.pdf). Unspent money returns to the treasury: Section 216.301(1), Florida Statutes (https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0216/Sections/0216.301.html).
+8. Sadaf Knight's statement: Florida Policy Institute press release, Jan. 14, 2025. https://www.floridapolicy.org/posts/growth-rate-of-floridas-private-school-vouchers-cause-for-alarm-groups-say
 
 ---
 
@@ -79,11 +82,18 @@ Sources for this post:
 | 2024-25: about $400M over budget | Auditor General p. 10: budgeted $2,790,276,311; spent $3,188,043,518; difference $397,767,207 |
 | Last payment cut by $47M; paid in November 2025 | Auditor General p. 16: "the 24th and final FEFP payment to school districts was reduced by $47 million"; Exhibit B: $47,099,007. Note 26: the department "released $47,117,395 to school districts and special districts on November 6, 2025" to meet "outstanding obligations at the end of the 2024-25 school year for the FEFP." Tampa Bay Times, Nov. 6, 2025: the release was to make districts "whole." See caveat on the Final Calculation's $250.1M proration |
 | The state has not made a new estimate since vouchers opened to every child | Same check as the last row: no state record estimates the share for current scholarship students; Step Up's fall 2023 split covers new students only |
+| Forecast by the Education Estimating Conference of public school and voucher students; lawmakers set one amount using the formula | EEC conference reports forecast district FTE and FES FTE (e.g., Apr. 14, 2023, p. 5; Aug. 11, 2026, p. 5). The FEFP appropriation covers both: FES students are counted in FEFP FTE and deducted from the state share (Final Calculations; s. 1011.62(1)(a)2: final surveys include "the unduplicated count of both school district full-time equivalent students" and FES students) |
+| The state counts the students again during the year | Final Calculations recalculate the FEFP from actual surveys; s. 1011.62(15)(a) |
+| Unspent money goes back to the state treasury | s. 216.301(1)(a): "Any appropriation not identified as an incurred obligation effective June 30th shall revert" to the fund from which it was appropriated. Not confirmed with an actual reversion amount for any year; see caveats |
+| More students than forecast: vouchers paid in full, districts reduced | s. 1011.62(15)(a): if state FEFP funds "are not sufficient to pay the state requirement in full," funds are prorated among districts. CS/SB 318 analysis, p. 21: "only school district FEFP funding is prorated, FES scholarship awards are not impacted" |
+| Reserve of at least $250 million meant to soften cuts | s. 1011.62(19), Educational Enrollment Stabilization Program: supplemental funds "as needed, when the Florida Education Finance Program is recalculated"; "the Legislature shall maintain a projected minimum balance of $250 million at the beginning of the upcoming fiscal year." Triggers include FES FTE above the appropriated number |
+| "No one can say how much of the increase was new cost" | Follows from the row above it: no record splits scholarship students by prior school |
 | Step Up quote; its studies predate 2023 | Step Up fact sheet: "Every study shows the scholarships save state tax money"; cited studies run 2002 to 2019 |
 | Knight quote; FPI opposed the 2023 law | FPI release, Jan. 14, 2025: "the cost of private school vouchers continue to balloon to the detriment of public schools" (post quotes "to balloon to the detriment of public schools"). News Service of Florida, Sept. 15, 2023: FPI "strongly opposed" the expansion |
 | The state has not estimated that share since 2023 | Checked: Auditor General 2026-046; CS/SB 318 analysis (Dec. 2025); Education Estimating Conference (Aug. 2026); OPPAGA search. None estimates the share of current scholarship students who would otherwise be in public school |
 
 **Caveats:**
+- Where unspent school money goes: the post relies on the general reversion rule (s. 216.301). The 2023-24 forecast was about 3 percent high, but no record found shows a reversion amount for that or any year. Unused stabilization money may be carried forward up to 10 years (s. 1011.62(19)(g)).
 - The 2024-25 cut: the Final Calculation shows a $250.1 million "Proration to Appropriation" offset by $97.3 million in stabilization money. The post uses the auditor general's account of the final payment ($47 million, later paid), which is the cut districts actually saw at year's end. Reconcile the two before posting.
 - All dollars are nominal.
 
@@ -121,6 +131,12 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 4, appropriation process added (4 Nov, RJ: make the appropriation process clearer):**
+- New paragraph on how the money is set: the Education Estimating Conference forecasts public school and voucher students; lawmakers set one amount using the formula; the count is redone during the year; if fewer students come, the unspent money reverts; if more, vouchers are paid in full and districts are cut; a $250 million reserve is meant to soften cuts.
+- The two-year growth paragraph now says plainly that no one can say how much of the $2 billion increase was new cost, which is the honest answer to whether the total is "much higher."
+- The 2024-25 paragraph now opens "In 2024-25, the forecast was too low," tying it to the process paragraph.
+
 
 **Draft 4 tightened (4 Nov, RJ: paragraphs 2 and 3 repeated the intro):**
 - Merged the method and estimate paragraphs into one and cut the method, which the summary now explains.
