@@ -35,7 +35,7 @@ In 2019, Florida created the Family Empowerment Scholarship, which is paid from 
 
 In 2020 and 2022, the U.S. Supreme Court ruled on clauses like Florida's. In 2020, it held that Montana's courts could not use that state's no-aid clause to shut religious schools out of a tax credit scholarship program. In 2022, it struck down a Maine rule that kept tuition aid from religious schools. Chief Justice John G. Roberts Jr. wrote for the majority: "A State need not subsidize private education. But once a State decides to do so, it cannot disqualify some private schools solely because they are religious." In dissent, Justice Sonia Sotomayor wrote that the court "continues to dismantle the wall of separation between church and state that the Framers fought to build."
 
-Through all of this, the share of Tax Credit students at religious schools barely moved. It was 83 percent in 2009-10, 82 percent in 2015-16 and 81 percent in 2022-23, according to the Department of Education.
+Through all of this, the share of Tax Credit students at religious schools barely moved. It was 83 percent in 2009-10, 82 percent in 2015-16 and 81 percent in 2022-23, according to the Department of Education. These figures cover Tax Credit students, nearly all of whom attended private schools until 2023. They do not include disability scholarships or home schooling.
 
 The department has not published these counts since 2022-23. Step Up For Students, the nonprofit that runs most of Florida's scholarships, says on its website that 82 percent of its students on the general scholarships attend a religious school. Nationally, 76 percent of all private school students, with or without a voucher, attend religious schools, according to 2023-24 federal data. No public record gives that share for Florida, so it is not possible to say whether scholarship students are more likely than other private school students to attend a religious school.
 
@@ -85,6 +85,7 @@ Sources for this post:
 | 2020: Montana's courts could not use the no-aid clause to shut religious schools out of a tax credit scholarship program | Espinoza (June 30, 2020, 5-4, Roberts, C.J.), syllabus: the Montana Supreme Court struck down the program under the no-aid provision; held "The application of the no-aid provision discriminated against religious schools and the families whose children attend or hope to attend them in violation of the Free Exercise Clause of the Federal Constitution" |
 | 2022: struck down Maine's rule keeping tuition aid from religious schools; Roberts and Sotomayor quotes | Carson v. Makin (June 21, 2022, 6-3), majority (Roberts, C.J.), slip op. p. 15: "A State need not subsidize private education. But once a State decides to do so, it cannot disqualify some private schools solely because they are religious." (The line first appeared in Espinoza.) Sotomayor, J., dissenting, p. 1: "This Court continues to dismantle the wall of separation between church and state that the Framers fought to build." Verbatim |
 | 83% (2009-10), 82% (2015-16), 81% (2022-23) | DOE quarterly reports: June 2010: 24,134 of 28,927 (83.4%); June 2016: 65,811 of 80,473 (81.8%); June 2023: 82,291 of 101,242 (81.3%). Student totals are duplicated counts (students at two schools counted in both) |
+| The figures cover Tax Credit students, nearly all in private schools until 2023; exclude disability scholarships and home schooling | DOE quarterly reports count Tax Credit students by school. Home-schooling accounts were created by HB 1 (2023); disability scholarships are a separate program (FES-UA) |
 | The department has not published these counts since 2022-23 | DOE FTC quarterly reports page lists reports through June 2023 only (checked 26 Oct 2026). DOE annual private school reports have no religious breakdown (2012-13 and 2024-25 checked) |
 | Step Up: 82 percent of its general-scholarship students at religious schools | Step Up research page (undated): "61 percent of private schools identified as religious, though 82 percent of all students attend a religious school." The page is about its income-based (now general) scholarships. Administrator's own figure; schools self-report |
 | Nationally 76 percent of all private school students, with or without a voucher (2023-24) | NCES PSS 2023-24, Table C-2: 3,863,203 of 5,096,365 students (75.8%) in schools with a religious orientation |
@@ -118,6 +119,10 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 3 clarification (4 Nov, RJ asked whether 80 percent meant all voucher recipients):**
+- Added after the 83/82/81 percent series: the figures cover Tax Credit students, nearly all in private schools until 2023, and exclude disability scholarships and home schooling. Source: DOE quarterly reports (Tax Credit only); CS/SB 318 analysis, p. 3, for the program split. Step Up's 2022 analysis puts disability scholarship students at private schools at about 59 percent religious (notes).
+
 
 **Draft 3 (3 Nov, editor's review before post 5):**
 - Chronology: the 2012 ballot measure now comes before the 2014 lawsuit, so the story runs 2004, 2006, 2012, 2014-17, 2019, 2020-22. The Tax Credit paragraph now opens "The Tax Credit Scholarship was not part of that case, and it works differently," since it no longer follows the court paragraph directly. "Lawmakers also tried" became "Lawmakers then tried." Fact-check rows reordered to match.
