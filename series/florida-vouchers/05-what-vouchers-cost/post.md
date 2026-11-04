@@ -21,11 +21,9 @@ Do Florida's Vouchers Save Money?
 
 In 2008, the Legislature's auditors found that a Florida voucher program saved the state money. Most of its students came from public schools, and the voucher cost the state less than it had been paying for each of them there. In 2023, the first year vouchers were open to every child, most new students came from private schools, so the state was paying for children it had not paid for before.
 
-In 2008, OPPAGA, the Legislature's research office, studied the cost of the Tax Credit Scholarship. Its method was simple. The state already paid for every public school student. When one of them left with a scholarship, the state paid for the scholarship instead, which cost less. When a child already in private school received one, the state paid for a child it had not paid for before.
+OPPAGA, the Legislature's research office, studied the Tax Credit Scholarship in 2008. At the time, most new scholarship students had to come from public schools. OPPAGA estimated that the program saved the state $38.9 million in 2007-08, and that the savings would disappear if fewer than 60 percent of the students would otherwise have been in public school.
 
-At the time, most new scholarship students had to come from public schools. OPPAGA estimated that the program saved the state $38.9 million in 2007-08. It said the savings would disappear if fewer than 60 percent of the students would otherwise have been in public school.
-
-In 2023, the Legislature opened vouchers to every child, including children already in private school. That fall, 69 percent of new voucher students had been in private school and 13 percent had come from public schools, according to Step Up For Students, the nonprofit that runs most of the programs. The rest were starting kindergarten.
+The 2023 law let children already in private school take vouchers. That fall, 69 percent of new voucher students had been in private school and 13 percent had come from public schools, according to Step Up For Students, the nonprofit that runs most of the programs. The rest were starting kindergarten.
 
 Spending on vouchers rose from $2 billion in 2022-23 to $4 billion in 2024-25, according to the state's auditor general. In 2024-25, $0.8 billion came from corporate donations that the state credits against taxes. The other $3.2 billion came from the state money lawmakers set each year for schools. Vouchers are paid from that money in full, and school districts share what remains.
 
@@ -35,7 +33,7 @@ In 2024-25, vouchers cost about $400 million more than the state had budgeted, t
 
 Supporters and critics read the cost differently. Step Up says that "every study shows the scholarships save state tax money." The studies it cites were done before 2023, when most scholarship students came from public schools. Sadaf Knight, chief executive of the Florida Policy Institute, a research group that opposed the 2023 law, said in 2025 that the cost of vouchers continues "to balloon to the detriment of public schools."
 
-OPPAGA could estimate the savings in 2008 because the rules required most students to come from public schools. The state has not made a new estimate since vouchers opened to every child. The next post looks at what the change means for public schools' money per student.
+The state has not estimated the savings or the cost since vouchers opened to every child. The next post looks at what the change means for public schools' money per student.
 
 Sources are in the first comment.
 
@@ -123,6 +121,12 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 4 tightened (4 Nov, RJ: paragraphs 2 and 3 repeated the intro):**
+- Merged the method and estimate paragraphs into one and cut the method, which the summary now explains.
+- The 2023 paragraph no longer repeats that vouchers opened to every child; it adds only that children already in private school became eligible.
+- Closing no longer repeats why OPPAGA could estimate the savings; it says only that the state has not made a new estimate.
+
 
 **Draft 4 follow-up (4 Nov, RJ: the summary left the reason to be inferred):**
 - The summary now says why the 2008 program saved money (the voucher cost less than the state had been paying for each student in public school) and why the 2023 change matters (the state was paying for children it had not paid for before).
