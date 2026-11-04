@@ -29,7 +29,7 @@ Spending on vouchers rose from $2 billion in 2022-23 to $4 billion in 2024-25, a
 
 That money is set before the school year starts. A panel of state economists, the Education Estimating Conference, forecasts how many students will attend public schools and how many will use these vouchers. Lawmakers use the forecast and the state's funding formula to set one amount for both. During the year, the state counts the students again. If fewer students show up than forecast, the unspent money goes back to the state treasury. If more show up, state law pays the vouchers in full and reduces what districts receive. A reserve of at least $250 million is meant to soften those cuts.
 
-From 2022-23 to 2024-25, lawmakers added $2 billion to the state's school money. Vouchers took $1.9 billion of it, according to the Department of Education. Part of that paid for children who had left public schools, whom the state would have paid for anyway. No state record says how many, so no one can say how much of the increase was new cost. The figures are not adjusted for inflation.
+From 2022-23 to 2024-25, lawmakers added $2 billion to the state's school money. Vouchers took $1.9 billion of it, according to the Department of Education. Part of that paid for children who had left public schools, whom the state would have paid for anyway. The 13 percent figure covers only students who were new in the fall of 2023. No record says where the rest of the 497,284 voucher students in 2024-25 came from, so no one can say how much of the increase was new cost. The figures are not adjusted for inflation.
 
 In 2024-25, the forecast was too low. Vouchers cost about $400 million more than the state had budgeted, the auditor general reported. The state cut districts' last payment of the year by $47 million and paid that money in November 2025, after the school year had ended.
 
@@ -87,7 +87,7 @@ Sources for this post:
 | Unspent money goes back to the state treasury | s. 216.301(1)(a): "Any appropriation not identified as an incurred obligation effective June 30th shall revert" to the fund from which it was appropriated. Not confirmed with an actual reversion amount for any year; see caveats |
 | More students than forecast: vouchers paid in full, districts reduced | s. 1011.62(15)(a): if state FEFP funds "are not sufficient to pay the state requirement in full," funds are prorated among districts. CS/SB 318 analysis, p. 21: "only school district FEFP funding is prorated, FES scholarship awards are not impacted" |
 | Reserve of at least $250 million meant to soften cuts | s. 1011.62(19), Educational Enrollment Stabilization Program: supplemental funds "as needed, when the Florida Education Finance Program is recalculated"; "the Legislature shall maintain a projected minimum balance of $250 million at the beginning of the upcoming fiscal year." Triggers include FES FTE above the appropriated number |
-| "No one can say how much of the increase was new cost" | Follows from the row above it: no record splits scholarship students by prior school |
+| The 13 percent covers only new students in fall 2023; no record for the rest of the 497,284 students in 2024-25 | Step Up's split covers the 122,895 students new as of Sept. 8, 2023. 497,284 scholarship students in 2024-25 (Auditor General Tables 2-4). No state record splits all scholarship students by prior school (post 2). Students from before 2023 mostly came from public schools under the old rules, but how many remain is not published |
 | Step Up quote; its studies predate 2023 | Step Up fact sheet: "Every study shows the scholarships save state tax money"; cited studies run 2002 to 2019 |
 | Knight quote; FPI opposed the 2023 law | FPI release, Jan. 14, 2025: "the cost of private school vouchers continue to balloon to the detriment of public schools" (post quotes "to balloon to the detriment of public schools"). News Service of Florida, Sept. 15, 2023: FPI "strongly opposed" the expansion |
 | The state has not estimated that share since 2023 | Checked: Auditor General 2026-046; CS/SB 318 analysis (Dec. 2025); Education Estimating Conference (Aug. 2026); OPPAGA search. None estimates the share of current scholarship students who would otherwise be in public school |
@@ -131,6 +131,10 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 4 fix (4 Nov, RJ: doesn't the 13 percent answer "how many"?):**
+- It answers it only for students new in fall 2023. The sentence now says so and that no record covers the rest of the 497,284 voucher students in 2024-25.
+
 
 **Draft 4, appropriation process added (4 Nov, RJ: make the appropriation process clearer):**
 - New paragraph on how the money is set: the Education Estimating Conference forecasts public school and voucher students; lawmakers set one amount using the formula; the count is redone during the year; if fewer students come, the unspent money reverts; if more, vouchers are paid in full and districts are cut; a $250 million reserve is meant to soften cuts.
