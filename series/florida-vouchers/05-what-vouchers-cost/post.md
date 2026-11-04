@@ -135,7 +135,7 @@ Sources for this post:
 - The growth paragraph now says it outright: public schools still received about $2 billion more in all, nearly all from local property taxes.
 - Cut: the reserve ($250 million), the 497,284 total, the repeat of the 13 percent, the $0.8 billion figure (now "the rest"), and the name of the forecasting panel (kept in the fact-check table). The process paragraph is three sentences.
 - The growth paragraph now comes before the 2024-25 shortfall, keeping date order.
-- About 520 words.
+- About 560 words.
 
 
 **Draft 4 fixes (4 Nov, RJ: aren't the rest from the year before? and isn't there a formula?):**
