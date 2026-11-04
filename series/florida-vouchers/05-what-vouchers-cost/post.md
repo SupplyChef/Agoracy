@@ -19,7 +19,7 @@ Florida vouchers, 5 of 12
 
 Do Florida's Vouchers Save Money?
 
-In 2008, the Legislature's auditors found that a Florida voucher program saved the state money because most of its students came from public schools. In 2023, the first year vouchers were open to every child, most new students came from private schools.
+In 2008, the Legislature's auditors found that a Florida voucher program saved the state money. Most of its students came from public schools, and the voucher cost the state less than it had been paying for each of them there. In 2023, the first year vouchers were open to every child, most new students came from private schools, so the state was paying for children it had not paid for before.
 
 In 2008, OPPAGA, the Legislature's research office, studied the cost of the Tax Credit Scholarship. Its method was simple. The state already paid for every public school student. When one of them left with a scholarship, the state paid for the scholarship instead, which cost less. When a child already in private school received one, the state paid for a child it had not paid for before.
 
@@ -33,7 +33,7 @@ Over the same two years, lawmakers added $2 billion to the state's school money.
 
 In 2024-25, vouchers cost about $400 million more than the state had budgeted, the auditor general reported. State law does not allow the scholarships to be reduced when money runs short. The state cut districts' last payment of the year by $47 million instead, and paid that money in November 2025, after the school year had ended.
 
-Supporters and critics read the cost differently. Step Up says that "every study shows the scholarships save state tax money." The studies it cites were done before 2023. Sadaf Knight, chief executive of the Florida Policy Institute, a research group that opposed the 2023 law, said in 2025 that the cost of vouchers continues "to balloon to the detriment of public schools."
+Supporters and critics read the cost differently. Step Up says that "every study shows the scholarships save state tax money." The studies it cites were done before 2023, when most scholarship students came from public schools. Sadaf Knight, chief executive of the Florida Policy Institute, a research group that opposed the 2023 law, said in 2025 that the cost of vouchers continues "to balloon to the detriment of public schools."
 
 OPPAGA could estimate the savings in 2008 because the rules required most students to come from public schools. The state has not made a new estimate since vouchers opened to every child. The next post looks at what the change means for public schools' money per student.
 
@@ -123,6 +123,11 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 4 follow-up (4 Nov, RJ: the summary left the reason to be inferred):**
+- The summary now says why the 2008 program saved money (the voucher cost less than the state had been paying for each student in public school) and why the 2023 change matters (the state was paying for children it had not paid for before).
+- Same fix in the two-sides paragraph: the studies Step Up cites were done "before 2023, when most scholarship students came from public schools," so the reader doesn't have to infer why their date matters.
+
 
 **Draft 4 (4 Nov, RJ: the setup lines are catchy and read like AI):**
 - Cut the setup-and-reveal lines ("It depends on one thing...", "Here is why.", "That is a new cost.", "districts take the hit", "the answer was clear"). The summary is back to two plain factual sentences.
