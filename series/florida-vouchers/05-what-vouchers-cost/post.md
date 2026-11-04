@@ -29,13 +29,13 @@ Spending on vouchers rose from $2 billion in 2022-23 to $4 billion in 2024-25, a
 
 That money is set before the school year starts. A panel of state economists, the Education Estimating Conference, forecasts how many students will attend public schools and how many will use these vouchers. Lawmakers use the forecast and the state's funding formula to set one amount for both. During the year, the state counts the students again. If fewer students show up than forecast, the unspent money goes back to the state treasury. If more show up, state law pays the vouchers in full and reduces what districts receive. A reserve of at least $250 million is meant to soften those cuts.
 
-From 2022-23 to 2024-25, lawmakers added $2 billion to the state's school money. Vouchers took $1.9 billion of it, according to the Department of Education. Part of that paid for children who had left public schools, whom the state would have paid for anyway. The 13 percent figure covers only students who were new in the fall of 2023. No record says where the rest of the 497,284 voucher students in 2024-25 came from, so no one can say how much of the increase was new cost. The figures are not adjusted for inflation.
+From 2022-23 to 2024-25, lawmakers added $2 billion to the state's school money. Vouchers took $1.9 billion of it, according to the Department of Education. Over the same years, local property taxes for public schools also rose about $2 billion. Part of the voucher money paid for children who had left public schools, whom the state would have paid for anyway. Step Up's count of where students came from covers only those who were new in the fall of 2023. No such count has been published for students who joined in 2024-25, so no one can say how much of the increase was new cost. The figures are not adjusted for inflation.
 
 In 2024-25, the forecast was too low. Vouchers cost about $400 million more than the state had budgeted, the auditor general reported. The state cut districts' last payment of the year by $47 million and paid that money in November 2025, after the school year had ended.
 
 Supporters and critics read the cost differently. Step Up says that "every study shows the scholarships save state tax money." The studies it cites were done before 2023, when most scholarship students came from public schools. Sadaf Knight, chief executive of the Florida Policy Institute, a research group that opposed the 2023 law, said in 2025 that the cost of vouchers continues "to balloon to the detriment of public schools."
 
-The state has not estimated the savings or the cost since vouchers opened to every child. The next post looks at what the change means for public schools' money per student.
+The state has not estimated the savings or the cost since vouchers opened to every child. The next post looks at how the formula splits public school costs between state and local money, and what that means per student.
 
 Sources are in the first comment.
 
@@ -87,7 +87,8 @@ Sources for this post:
 | Unspent money goes back to the state treasury | s. 216.301(1)(a): "Any appropriation not identified as an incurred obligation effective June 30th shall revert" to the fund from which it was appropriated. Not confirmed with an actual reversion amount for any year; see caveats |
 | More students than forecast: vouchers paid in full, districts reduced | s. 1011.62(15)(a): if state FEFP funds "are not sufficient to pay the state requirement in full," funds are prorated among districts. CS/SB 318 analysis, p. 21: "only school district FEFP funding is prorated, FES scholarship awards are not impacted" |
 | Reserve of at least $250 million meant to soften cuts | s. 1011.62(19), Educational Enrollment Stabilization Program: supplemental funds "as needed, when the Florida Education Finance Program is recalculated"; "the Legislature shall maintain a projected minimum balance of $250 million at the beginning of the upcoming fiscal year." Triggers include FES FTE above the appropriated number |
-| The 13 percent covers only new students in fall 2023; no record for the rest of the 497,284 students in 2024-25 | Step Up's split covers the 122,895 students new as of Sept. 8, 2023. 497,284 scholarship students in 2024-25 (Auditor General Tables 2-4). No state record splits all scholarship students by prior school (post 2). Students from before 2023 mostly came from public schools under the old rules, but how many remain is not published |
+| Local property taxes for public schools also rose about $2 billion (2022-23 to 2024-25) | Final Calculations, Total Local Funding: $10,960,691,462 and $12,986,422,967; +$2,025,731,505 |
+| Step Up's count covers only fall 2023 newcomers; none published for 2024-25 joiners | Step Up's split covers the 122,895 students new as of Sept. 8, 2023. 497,284 scholarship students in 2024-25 (Auditor General Tables 2-4). No state record splits all scholarship students by prior school (post 2). Students from before 2023 mostly came from public schools under the old rules, but how many remain is not published |
 | Step Up quote; its studies predate 2023 | Step Up fact sheet: "Every study shows the scholarships save state tax money"; cited studies run 2002 to 2019 |
 | Knight quote; FPI opposed the 2023 law | FPI release, Jan. 14, 2025: "the cost of private school vouchers continue to balloon to the detriment of public schools" (post quotes "to balloon to the detriment of public schools"). News Service of Florida, Sept. 15, 2023: FPI "strongly opposed" the expansion |
 | The state has not estimated that share since 2023 | Checked: Auditor General 2026-046; CS/SB 318 analysis (Dec. 2025); Education Estimating Conference (Aug. 2026); OPPAGA search. None estimates the share of current scholarship students who would otherwise be in public school |
@@ -131,6 +132,11 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 4 fixes (4 Nov, RJ: aren't the rest from the year before? and isn't there a formula?):**
+- Most of the 497,284 were enrolled the year before, but that doesn't settle the question: about 99,000 more students than in 2023-24 (398,185) joined in 2024-25, and no one has published where they came from. The sentence now says the count covers only fall 2023 newcomers and that none exists for 2024-25 joiners.
+- Added that local property taxes for public schools also rose about $2 billion over the same two years. Without it, "vouchers took $1.9 billion of the $2 billion increase" implied public schools got nothing more. The formula sets a total per student, and when local property tax revenue rises, the state's share falls; that split is post 6's subject, and the closing now says so.
+
 
 **Draft 4 fix (4 Nov, RJ: doesn't the 13 percent answer "how many"?):**
 - It answers it only for students new in fall 2023. The sentence now says so and that no record covers the rest of the 497,284 voucher students in 2024-25.
