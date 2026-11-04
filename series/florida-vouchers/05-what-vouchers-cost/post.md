@@ -47,8 +47,8 @@ Sources for this post:
 
 1. The 2007-08 savings estimate, the 90 percent assumption, the 60 percent break-even, the maximum scholarship and per-student formula funding: OPPAGA Report 08-68, "The Corporate Income Tax Credit Scholarship Program Saves State Dollars," December 2008, pp. 3-4, 11-12. https://oppaga.fl.gov/Documents/Reports/08-68.pdf
 2. Where new voucher students came from, fall 2023: News Service of Florida, Sept. 15, 2023, reporting Step Up For Students data as of Sept. 8, 2023. https://jaxtoday.org/2023/09/15/over-100000-new-students-got-florida-school-vouchers/
-3. Voucher spending by program, 2022-23 and 2024-25; the 2024-25 budget overrun, the cut to districts' last payment and the November 2025 payment: Florida Auditor General Report 2026-046, November 2025, Tables 2-4, pp. 5-6, 10, 16-17 and note 26. https://flauditor.gov/pages/pdf_files/2026-046.pdf
-4. State money for schools and the voucher share: Florida Department of Education, FEFP Final Calculations, 2022-23 (https://www.fldoe.org/file/7507/22-23FEFPFinalCalc.pdf) and 2024-25 (https://cdn.fldoe.org/file/7507/2425FEFPFinal.pdf).
+3. Voucher spending by program (Tax Credit figures also used in the image), 2022-23 and 2024-25; the 2024-25 budget overrun, the cut to districts' last payment and the November 2025 payment: Florida Auditor General Report 2026-046, November 2025, Tables 2-4, pp. 5-6, 10, 16-17 and note 26. https://flauditor.gov/pages/pdf_files/2026-046.pdf
+4. State and local money for schools and the voucher share (and the image): Florida Department of Education, FEFP Final Calculations, 2022-23 (https://www.fldoe.org/file/7507/22-23FEFPFinalCalc.pdf) and 2024-25 (https://cdn.fldoe.org/file/7507/2425FEFPFinal.pdf).
 5. Step Up's statement: Step Up For Students, "Tax Credit Scholarship Financial Costs" (undated fact sheet). https://www.stepupforstudents.org/wp-content/uploads/23.1-FTC-Cost-Savings.pdf
 6. Vouchers paid in full when money runs short: Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, p. 21. https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF
 7. How the forecast and the school funding are set, cuts when money runs short, and the reserve: Section 1011.62(15) and (19), Florida Statutes (https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099%2F1011%2FSections%2F1011.62.html); Education Estimating Conference, PreK-12 enrollment conference reports (https://edr.state.fl.us/Content/conferences/publicschools/prek-12_conferencereport.pdf). Unspent money returns to the treasury: Section 216.301(1), Florida Statutes (https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0216/Sections/0216.301.html).
@@ -137,6 +137,10 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Image redrawn (4 Nov, RJ: add local taxes and tax credits):**
+- Four layers for 2022-23 and 2024-25: public schools' local property taxes ($11.0B to $13.0B) and state money ($12.3B to $12.4B), vouchers paid with state money ($1.3B to $3.2B) and with tax credits ($0.7B to $0.8B). Totals $25.3B and $29.4B. Sources: FEFP Final Calculations (Total Local Funding, Total State Funding, FES adjustment) and Auditor General Table 4 ($697.7M; $804.5M). New title: "Where Florida's new school money went." Federal and building money excluded, as noted on the image.
+
 
 **Draft 5 edits (4 Nov, RJ):**
 - Restored the 69 and 13 percent sentence and added our labeled estimate right after it (47 to 61 percent in 2024-25), with the 60 percent paragraph folded in.
