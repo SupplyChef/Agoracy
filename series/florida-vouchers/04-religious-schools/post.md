@@ -19,29 +19,29 @@ Florida vouchers, 4 of 12
 
 Religious Schools and Florida's Vouchers
 
-In the state's reports from 2005-06 to 2022-23, about four in five Tax Credit scholarship students attended religious schools. Florida's Constitution bars aid to religious institutions, but federal rulings have since limited what that clause can do.
+From 2005-06 to 2022-23, about four in five Tax Credit scholarship students attended religious schools, according to state reports. Florida's Constitution bars aid to religious institutions, but federal court rulings now limit what that clause can do.
 
-In the 2005-06 school year, 14,061 children used a Tax Credit scholarship. Of those, 81 percent attended a religious school, according to the Florida Department of Education.
+In 2005-06, 14,061 children used a Tax Credit scholarship. Of those, 81 percent attended a religious school, according to the Florida Department of Education.
 
-Florida's Constitution has a clause on public money and religion. Article I, section 3 says no state revenue "shall ever be taken from the public treasury directly or indirectly in aid of any church, sect, or religious denomination or in aid of any sectarian institution." Florida first adopted the clause in 1885 and kept it when it rewrote the Constitution in 1968, according to a 2006 Florida Senate staff report.
+Florida's Constitution says no state money "shall ever be taken from the public treasury directly or indirectly in aid of any church, sect, or religious denomination or in aid of any sectarian institution." The clause dates from 1885, according to a 2006 Florida Senate staff report.
 
-In 2004, a state appeals court applied the clause to the voucher for failing schools. The First District Court of Appeal, with all its judges sitting, ruled that the program violated it because state money reached religious schools. When the Florida Supreme Court struck down the program in 2006, it did so on other grounds, as the first post in this series described, and declined to rule on the religion question.
+In 2004, a state appeals court ruled that the voucher for failing schools broke this clause, because state money reached religious schools. In 2006, the Florida Supreme Court struck down that voucher on other grounds, as the first post described, and did not rule on the religion question.
 
-Lawmakers then tried to change the clause. In 2012, the Legislature asked voters to remove it and to bar the state from denying benefits "on the basis of religious identity or belief." The amendment needed 60 percent of the vote. It got 44.5 percent, according to the Florida Division of Elections.
+In 2012, the Legislature asked voters to remove the clause. The amendment needed 60 percent of the vote. It got 44.5 percent, according to the Florida Division of Elections.
 
-The Tax Credit Scholarship was not part of that case, and it works differently. Companies give money to nonprofit scholarship organizations and receive a state tax credit, so the money does not pass through the state budget. In 2014, the Florida Education Association, the statewide teachers union, and others sued, arguing in part that the program still diverted public funds to religious schools. In 2016, the First District upheld the dismissal of the case without ruling on that question: the plaintiffs, it held, had not shown that the program harmed them in a way that gave them the right to sue. The Florida Supreme Court declined to hear an appeal in 2017.
+The Tax Credit Scholarship works differently. Companies give money to nonprofit scholarship groups and get a state tax credit in return, so the money never passes through the state budget. In 2014, the statewide teachers union and others sued, arguing that the program still sent public money to religious schools. In 2016, an appeals court upheld the dismissal of the case without ruling on that question. It said the plaintiffs had not shown the program harmed them, so they had no right to sue. In 2017, the Florida Supreme Court declined to hear an appeal.
 
-In 2019, Florida created the Family Empowerment Scholarship, which is paid from the state budget. Its scholarships also pay tuition at religious schools, according to Step Up For Students.
+In 2019, Florida created the Family Empowerment Scholarship, which is paid from the state budget. It also pays tuition at religious schools, according to Step Up For Students, the nonprofit that runs most of Florida's scholarships.
 
-In 2020 and 2022, the U.S. Supreme Court ruled on clauses like Florida's. In 2020, it held that Montana's courts could not use that state's no-aid clause to shut religious schools out of a tax credit scholarship program. In 2022, it struck down a Maine rule that kept tuition aid from religious schools. Chief Justice John G. Roberts Jr. wrote for the majority: "A State need not subsidize private education. But once a State decides to do so, it cannot disqualify some private schools solely because they are religious." In dissent, Justice Sonia Sotomayor wrote that the court "continues to dismantle the wall of separation between church and state that the Framers fought to build."
+Then the U.S. Supreme Court stepped in. In 2020, it ruled that Montana could not use a clause like Florida's to keep religious schools out of a tax credit scholarship. In 2022, it struck down a Maine rule that kept tuition aid from religious schools. Chief Justice John G. Roberts Jr. wrote for the majority: "A State need not subsidize private education. But once a State decides to do so, it cannot disqualify some private schools solely because they are religious." In dissent, Justice Sonia Sotomayor wrote that the court "continues to dismantle the wall of separation between church and state that the Framers fought to build."
 
-Through all of this, about four in five Tax Credit students attended religious schools: 83 percent in 2009-10 and 81 percent in 2022-23, according to the Department of Education. Until 2023, the Tax Credit Scholarship paid only for private school.
+Through all of this, the share stayed about the same: 83 percent of Tax Credit students attended religious schools in 2009-10, and 81 percent in 2022-23, according to the Department of Education. Until 2023, the scholarship paid only for private school.
 
-The department has not published these counts since 2022-23. Step Up For Students, the nonprofit that runs most of Florida's scholarships, says on its website that 82 percent of its students on the general scholarships attend a religious school. Nationally, 76 percent of all private school students, with or without a voucher, attend religious schools, according to 2023-24 federal data. No public record gives that share for Florida, so it is not possible to say whether scholarship students are more likely than other private school students to attend a religious school.
+The state has not published the share since then. Step Up says 82 percent of its students on general scholarships attend religious schools. Nationally, 76 percent of all private school students attend religious schools, according to federal data. No record gives that figure for Florida, so we cannot say whether voucher students are more likely than other private school students to choose a religious school.
 
-Supporters see parents choosing the schools they trust, most of them religious, and a U.S. Constitution that does not let the state exclude them. Critics see public money paying for religious education, which they say Florida's Constitution was written to prevent.
+Supporters see parents choosing schools they trust, and a U.S. Constitution that does not let the state shut religious schools out. Critics see public money paying for religious education, which they say Florida's Constitution was meant to prevent.
 
-In 2005-06, 81 percent of about 14,000 Tax Credit students attended religious schools. In 2022-23, 81 percent of about 100,000 did. Since then, the number of scholarship students of all kinds has nearly doubled, and the state no longer reports the share. The next post asks what the programs cost the state, and where that money comes from.
+In 2005-06, 81 percent of about 14,000 Tax Credit students attended religious schools. In 2022-23, 81 percent of about 100,000 did. Since then, the number of voucher students of all kinds has nearly doubled, and the state no longer reports the share. The next post asks what vouchers cost the state.
 
 Sources are in the first comment.
 
@@ -119,6 +119,14 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 4 (4 Nov, RJ: simpler language and grammar, shorter):**
+- Shorter sentences and plainer words throughout; about 640 words, down from about 770.
+- Cut from the text (all still in the fact-check table): the clause's article number, its retention in 1968, "with all its judges sitting," the 2012 amendment's replacement language, the union's name, and "Lawmakers then tried."
+- The lawsuit's standing ruling is now in plain words: the plaintiffs had not shown the program harmed them, so they had no right to sue.
+- "Then the U.S. Supreme Court stepped in" introduces the federal rulings. The Montana ruling now says the state could not use its clause, a simplification of "Montana's courts could not use"; the Montana Supreme Court had applied it.
+- Closing: "what vouchers cost the state," matching post 5's headline.
+
 
 **Draft 3, lighter (4 Nov, RJ: the share paragraph was too heavy):**
 - Now: "about four in five Tax Credit students attended religious schools: 83 percent in 2009-10 and 81 percent in 2022-23," then one sentence that the program paid only for private school until 2023 (HB 1 added the home-schooling account). The 2015-16 figure stays on the image. The disability and home-schooling caveat is carried by that sentence and the next paragraph's "general scholarships."
