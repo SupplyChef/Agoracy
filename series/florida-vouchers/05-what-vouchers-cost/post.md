@@ -25,17 +25,19 @@ OPPAGA, the Legislature's research office, studied the Tax Credit Scholarship in
 
 The 2023 law let children already in private school take vouchers. That fall, 69 percent of new voucher students had been in private school and 13 percent had come from public schools, according to Step Up For Students, the nonprofit that runs most of the programs. The rest were starting kindergarten.
 
+Those figures describe only the students who were new that fall. OPPAGA's 60 percent test applies to all voucher students. Most students who joined before 2023 had come from public schools, and no one knows where the new kindergartners would have gone. The state has not published where all of today's voucher students came from, so it is not known whether the share is still above 60 percent.
+
 Spending on vouchers doubled, from $2 billion in 2022-23 to $4 billion in 2024-25, according to the state's auditor general. Of the 2024-25 total, $3.2 billion came from the state money lawmakers set each year for public schools. The rest came from corporate donations that the state credits against taxes.
 
 Lawmakers set that money before the school year, using a forecast by state economists of how many students will attend public schools and how many will use vouchers. If fewer students show up, the unspent money goes back to the state treasury. If more show up, state law pays the vouchers in full and cuts what districts receive.
 
-Over those two years, lawmakers added $2 billion to the state's school money, and vouchers took $1.9 billion of it, according to the Department of Education. Public schools still received about $2 billion more in all, nearly all of it from higher local property taxes. Some of the voucher money paid for children who had left public schools, whom the state would have paid for anyway. No count covers all voucher students, so no one can say how much of the voucher spending is new cost. The figures are not adjusted for inflation.
+Over those two years, lawmakers added $2 billion to the state's school money, and vouchers took $1.9 billion of it, according to the Department of Education. Public schools still received about $2 billion more in all, nearly all of it from higher local property taxes. Some of the voucher money paid for children who had left public schools, whom the state would have paid for anyway. The figures are not adjusted for inflation.
 
 In 2024-25, the forecast was too low. Vouchers cost about $400 million more than budgeted, the auditor general reported, and the state cut districts' last payment of the year by $47 million. It paid that money in November 2025, after the school year had ended.
 
 Supporters and critics read the cost differently. Step Up says that "every study shows the scholarships save state tax money." The studies it cites were done before 2023, when most scholarship students came from public schools. Sadaf Knight, chief executive of the Florida Policy Institute, a research group that opposed the 2023 law, said in 2025 that the cost of vouchers continues "to balloon to the detriment of public schools."
 
-The state has not estimated the savings or the cost since vouchers opened to every child. The next post looks at how the formula splits public school costs between state and local money, and what that means per student.
+Until the state publishes where all voucher students came from, no one can say whether vouchers still save it money. The next post looks at how the formula splits public school costs between state and local money, and what that means per student.
 
 Sources are in the first comment.
 
@@ -86,7 +88,7 @@ Sources for this post:
 | Unspent money goes back to the state treasury | s. 216.301(1)(a): "Any appropriation not identified as an incurred obligation effective June 30th shall revert" to the fund from which it was appropriated. Not confirmed with an actual reversion amount for any year; see caveats |
 | More students than forecast: vouchers paid in full, districts reduced | s. 1011.62(15)(a): if state FEFP funds "are not sufficient to pay the state requirement in full," funds are prorated among districts. CS/SB 318 analysis, p. 21: "only school district FEFP funding is prorated, FES scholarship awards are not impacted" |
 | Public schools still received about $2 billion more in all, nearly all from higher local property taxes | Final Calculations. State money left for public schools: $12,281,070,032 to $12,409,891,696 (+$128.8M). Total Local Funding: $10,960,691,462 to $12,986,422,967 (+$2,025.7M). Together +$2,154.6M, 94% of it local. Public enrollment about flat (2,870,527 to 2,859,600, NCES) |
-| No count covers all voucher students | Step Up's split covers the 122,895 students new as of Sept. 8, 2023. 497,284 scholarship students in 2024-25 (Auditor General Tables 2-4). No state record splits all scholarship students by prior school (post 2). Students from before 2023 mostly came from public schools under the old rules, but how many remain is not published |
+| The fall 2023 figures cover only new students; the 60 percent test applies to all; most pre-2023 students came from public schools; no published count for all current students | Step Up's split covers the 122,895 students new as of Sept. 8, 2023. 497,284 scholarship students in 2024-25 (Auditor General Tables 2-4). No state record splits all scholarship students by prior school (post 2). Students from before 2023 mostly came from public schools under the old rules, but how many remain is not published |
 | Step Up quote; its studies predate 2023 | Step Up fact sheet: "Every study shows the scholarships save state tax money"; cited studies run 2002 to 2019 |
 | Knight quote; FPI opposed the 2023 law | FPI release, Jan. 14, 2025: "the cost of private school vouchers continue to balloon to the detriment of public schools" (post quotes "to balloon to the detriment of public schools"). News Service of Florida, Sept. 15, 2023: FPI "strongly opposed" the expansion |
 | The state has not estimated that share since 2023 | Checked: Auditor General 2026-046; CS/SB 318 analysis (Dec. 2025); Education Estimating Conference (Aug. 2026); OPPAGA search. None estimates the share of current scholarship students who would otherwise be in public school |
@@ -130,6 +132,12 @@ Sources for this post:
 ---
 
 ## Editor's notes
+
+**Draft 4 fix (4 Nov, RJ: the 13 percent is for new students, the 60 percent for all of them):**
+- New paragraph after the fall 2023 figures: they cover only new students; OPPAGA's test applies to all voucher students; most students who joined before 2023 came from public schools; nobody knows where the kindergartners would have gone; the state has not published where all current voucher students came from, so it is not known whether the share is above 60 percent.
+- Removed the similar sentence from the growth paragraph so the point is made once, where it belongs.
+- Closing now ties back to it: until the share is known, no one can say whether vouchers still save money.
+
 
 **Draft 4 tightened (4 Nov, RJ: say whether public schools also got an increase; too many numbers):**
 - The growth paragraph now says it outright: public schools still received about $2 billion more in all, nearly all from local property taxes.
