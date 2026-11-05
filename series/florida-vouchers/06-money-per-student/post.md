@@ -1,5 +1,5 @@
 ---
-title: "Florida's Public Schools Lean More on Property Taxes"
+title: "Florida's Public Schools Now Lean on Rising Property Values"
 series: florida-vouchers
 number: 6
 status: draft
@@ -9,7 +9,7 @@ updated: 2026-11-05
 
 # Post 6 of 12: Public schools' money per student, and the property tax backstop
 
-Draft 1, 5 Nov 2026. Plain declarative prose, in date order, in the style RJ settled on for posts 4 and 5. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 2, 5 Nov 2026. Rewritten around the risk at RJ's request. Plain declarative prose, in date order. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -17,27 +17,27 @@ Draft 1, 5 Nov 2026. Plain declarative prose, in date order, in the style RJ set
 
 Florida vouchers, 6 of 12
 
-Florida's Public Schools Lean More on Property Taxes
+Florida's Public Schools Now Lean on Rising Property Values
 
-From 2019-20 to 2024-25, the state money left for Florida's public schools after vouchers barely grew. Local property taxes grew much faster. They now pay more than half of what public schools get from the state's school funding formula.
+Since 2019, vouchers have taken almost all of the new state money for Florida's schools. Public schools held close to even because local property taxes rose with property values. That works only as long as values keep rising and school taxes stay in place.
 
-Florida pays for public schools' day-to-day costs through one formula. The money comes from two places: the state budget and local school property taxes. Each year, the Legislature decides how much property tax school districts must raise in all. The state's education commissioner then sets the tax rate each district must levy. Districts may add a smaller tax of their own. As the last post explained, voucher money comes out of the state's part.
+In 2019-20, Florida's school funding formula gave public schools about $9,300 per student, in 2024-25 dollars. The state paid 56 percent and local school property taxes paid the rest. Each year, lawmakers set the formula's total and decide how much of it property taxes must raise. The state pays the rest.
 
-In 2007-08, the formula gave public schools about $10,500 per student, in 2024-25 dollars. The state and property taxes each paid about half. These figures are our calculation from the Department of Education's final funding reports and federal enrollment counts, adjusted for inflation with the federal consumer price index.
+Over the next five years, the state's school money rose $3.1 billion, according to the Department of Education. Vouchers took $2.8 billion of it. The state money left for public schools rose $270 million, or 2 percent. Prices rose about 24 percent over the same years. The number of public school students stayed about the same, at 2.86 million, according to federal data.
 
-Money per student fell in the recession that followed. By 2019-20, it was about $9,300 after inflation, and the state paid 56 percent. The property tax lawmakers required that year was $7.9 billion, about the same as in 2007-08 before inflation.
+Property taxes filled most of the gap. The value of property for school taxes rose by two-thirds. Lawmakers raised the property tax they require from districts from $7.9 billion to $10.4 billion, even as the tax rate fell by about a fifth. With districts' own taxes added, local money for public schools rose $3.6 billion, or 38 percent. These dollar figures are not adjusted for inflation.
 
-Then property values rose. From 2019-20 to 2024-25, the taxable value of property for school taxes rose by two-thirds, according to the department. Lawmakers raised the required property tax to $10.4 billion. The tax rate fell by about a fifth, but the higher values brought in more money. With districts' own taxes added, local money for public schools rose $3.6 billion, or 38 percent.
+After inflation, the state's money per public school student fell from about $5,250 to $4,340. Local money rose from about $4,070 to $4,540. In 2024-25, property taxes paid 51 percent. These per-student figures are our calculation from the department's final funding reports, federal enrollment counts and the federal consumer price index.
 
-Over the same years, the state's school money rose $3.1 billion. Vouchers took $2.8 billion of it. The part left for public schools rose $270 million, or 2 percent. These dollar figures are not adjusted for inflation. The number of public school students was about the same in both years, 2.86 million, according to federal data.
+In all, money per student fell about 5 percent, to about $8,900. Most of the drop came by 2022-23, when inflation was high and before vouchers were open to every child. Since then, the total has risen a little, because property taxes grew.
 
-After inflation, the state's money per public school student fell from about $5,250 to $4,340. Local money rose from about $4,070 to $4,540. By 2023-24, property taxes paid half the total. In 2024-25, they paid 51 percent.
+The cushion has limits. If property values flatten, lawmakers must add state money or let money per student fall. Vouchers are paid first: when the formula's money runs short during a year, the law pays vouchers in full and cuts what districts get, Senate staff wrote in 2025.
 
-The total fell about 5 percent, from about $9,300 to $8,900 per student. It fell to about $8,600 by 2022-23, when inflation was high and before vouchers were open to every child. It has risen a little since then, as property taxes grew.
+This year, Gov. Ron DeSantis pushed a constitutional amendment to cut homeowners' property taxes. In June, lawmakers changed it so that it does not apply to school taxes. Voters approved it on Nov. 3.
 
 Sen. Danny Burgess, a Zephyrhills Republican who chairs the Senate's budget committee for public schools, said in May that the new budget "increases per student funding by $150." That is about 1.6 percent, before inflation. Andrew Spar, president of the Florida Education Association, the state teachers union, said in 2025: "Draining dollars out of public schools leaves our public schools short."
 
-In 2007-08, the state and property taxpayers each paid about half. By 2024-25, property taxes paid the larger share, and the state's money per public school student was about a fifth lower after inflation. The next post looks at what this means for a school district, and whether it can cut its costs when students leave.
+In 2019-20, the state paid most of public schools' money. By 2024-25, property taxes paid more, and the state's part per student was about a sixth lower after inflation. The next post looks at what this means for a school district, and whether it can cut its costs when students leave.
 
 Sources are in the first comment.
 
@@ -47,12 +47,15 @@ Sources are in the first comment.
 
 Sources for this post:
 
-1. State and local money in the school funding formula, voucher deductions, the required property tax, tax rates and taxable values (and the image): Florida Department of Education, FEFP Final Calculations for 2007-08 (https://www.fldoe.org/file/7507/0077043-07-08fefp-finalcalc-1.pdf), 2019-20 (https://www.fldoe.org/file/7507/1920FEFPFinalCalc.pdf), 2022-23 (https://www.fldoe.org/file/7507/22-23FEFPFinalCalc.pdf), 2023-24 (https://www.fldoe.org/file/7507/23-24FEFPFinalCalc.pdf) and 2024-25 (https://cdn.fldoe.org/file/7507/2425FEFPFinal.pdf).
+1. State and local money in the school funding formula, voucher deductions, the required property tax, tax rates and taxable values (and the image): Florida Department of Education, FEFP Final Calculations for 2019-20 (https://www.fldoe.org/file/7507/1920FEFPFinalCalc.pdf), 2022-23 (https://www.fldoe.org/file/7507/22-23FEFPFinalCalc.pdf) and 2024-25 (https://cdn.fldoe.org/file/7507/2425FEFPFinal.pdf).
 2. How the required property tax is set: Section 1011.62(4), Florida Statutes. https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099%2F1011%2FSections%2F1011.62.html
-3. Public school enrollment (and the image): National Center for Education Statistics, Digest of Education Statistics, Table 36 (2012) for fall 2007 (https://nces.ed.gov/programs/digest/d12/tables/dt12_036.asp) and Table 203.20 (2023) for fall 2019 and 2022 (https://nces.ed.gov/programs/digest/d23/tables/dt23_203.20.asp); Common Core of Data state summaries for 2023-24 (https://nces.ed.gov/ccd/tables/202324_summary_2.asp) and 2024-25 (https://nces.ed.gov/ccd/tables/202425_summary_2.asp).
+3. Public school enrollment (and the image): National Center for Education Statistics, Digest of Education Statistics, Table 203.20 (2023) for fall 2019 and 2022 (https://nces.ed.gov/programs/digest/d23/tables/dt23_203.20.asp); Common Core of Data state summary for 2024-25 (https://nces.ed.gov/ccd/tables/202425_summary_2.asp).
 4. Inflation (and the image): U.S. Bureau of Labor Statistics, consumer price index for all urban consumers (CPI-U), semiannual averages, via the Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/CUUS0000SA0
-5. Sen. Burgess's statement and the Senate's per-student figures: Florida Senate, "Florida's Balanced Budget Holds the Line on Spending, Maintains Strong Reserves," May 26, 2026, with budget summary. https://flsenate.gov/PublishedContent/Offices/President/Budget_Release_and_Summary_Combined.pdf
-6. Andrew Spar's statement: Danielle Prieur, "DeSantis pitched a record-size education budget," Central Florida Public Media / WUSF, Feb. 4, 2025. https://www.wusf.org/education/2025-02-04/desantis-pitched-record-size-education-budget-florida-teacher-union-concerns
+5. Vouchers paid in full when the money runs short: Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, p. 21. https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF
+6. The property tax amendment and its exclusion of school taxes: CS/HJR 1-F (2026 Special Session F), bill history and House staff analysis, June 16, 2026 (https://flsenate.gov/Session/Bill/2026F/1); Bloomberg News, via Insurance Journal, "DeSantis Plan to Cut Florida Property Taxes Heads to Ballot—With Schools Removed," June 3, 2026 (https://www.insurancejournal.com/news/southeast/2026/06/03/872300.htm).
+7. Voters' approval: WUSF, "Florida voters approve Amendment 3 property tax reduction," Nov. 3, 2026. https://www.wusf.org/politics-issues/2026-11-03/florida-2026-election-results-voters-approve-amendment-3-property-tax-reduction
+8. Sen. Burgess's statement and the Senate's per-student figures: Florida Senate, "Florida's Balanced Budget Holds the Line on Spending, Maintains Strong Reserves," May 26, 2026, with budget summary. https://flsenate.gov/PublishedContent/Offices/President/Budget_Release_and_Summary_Combined.pdf
+9. Andrew Spar's statement: Danielle Prieur, "DeSantis pitched a record-size education budget," Central Florida Public Media / WUSF, Feb. 4, 2025. https://www.wusf.org/education/2025-02-04/desantis-pitched-record-size-education-budget-florida-teacher-union-concerns
 
 ---
 
@@ -70,37 +73,38 @@ Method for every per-student figure: (Total State Funding less the scholarship a
 
 | Claim in the post | Source and what it says |
 |---|---|
-| State money left after vouchers barely grew, 2019-20 to 2024-25 | $12,140.5M to $12,409.9M, up $269.4M (2.2 percent). Final Calculations, table above |
-| Local property taxes grew much faster; now more than half | Total Local Funding $9,415.0M to $12,986.4M, up $3,571.5M (37.9 percent); local share 51.1 percent in 2024-25 (table above) |
-| One formula; state budget plus local school property taxes | Each Final Calculation: "Total State Funding" plus "Total Local Funding" equals total FEFP funding. Section 1011.62, F.S. |
-| Legislature sets the total required property tax; the commissioner sets each district's rate | Section 1011.62(4)(a), F.S.: the Legislature prescribes the aggregate required local effort, and the Commissioner of Education computes and certifies each district's millage, applied to 96 percent of taxable value |
-| Districts may add a smaller tax of their own | 2024-25 Final Calculation: discretionary millage of 0.748 mills raised $2,609,307,687, against $10,377,115,280 in required local effort |
-| Voucher money comes out of the state's part | Final Calculations: "Adjustment for Family Empowerment Scholarships" deducted from the state share (post 5) |
-| 2007-08: about $10,500 per student, in 2024-25 dollars; about half and half | Table above: $10,479; local 48.6 percent, state 51.4 percent |
-| Money per student fell in the recession | Project spreadsheet, "Per student" sheet (same sources, calendar-year CPI): $10,501 (2007-08), $9,997 (2008-09), $8,611 (2011-12), in 2024-25 dollars |
-| 2019-20: about $9,300; state paid 56 percent | Table above: $9,315; state 56.3 percent |
-| Required property tax $7.9 billion in 2019-20, about the same as 2007-08 before inflation | Final Calculations: $7,856,925,320 (2019-20) at 3.888 mills; $7,902,582,747 (2007-08) at 4.843 mills |
-| Taxable value up two-thirds, 2019-20 to 2024-25 | School taxable value $2,169,716,073,407 (2019-20) to $3,633,728,396,941 (2024-25): up 67.5 percent |
-| Required property tax raised to $10.4 billion | 2024-25 Final Calculation: $10,377,115,280 (up 32.1 percent from 2019-20) |
-| Tax rate fell by about a fifth | 3.888 to 3.087 mills: down 20.6 percent |
-| Local money up $3.6 billion, 38 percent | Total Local Funding, table above |
-| State's school money up $3.1 billion; vouchers took $2.8 billion; the rest up $270 million, 2 percent | Total State Funding $12,466.8M to $15,583.7M (up $3,116.9M). Scholarship adjustments $326.3M to $3,173.8M (up $2,847.5M, 91 percent of the increase). Left: up $269.4M (2.2 percent) |
-| Not adjusted for inflation | Nominal, as reported |
-| 2.86 million students in both years | NCES: 2,858,461 (fall 2019); 2,859,600 (2024-25) |
-| State per student $5,250 to $4,340; local $4,070 to $4,540 | Table above: 5,246 to 4,340 (down 906); 4,068 to 4,541 (up 473) |
-| Property taxes paid half by 2023-24; 51 percent in 2024-25 | 2023-24: $12,310.5M / ($12,291.5M + $12,310.5M) = 50.04 percent. 2024-25: 51.1 percent |
-| Total fell about 5 percent, $9,300 to $8,900 | 9,315 to 8,881: down 434, 4.7 percent |
-| About $8,600 by 2022-23; inflation high; vouchers not yet open to every child | 8,584 (table). CPI-U rose 16.5 percent from 2019-20 to 2022-23 (257.23 to 299.69). Universal eligibility began in 2023-24 (Chapter 2023-16, Laws of Florida; post 2) |
-| Risen a little since, as property taxes grew | 8,584 to 8,881 (up 297); local per student up 493, state per student down 196 (table) |
+| Since 2019, vouchers took almost all new state school money | 2019-20 to 2024-25: Total State Funding up $3,116.9M; scholarship adjustments up $2,847.5M (91 percent). Final Calculations |
+| Public schools held close to even | Total per student, 2024-25 dollars: 9,315 to 8,881, down 4.7 percent (table above) |
+| 2019-20: about $9,300 per student; state 56 percent | Table above: $9,315; state 56.3 percent |
+| Lawmakers set the total and the required property tax; the state pays the rest | Section 1011.62(4), F.S.: the Legislature prescribes the aggregate required local effort; the commissioner certifies each district's millage. Each Final Calculation: a district's state share is its formula total less its required local effort and discretionary local funds |
+| State money up $3.1B; vouchers took $2.8B; the rest up $270M, 2 percent | Total State Funding $12,466,845,135 to $15,583,715,574 (up $3,116.9M). Scholarship adjustments $326,311,176 (McKay $223,447,146 + FES $102,864,030) to $3,173,823,878 (up $2,847.5M). Left: $12,140.5M to $12,409.9M (up $269.4M, 2.2 percent) |
+| Prices rose about 24 percent | CPI-U school-year index 257.23 (2019-20) to 317.73 (2024-25): up 23.5 percent |
+| 2.86 million students | NCES: 2,858,461 (fall 2019); 2,859,600 (2024-25) |
+| Taxable value up two-thirds | School taxable value $2,169,716,073,407 to $3,633,728,396,941: up 67.5 percent |
+| Required property tax $7.9B to $10.4B; rate down about a fifth | Required local effort $7,856,925,320 at 3.888 mills (2019-20); $10,377,115,280 at 3.087 mills (2024-25); rate down 20.6 percent |
+| Districts' own taxes | 2024-25: discretionary 0.748 mills raised $2,609,307,687 (Final Calculation) |
+| Local money up $3.6B, 38 percent | Total Local Funding $9,414,955,038 to $12,986,422,967: up $3,571.5M, 37.9 percent |
+| Nominal | As reported |
+| State per student $5,250 to $4,340; local $4,070 to $4,540; 51 percent | Table above: 5,246 to 4,340; 4,068 to 4,541; local share 51.1 percent |
+| Down about 5 percent, to about $8,900 | 9,315 to 8,881 |
+| Most of the drop by 2022-23; high inflation; before universal vouchers | 8,584 in 2022-23 (down 731 from 2019-20; then up 297 by 2024-25). CPI-U up 16.5 percent, 2019-20 to 2022-23. Universal eligibility began 2023-24 (Chapter 2023-16, Laws of Florida) |
+| Risen since because property taxes grew | 2022-23 to 2024-25: local per student up 493, state per student down 196 |
+| If values flatten, lawmakers must add state money or let money per student fall | Follows from the formula: total = state share + local funding, with the total set in the budget each year (s. 1011.62, F.S.). Our reading of the statute, stated as a condition |
+| Vouchers paid in full; districts cut; Senate staff, 2025 | CS/SB 318 analysis, Dec. 12, 2025, p. 21: "Under current law, only school district FEFP funding is prorated, FES scholarship awards are not impacted." |
+| Gov. DeSantis's amendment; lawmakers took school taxes out in June | Bloomberg via Insurance Journal, June 3, 2026: committees "amended the proposal on Monday to exclude school districts." Enacted CS/HJR 1-F (filed with the Secretary of State June 16, 2026); House staff analysis: the new exemption applies to "non-school taxes only"; adopted amendment 981571: "For all levies other than school district levies" |
+| Voters approved it Nov. 3 | WUSF, Nov. 3, 2026: nearly 62 percent yes (60 percent needed); "The tax reduction will affect homestead exemptions on the property taxes that don't go toward schools." |
 | Sen. Burgess's title and quote | Senate release, May 26, 2026: Sen. Danny Burgess (R-Zephyrhills), Chair of the Senate Appropriations Committee on Pre-K-12 Education: "This level of funding increases per student funding by $150 and increases the Base Student Allocation by $85." |
-| About 1.6 percent, before inflation | Senate budget summary: total funds per student $9,187.36 to $9,337.67, up $150.31; 150.31 / 9,187.36 = 1.64 percent. Nominal |
-| Spar quote | WUSF, Feb. 4, 2025: "Draining dollars out of public schools leaves our public schools short." Spar is FEA president (same article) |
-| State's money per student about a fifth lower than 2007-08 | 5,390 to 4,340: down 19.5 percent |
+| About 1.6 percent, before inflation | Senate budget summary: $9,187.36 to $9,337.67 per student, up $150.31 (1.64 percent). Nominal |
+| Spar quote | WUSF, Feb. 4, 2025: "Draining dollars out of public schools leaves our public schools short." |
+| State's part per student about a sixth lower | 5,246 to 4,340: down 17.3 percent |
 
 ---
 
 ## Notes: details kept out of the main text
 
+- **2007-08 (in draft 1's text, cut in draft 2).** About $10,500 per student in 2024-25 dollars, state 51 percent and local 49 percent (table above). The required local effort was $7,902,582,747 at 4.843 mills, about the same in dollars as 2019-20 (2007-08 Final Calculation, https://www.fldoe.org/file/7507/0077043-07-08fefp-finalcalc-1.pdf). Enrollment 2,666,811 (NCES Digest 2012, Table 36). Money per student fell in the recession and had not recovered by 2019-20.
+- **The school share of the amendment, had it applied.** Bloomberg reported that a fiscal analysis put the cut to school district property tax revenue at $3.4 billion in 2027 and $5.6 billion in 2028 if schools had been included. The primary analysis was not found; the House staff analysis of the enacted version estimates only non-school losses ($4.95 billion in 2027-28, $8.78 billion in 2028-29, $11.86 billion recurring). Use only after finding the primary estimate.
+- **No court-set floor.** In Citizens for Strong Schools v. State Board of Education (Fla. Jan. 4, 2019, SC18-67), a divided court rejected a broad challenge to school funding under Article IX, section 1, holding that the plaintiffs had not offered a manageable standard; Justices Pariente and Lewis dissented. Wording and vote to confirm from the opinion before use.
 - **2025-26 (preliminary, not in the text).** The 2025-26 Final Calculation (Oct. 5, 2026) shows Total State Funding $15,573,752,524, Family Empowerment adjustment $3,906,797,314, state left $11,666,955,210, Total Local Funding $13,658,001,644, required local effort $10,909,379,489 at 3.092 mills, taxable value $3,827,738,074,700. Local share 53.9 percent. With the Education Estimating Conference's public enrollment of about 2,790,700 (not yet an NCES count) and CPI-U (324.000+330.724)/2 = 327.36: state about $4,060, local about $4,750, total about $8,810 per student in 2024-25 dollars. Use once NCES publishes the 2025-26 count.
 - **Why the Senate's per-student figure differs from ours.** The Senate's $9,337.67 is total FEFP funds divided by all students in the formula, which since 2023-24 include Family Empowerment scholarship students (2025-26 unweighted FTE: 3,178,422.96, against about 2.79 million public students). Ours removes voucher money and divides by public school students only. Both are nominal in the Senate's case.
 - **The recession years.** Local money paid more than half of the formula in 2008-09 (52.6 percent) and 2009-10 (53.1 percent), when property tax collections lagged the fall in state revenue (project spreadsheet, "State vs local" sheet). Those years also had about $0.9 billion a year in federal stimulus money, excluded here. So 2023-24 is not the first year local money passed half.
@@ -115,6 +119,15 @@ Method for every per-student figure: (Total State Funding less the scholarship a
 ---
 
 ## Editor's notes
+
+**Draft 2 (5 Nov 2026, RJ: "I am not sure what the point is... what are the implications or risks?"):**
+- New headline and point: public schools held close to even only because property taxes rose with values; that cushion has limits.
+- Opens on 2019-20, not 2007-08 (moved to the notes), to cut numbers and start where vouchers began to grow.
+- The formula is two sentences. The equalization and recession details stay in the notes.
+- New paragraphs on the risk: if values flatten, lawmakers must add state money or let money per student fall; vouchers are paid first; the 2026 amendment, which lawmakers changed so it does not touch school taxes, and voters' approval.
+- Closing: "about a sixth lower" (17.3 percent). In the thread I had said "about a fifth" for the state money left; corrected.
+- Image: 2007-08 bar dropped so the image matches the text.
+- About 525 words.
 
 **Draft 1 (5 Nov 2026):**
 - One idea: the state's part per public school student fell after inflation while local property taxes rose, so local taxes now pay the larger share.
