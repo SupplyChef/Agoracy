@@ -33,7 +33,7 @@ This has limits. If property values stop rising, lawmakers must add state money 
 
 This year, Gov. Ron DeSantis pushed an amendment to cut homeowners' property taxes. Lawmakers took school taxes out of it. Voters approved it on Nov. 3.
 
-Sen. Danny Burgess, a Zephyrhills Republican who leads the Senate's school budget committee, said in May that the new budget "increases per student funding by $150." That figure is not adjusted for inflation. Andrew Spar, who heads the state teachers union, said in 2025: "Draining dollars out of public schools leaves our public schools short."
+Sen. Danny Burgess, a Zephyrhills Republican who leads the Senate's school budget committee, said in May that the new budget "increases per student funding by $150." That is an increase of less than 2 percent. Andrew Spar, who heads the state teachers union, said in 2025: "Draining dollars out of public schools leaves our public schools short."
 
 In 2019-20, the state paid most of the cost of public schools. Now property owners pay more than half. The next post asks what this means for a school district, and whether it can cut costs when students leave.
 
@@ -119,6 +119,8 @@ Method for every per-student figure: (Total State Funding less the scholarship a
 ---
 
 ## Editor's notes
+
+**Draft 4 fix (6 Nov 2026, RJ: the inflation sentence after Sen. Burgess's quote did not fit):** replaced "That figure is not adjusted for inflation" with "That is an increase of less than 2 percent" ($150.31 / $9,187.36 = 1.64 percent; see fact-check table).
 
 **Draft 4 addition (6 Nov 2026, RJ asked where charter schools fall):** one sentence after the shortfall rule: charter schools are public schools, so they are cut along with their districts. Source: s. 1002.33(1) and (17), F.S.
 
