@@ -29,7 +29,7 @@ Property taxes made up most of the gap. Property values rose by about two-thirds
 
 After inflation, money per public school student fell about 5 percent, by our calculation from state and federal data. Most of the drop came by 2022-23, when inflation was high. Vouchers were not yet open to every child.
 
-This has limits. If property values stop rising, lawmakers must add state money or let money per student fall. When money runs short during a year, the law pays vouchers in full and cuts districts, Senate staff wrote in 2025.
+This has limits. If property values stop rising, lawmakers must add state money or let money per student fall. When money runs short during a year, the law pays vouchers in full and cuts districts, Senate staff wrote in 2025. Charter schools are public schools in Florida, so they are cut along with their districts.
 
 This year, Gov. Ron DeSantis pushed an amendment to cut homeowners' property taxes. Lawmakers took school taxes out of it. Voters approved it on Nov. 3.
 
@@ -50,10 +50,11 @@ Sources for this post:
 3. Public school enrollment (and the image): National Center for Education Statistics, Digest of Education Statistics, Table 203.20 (2023) for fall 2019 and 2022 (https://nces.ed.gov/programs/digest/d23/tables/dt23_203.20.asp); Common Core of Data state summary for 2024-25 (https://nces.ed.gov/ccd/tables/202425_summary_2.asp).
 4. Inflation (and the image): U.S. Bureau of Labor Statistics, consumer price index for all urban consumers (CPI-U), semiannual averages, via the Federal Reserve Bank of St. Louis. https://fred.stlouisfed.org/series/CUUS0000SA0
 5. Vouchers paid in full when the money runs short: Florida Senate bill analysis, CS/SB 318, Dec. 12, 2025, p. 21. https://flsenate.gov/Session/Bill/2026/318/Analyses/2026s00318.ap.PDF
-6. The property tax amendment and its exclusion of school taxes: CS/HJR 1-F (2026 Special Session F), bill history and House staff analysis, June 16, 2026 (https://flsenate.gov/Session/Bill/2026F/1); Bloomberg News, via Insurance Journal, "DeSantis Plan to Cut Florida Property Taxes Heads to Ballot—With Schools Removed," June 3, 2026 (https://www.insurancejournal.com/news/southeast/2026/06/03/872300.htm).
-7. Voters' approval: WUSF, "Florida voters approve Amendment 3 property tax reduction," Nov. 3, 2026. https://www.wusf.org/politics-issues/2026-11-03/florida-2026-election-results-voters-approve-amendment-3-property-tax-reduction
-8. Sen. Burgess's statement and the Senate's per-student figures: Florida Senate, "Florida's Balanced Budget Holds the Line on Spending, Maintains Strong Reserves," May 26, 2026, with budget summary. https://flsenate.gov/PublishedContent/Offices/President/Budget_Release_and_Summary_Combined.pdf
-9. Andrew Spar's statement: Danielle Prieur, "DeSantis pitched a record-size education budget," Central Florida Public Media / WUSF, Feb. 4, 2025. https://www.wusf.org/education/2025-02-04/desantis-pitched-record-size-education-budget-florida-teacher-union-concerns
+6. Charter schools are public schools and get a share of their district's formula money, recalculated during the year: Section 1002.33(1) and (17), Florida Statutes. https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1002/Sections/1002.33.html
+7. The property tax amendment and its exclusion of school taxes: CS/HJR 1-F (2026 Special Session F), bill history and House staff analysis, June 16, 2026 (https://flsenate.gov/Session/Bill/2026F/1); Bloomberg News, via Insurance Journal, "DeSantis Plan to Cut Florida Property Taxes Heads to Ballot—With Schools Removed," June 3, 2026 (https://www.insurancejournal.com/news/southeast/2026/06/03/872300.htm).
+8. Voters' approval: WUSF, "Florida voters approve Amendment 3 property tax reduction," Nov. 3, 2026. https://www.wusf.org/politics-issues/2026-11-03/florida-2026-election-results-voters-approve-amendment-3-property-tax-reduction
+9. Sen. Burgess's statement and the Senate's per-student figures: Florida Senate, "Florida's Balanced Budget Holds the Line on Spending, Maintains Strong Reserves," May 26, 2026, with budget summary. https://flsenate.gov/PublishedContent/Offices/President/Budget_Release_and_Summary_Combined.pdf
+10. Andrew Spar's statement: Danielle Prieur, "DeSantis pitched a record-size education budget," Central Florida Public Media / WUSF, Feb. 4, 2025. https://www.wusf.org/education/2025-02-04/desantis-pitched-record-size-education-budget-florida-teacher-union-concerns
 
 ---
 
@@ -89,6 +90,7 @@ Method for every per-student figure: (Total State Funding less the scholarship a
 | Risen since because property taxes grew | 2022-23 to 2024-25: local per student up 493, state per student down 196 |
 | If values flatten, lawmakers must add state money or let money per student fall | Follows from the formula: total = state share + local funding, with the total set in the budget each year (s. 1011.62, F.S.). Our reading of the statute, stated as a condition |
 | Vouchers paid in full; districts cut; Senate staff, 2025 | CS/SB 318 analysis, Dec. 12, 2025, p. 21: "Under current law, only school district FEFP funding is prorated, FES scholarship awards are not impacted." |
+| Charter schools are cut along with their districts | s. 1002.33(1), F.S.: "All charter schools in Florida are public schools and shall be part of the state's program of public education." s. 1002.33(17): charter students are "funded ... the same as students enrolled in other public schools in a school district"; the sponsor includes each charter school's FTE in its report; (17)(b)1 sets a district-sponsored charter's share as district FEFP operating funds divided by the district's funded weighted FTE, times the charter's weighted FTE; "Total funding for each charter school shall be recalculated during the year to reflect the revised calculations." So a proration of district FEFP funds lowers the charter's share. Our reading of the statute; no record found of a charter-specific proration amount |
 | Gov. DeSantis's amendment; lawmakers took school taxes out in June | Bloomberg via Insurance Journal, June 3, 2026: committees "amended the proposal on Monday to exclude school districts." Enacted CS/HJR 1-F (filed with the Secretary of State June 16, 2026); House staff analysis: the new exemption applies to "non-school taxes only"; adopted amendment 981571: "For all levies other than school district levies" |
 | Voters approved it Nov. 3 | WUSF, Nov. 3, 2026: nearly 62 percent yes (60 percent needed); "The tax reduction will affect homestead exemptions on the property taxes that don't go toward schools." |
 | Sen. Burgess's title and quote | Senate release, May 26, 2026: Sen. Danny Burgess (R-Zephyrhills), Chair of the Senate Appropriations Committee on Pre-K-12 Education: "This level of funding increases per student funding by $150 and increases the Base Student Allocation by $85." |
@@ -117,6 +119,8 @@ Method for every per-student figure: (Total State Funding less the scholarship a
 ---
 
 ## Editor's notes
+
+**Draft 4 addition (6 Nov 2026, RJ asked where charter schools fall):** one sentence after the shortfall rule: charter schools are public schools, so they are cut along with their districts. Source: s. 1002.33(1) and (17), F.S.
 
 **Draft 4 (6 Nov 2026, RJ: "tighten up... simpler, shorter"):**
 - Same facts and order; shorter sentences and plainer words throughout.
