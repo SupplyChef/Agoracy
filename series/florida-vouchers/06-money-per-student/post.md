@@ -9,7 +9,7 @@ updated: 2026-11-06
 
 # Post 6 of 12: Public schools' money per student, and the property tax backstop
 
-Draft 3, 6 Nov 2026. Fewer numbers, at RJ's request. Plain declarative prose, in date order. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 4, 6 Nov 2026. Shorter, simpler sentences, at RJ's request. Plain declarative prose, in date order. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -19,23 +19,23 @@ Florida vouchers, 6 of 12
 
 Florida's Public Schools Now Lean on Rising Property Values
 
-Since 2019, vouchers have taken almost all of the new state money for Florida's schools. Public schools held close to even only because local property taxes rose with property values. That works only as long as values keep rising and school taxes stay in place.
+Since 2019, vouchers have taken almost all new state money for Florida's schools. Public schools held about even because property taxes rose. That works only while property values keep rising.
 
-Florida pays for public schools with a mix of state money and local property taxes. Each year, lawmakers set the total and decide how much of it property taxes must raise. The state pays the rest. Vouchers come out of the state's part.
+Florida pays for public schools with state money and local property taxes. Each year, lawmakers set the total and how much property taxes must raise. The state pays the rest. Vouchers come out of the state's part.
 
-From 2019-20 to 2024-25, the state's school money rose $3.1 billion. Vouchers took $2.8 billion of it, according to the Department of Education. What was left for public schools barely grew, while prices rose by about a quarter. The number of public school students stayed about the same.
+From 2019-20 to 2024-25, the state added $3.1 billion for schools. Vouchers took $2.8 billion of it, according to the Department of Education. The state's money for public schools barely grew. Prices rose by about a quarter. The number of public school students stayed about the same.
 
-Over the same years, property values rose by about two-thirds. Lawmakers lowered the school tax rate, but not as fast as values rose, so property taxes brought in much more. That made up most of what the state did not add. By 2024-25, property taxes paid more than half of public schools' money. In 2019-20, they had paid less than half.
+Property taxes made up most of the gap. Property values rose by about two-thirds. Lawmakers cut the school tax rate, but by less than values rose, so property taxes brought in much more. By 2024-25, they paid more than half of public schools' money. In 2019-20, they had paid less than half.
 
-In all, money per public school student fell about 5 percent after inflation, by our calculation from state and federal data. Most of that drop came by 2022-23, when inflation was high and before vouchers were open to every child.
+After inflation, money per public school student fell about 5 percent, by our calculation from state and federal data. Most of the drop came by 2022-23, when inflation was high. Vouchers were not yet open to every child.
 
-The cushion has limits. If property values stop rising, lawmakers must add state money or let money per student fall. And when money runs short during a year, the law pays vouchers in full and cuts what districts get, Senate staff wrote in 2025.
+This has limits. If property values stop rising, lawmakers must add state money or let money per student fall. When money runs short during a year, the law pays vouchers in full and cuts districts, Senate staff wrote in 2025.
 
-This year, Gov. Ron DeSantis pushed a constitutional amendment to cut homeowners' property taxes. Lawmakers changed it so that it does not apply to school taxes. Voters approved it on Nov. 3.
+This year, Gov. Ron DeSantis pushed an amendment to cut homeowners' property taxes. Lawmakers took school taxes out of it. Voters approved it on Nov. 3.
 
-Sen. Danny Burgess, a Zephyrhills Republican who chairs the Senate's budget committee for public schools, said in May that the new budget "increases per student funding by $150," a figure not adjusted for inflation. Andrew Spar, president of the Florida Education Association, the state teachers union, said in 2025: "Draining dollars out of public schools leaves our public schools short."
+Sen. Danny Burgess, a Zephyrhills Republican who leads the Senate's school budget committee, said in May that the new budget "increases per student funding by $150." That figure is not adjusted for inflation. Andrew Spar, who heads the state teachers union, said in 2025: "Draining dollars out of public schools leaves our public schools short."
 
-In 2019-20, the state paid most of the cost of public schools. Now property owners pay more than half. The next post looks at what this means for a school district, and whether it can cut its costs when students leave.
+In 2019-20, the state paid most of the cost of public schools. Now property owners pay more than half. The next post asks what this means for a school district, and whether it can cut costs when students leave.
 
 Sources are in the first comment.
 
@@ -117,6 +117,12 @@ Method for every per-student figure: (Total State Funding less the scholarship a
 ---
 
 ## Editor's notes
+
+**Draft 4 (6 Nov 2026, RJ: "tighten up... simpler, shorter"):**
+- Same facts and order; shorter sentences and plainer words throughout.
+- Summary drops "and school taxes stay in place" (the amendment paragraph covers it).
+- Spar described as "who heads the state teachers union" (Florida Education Association named in the first comment).
+- About 380 words.
 
 **Draft 3 (6 Nov 2026, RJ: "too many numbers. explain things simply."):**
 - Cut from the text (all still in the fact-check table): $9,300 and the 56 percent for 2019-20; the $270 million and 2 percent; 2.86 million students; the $7.9 and $10.4 billion required tax; the rate's fall by a fifth; the $3.6 billion and 38 percent; the per-student state and local figures; $8,900; 51 percent (now "more than half"); 1.6 percent; "a sixth lower".
