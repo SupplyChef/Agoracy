@@ -4,12 +4,12 @@ series: florida-vouchers
 number: 6
 status: draft
 image: image.png
-updated: 2026-11-06
+updated: 2026-11-16
 ---
 
 # Post 6 of 12: Public schools' money per student, and the property tax backstop
 
-Draft 4, 6 Nov 2026. Shorter, simpler sentences, at RJ's request. Plain declarative prose, in date order. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
+Draft 5, 16 Nov 2026. Organized around how the money works today, in connected prose, at RJ's request. Parts: the post text, the first comment (sources), the fact-check table, the notes (details kept out of the main text), and the editor's notes. Image: [image.png](image.png).
 
 ---
 
@@ -19,23 +19,25 @@ Florida vouchers, 6 of 12
 
 Florida's Public Schools Now Lean on Rising Property Values
 
-Since 2019, vouchers have taken almost all new state money for Florida's schools. Public schools held about even because property taxes rose. That works only while property values keep rising.
+Property taxes now pay more than half of what Florida's public schools get through the state's school funding formula. That works as long as property values keep rising.
 
-Florida pays for public schools with state money and local property taxes. Each year, lawmakers set the total and how much property taxes must raise. The state pays the rest. Vouchers come out of the state's part.
+In 2024-25, Florida's public schools received $13.0 billion from local property taxes through the state's school funding formula and $12.4 billion in state money, according to the Department of Education. That was about $8,900 per student, by our calculation, and property taxes paid 51 percent of it. Five years earlier, in 2019-20, the state had paid about 56 percent.
 
-From 2019-20 to 2024-25, the state added $3.1 billion for schools. Vouchers took $2.8 billion of it, according to the Department of Education. The state's money for public schools barely grew. Prices rose by about a quarter. The number of public school students stayed about the same.
+The shift comes from how the formula works. Each year, lawmakers set the formula's total and how much property taxes must raise. The state pays the rest. As the last post described, Family Empowerment scholarships come out of the state's part. Tax Credit scholarships are paid outside the formula, through tax credits.
 
-Property taxes made up most of the gap. Property values rose by about two-thirds. Lawmakers cut the school tax rate, but by less than values rose, so property taxes brought in much more. By 2024-25, they paid more than half of public schools' money. In 2019-20, they had paid less than half.
+Over the past five years, that state part has grown, but scholarships took nearly all of the growth. From 2019-20 to 2024-25, the state added $3.1 billion to the formula, and scholarships took $2.8 billion of it, according to the Department of Education. State money left for public schools barely moved.
 
-After inflation, money per public school student fell about 5 percent, by our calculation from state and federal data. Most of the drop came by 2022-23, when inflation was high. Vouchers were not yet open to every child.
+Property taxes filled the gap. Florida's property values rose by about two-thirds over those years. Lawmakers cut the school tax rate by about a fifth, less than values rose, so the same taxes brought in much more. That is how property owners came to pay more than half.
 
-This has limits. If property values stop rising, lawmakers must add state money or let money per student fall. When money runs short during a year, the law pays vouchers in full and cuts districts, Senate staff wrote in 2025. Charter schools are public schools in Florida, so they are cut along with their districts.
+It has not been enough to keep pace with prices. After inflation, money per public school student is about 5 percent lower than in 2019-20, by our calculation from state and federal data. Most of the drop came by 2022-23, when inflation was high and before vouchers were open to every child. The number of public school students has stayed about the same.
 
-This year, Gov. Ron DeSantis pushed an amendment to cut homeowners' property taxes. Lawmakers took school taxes out of it. Voters approved it on Nov. 3.
+The arrangement depends on property values. If they stop rising, lawmakers must add state money or let money per student fall. And when the state's school money runs short during a year, the law pays scholarships in full and cuts districts, as the last post described. Charter schools are public schools in Florida, so they are cut along with their districts.
 
-Sen. Danny Burgess, a Zephyrhills Republican who leads the Senate's school budget committee, said in May that the new budget "increases per student funding by $150." That is an increase of less than 2 percent. Andrew Spar, who heads the state teachers union, said in 2025: "Draining dollars out of public schools leaves our public schools short."
+This year, property taxes became a political fight. Gov. Ron DeSantis pushed a constitutional amendment to cut homeowners' property taxes. Lawmakers took school taxes out of it before it went to voters, who approved it on Nov. 3. School property taxes are not directly affected.
 
-In 2019-20, the state paid most of the cost of public schools. Now property owners pay more than half. The next post asks what this means for a school district, and whether it can cut costs when students leave.
+The people who write the budget and those who teach under it describe the result differently. Sen. Danny Burgess, a Zephyrhills Republican who leads the Senate's school budget committee, said in May that the new budget "increases per student funding by $150." That is an increase of less than 2 percent, before inflation. Andrew Spar, who heads the state teachers union, said in 2025: "Draining dollars out of public schools leaves our public schools short on the ability to really meet the needs of every child."
+
+In 2024-25, property owners paid $13.0 billion of public schools' formula money, more than the state did. The next post asks what this means for a school district, and whether it can cut costs when students leave.
 
 Sources are in the first comment.
 
@@ -95,7 +97,15 @@ Method for every per-student figure: (Total State Funding less the scholarship a
 | Voters approved it Nov. 3 | WUSF, Nov. 3, 2026: nearly 62 percent yes (60 percent needed); "The tax reduction will affect homestead exemptions on the property taxes that don't go toward schools." |
 | Sen. Burgess's title and quote | Senate release, May 26, 2026: Sen. Danny Burgess (R-Zephyrhills), Chair of the Senate Appropriations Committee on Pre-K-12 Education: "This level of funding increases per student funding by $150 and increases the Base Student Allocation by $85." |
 | About 1.6 percent, before inflation | Senate budget summary: $9,187.36 to $9,337.67 per student, up $150.31 (1.64 percent). Nominal |
-| Spar quote | WUSF, Feb. 4, 2025: "Draining dollars out of public schools leaves our public schools short." |
+| 2024-25: $13.0B from property taxes and $12.4B state money; about $8,900 per student; property taxes 51 percent | Table above, 2024-25: Total Local Funding $12,986,422,967; state left $12,409,891,696; $8,881 per student; local share 51.1 percent |
+| 2019-20: the state paid about 56 percent | Table above: state 56.3 percent |
+| Family Empowerment comes out of the state's part; Tax Credit is paid outside the formula through tax credits | Final Calculations ("Adjustment for Family Empowerment Scholarships" deducted from Total State Funding); s. 1002.395(14): credit of up to one dollar "for each dollar paid to an eligible nonprofit scholarship-funding organization" (post 5) |
+| "Scholarships took nearly all of the growth" | $2,847.5M of $3,116.9M = 91 percent (row below). "Scholarships" because the 2019-20 base includes McKay |
+| State money left for public schools barely moved | $12,140.5M to $12,409.9M, up 2.2 percent, before inflation |
+| Lawmakers cut the school tax rate by about a fifth | Required local effort 3.888 mills to 3.087 mills: down 20.6 percent |
+| Burgess quote, title, date; "less than 2 percent" | Senate release, May 26, 2026 (re-read 16 Nov): "This level of funding increases per student funding by $150 and increases the Base Student Allocation by $85." Sen. Danny Burgess (R-Zephyrhills), Chair, Appropriations Committee on Pre-K-12 Education. $9,187.36 to $9,337.67, up 1.64 percent |
+| Amendment approved Nov. 3; school property taxes not directly affected | WUSF, Nov. 3, 2026 (re-read 16 Nov): nearly 62 percent yes, 60 percent needed; the new homestead changes apply to taxes that do not fund schools. The existing first $25,000 exemption still applies to all property taxes, including school taxes, which is why the post says "not directly affected" |
+| Spar quote | WUSF, Feb. 4, 2025 (re-read 16 Nov): "Draining dollars out of public schools leaves our public schools short on the ability to really meet the needs of every child." Draft 4 ended the quote at "short." with a closing period, which cut the sentence; draft 5 quotes it in full |
 | State's part per student about a sixth lower | 5,246 to 4,340: down 17.3 percent |
 
 ---
@@ -119,6 +129,14 @@ Method for every per-student figure: (Total State Funding less the scholarship a
 ---
 
 ## Editor's notes
+
+**Draft 5 (16 Nov 2026, merged from drafts/today-narrative/post-06.md; RJ approved the narrative version):**
+- Rewritten around how the money works today, in connected prose: opens on the 2024-25 split ($13.0 billion in property taxes, $12.4 billion in state money), then how the formula splits the money, why property taxes pay more, what inflation has done, what could change it, the amendment, two voices, and a closing that returns to the $13.0 billion.
+- "Vouchers" made specific: Family Empowerment comes out of the state's part; Tax Credit is outside the formula. "Scholarships took $2.8 billion," since the 2019-20 base includes McKay.
+- Fix from the check: the Spar quote was cut mid-sentence with a closing period. It is now quoted in full.
+- Checked again for this draft: the Burgess release, the two WUSF articles; all other figures are from the table above.
+- Image unchanged (state vs local money per public student). Check that its years match the text, which now leads with 2024-25.
+- 550 words of post text.
 
 **Draft 4 fix (6 Nov 2026, RJ: the inflation sentence after Sen. Burgess's quote did not fit):** replaced "That figure is not adjusted for inflation" with "That is an increase of less than 2 percent" ($150.31 / $9,187.36 = 1.64 percent; see fact-check table).
 
